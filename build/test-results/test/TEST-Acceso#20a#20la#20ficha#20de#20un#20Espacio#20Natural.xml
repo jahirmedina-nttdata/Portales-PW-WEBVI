@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Acceso a la ficha de un Espacio Natural" tests="8" skipped="0" failures="0" errors="0" timestamp="2021-12-08T08:00:45" hostname="TRJ-8YJ4473" time="38.925">
+  <properties/>
+  <testcase name="CAPF005 - Cargando el Navegador" classname="Acceso a la ficha de un Espacio Natural" time="0.335"/>
+  <testcase name="CAPF005 - Se haya cargado la pagina" classname="Acceso a la ficha de un Espacio Natural" time="11.531"/>
+  <testcase name="CAPF005 - Aceptar las cookies" classname="Acceso a la ficha de un Espacio Natural" time="0.51"/>
+  <testcase name="CAPF005 - Ingresar el Nombre de Usuario &quot;cmaot_testing&quot;" classname="Acceso a la ficha de un Espacio Natural" time="0.459"/>
+  <testcase name="CAPF005 - Ingresar la Clave de Usuario &quot;Liferay*21&quot;" classname="Acceso a la ficha de un Espacio Natural" time="0.439"/>
+  <testcase name="CAPF005 - Acceder" classname="Acceso a la ficha de un Espacio Natural" time="0.608"/>
+  <testcase name="CAPF005 - Cambiar a &quot;https://www.juntadeandalucia.es/medioambiente/portal/web/ventanadelvisitante/detalle-buscador-mapa/-/asset_publisher/Jlbxh2qB3NwR/content/do-c3-b1ana-18/255035&quot; Especifica" classname="Acceso a la ficha de un Espacio Natural" time="24.004"/>
+  <testcase name="classMethod" classname="Acceso a la ficha de un Espacio Natural" time="39.526"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[Starting ChromeDriver 95.0.4638.69 (6a1600ed572fedecd573b6c2b90a22fe6392a410-refs/branch-heads/4638@{#984}) on port 21391
+Only local connections are allowed.
+Please see https://chromedriver.chromium.org/security-considerations for suggestions on keeping ChromeDriver safe.
+ChromeDriver was started successfully.
+[1638950448.728][WARNING]: This version of ChromeDriver has not been tested with Chrome version 96.
+Dec 08, 2021 3:00:49 AM org.openqa.selenium.remote.ProtocolHandshake createSession
+INFO: Detected dialect: W3C
+]]></system-err>
+</testsuite>

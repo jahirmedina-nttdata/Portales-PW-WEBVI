@@ -1,0 +1,492 @@
+<html class="ltr" dir="ltr" lang="es-ES"><head>
+	
+    <title>Buscador de Espacios Naturales y Equipamientos - Ventana del Visitante </title>
+    
+	<meta content="initial-scale=1.0, width=device-width" name="viewport">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<meta content="text/html; charset=UTF-8" http-equiv="content-type">
+
+
+
+
+
+
+
+
+
+
+
+
+<link href="https://servintegra.cma.junta-andalucia.es/medioambiente/portal/o/dynamic-data-mapping-form-renderer/css/main.css?browserId=other&amp;themeId=temaventanadelvisitante_WAR_ventanatheme&amp;minifierType=css&amp;languageId=es_ES&amp;b=7010&amp;t=1636968098712" rel="stylesheet" type="text/css">
+<link href="https://servintegra.cma.junta-andalucia.es/medioambiente/portal/o/mentions-web/css/mentions.css?browserId=other&amp;themeId=temaventanadelvisitante_WAR_ventanatheme&amp;minifierType=css&amp;languageId=es_ES&amp;b=7010&amp;t=1636968098712" rel="stylesheet" type="text/css">
+
+
+<link href="https://servintegra.cma.junta-andalucia.es/medioambiente/portal/o/ventana-theme/images/favicon.ico" rel="icon">
+
+
+
+
+
+	<link data-senna-track="temporary" href="https://lrwebint.cma.junta-andalucia.es/medioambiente/portal/web/ventanadelvisitante/buscador-de-espacios-naturales-y-equipamientos" rel="canonical">
+
+	
+
+			
+				<link data-senna-track="temporary" href="https://lrwebint.cma.junta-andalucia.es/medioambiente/portal/web/ventanadelvisitante/buscador-de-espacios-naturales-y-equipamientos" hreflang="x-default" rel="alternate">
+			
+
+			<link data-senna-track="temporary" href="https://lrwebint.cma.junta-andalucia.es/medioambiente/portal/web/ventanadelvisitante/buscador-de-espacios-naturales-y-equipamientos" hreflang="es-ES" rel="alternate">
+
+	
+
+			
+
+			<link data-senna-track="temporary" href="https://lrwebint.cma.junta-andalucia.es/medioambiente/portal/fr/web/ventanadelvisitante/buscador-de-espacios-naturales-y-equipamientos" hreflang="fr-FR" rel="alternate">
+
+	
+
+			
+
+			<link data-senna-track="temporary" href="https://lrwebint.cma.junta-andalucia.es/medioambiente/portal/en/web/ventanadelvisitante/buscador-de-espacios-naturales-y-equipamientos" hreflang="en-GB" rel="alternate">
+
+	
+
+			
+
+			<link data-senna-track="temporary" href="https://lrwebint.cma.junta-andalucia.es/medioambiente/portal/de/web/ventanadelvisitante/buscador-de-espacios-naturales-y-equipamientos" hreflang="de-DE" rel="alternate">
+
+	
+
+
+
+
+
+<link class="lfr-css-file" data-senna-track="temporary" href="https://servintegra.cma.junta-andalucia.es/medioambiente/portal/o/ventana-theme/css/aui.css?browserId=other&amp;themeId=temaventanadelvisitante_WAR_ventanatheme&amp;minifierType=css&amp;languageId=es_ES&amp;b=7010&amp;t=1636968098712" id="liferayAUICSS" rel="stylesheet" type="text/css">
+
+
+
+<link data-senna-track="temporary" href="/medioambiente/portal/o/frontend-css-web/main.css?browserId=other&amp;themeId=temaventanadelvisitante_WAR_ventanatheme&amp;minifierType=css&amp;languageId=es_ES&amp;b=7010&amp;t=1631778538063" id="liferayPortalCSS" rel="stylesheet" type="text/css">
+
+
+
+
+
+
+
+
+
+	
+
+	
+
+
+
+
+
+	
+
+
+
+	
+
+		<link data-senna-track="temporary" href="/medioambiente/portal/combo?browserId=other&amp;minifierType=&amp;themeId=temaventanadelvisitante_WAR_ventanatheme&amp;languageId=es_ES&amp;b=7010&amp;AssetSearchPlugin_INSTANCE_v7hnFbl8Yg4X:%2Fcss%2Fmain.css&amp;AssetSearchPlugin_INSTANCE_v7hnFbl8Yg4X:%2Fcss%2F_daterangepicker.css&amp;com_liferay_product_navigation_product_menu_web_portlet_ProductMenuPortlet:%2Fcss%2Fmain.css&amp;t=1636561930000" id="11d19101" rel="stylesheet" type="text/css">
+
+	
+
+
+
+
+
+
+
+<script data-senna-track="temporary" type="text/javascript">
+	// <![CDATA[
+		var Liferay = Liferay || {};
+
+		Liferay.Browser = {
+			acceptsGzip: function() {
+				return true;
+			},
+
+			
+
+			getMajorVersion: function() {
+				return 95.0;
+			},
+
+			getRevision: function() {
+				return '537.36';
+			},
+			getVersion: function() {
+				return '95.0';
+			},
+
+			
+
+			isAir: function() {
+				return false;
+			},
+			isChrome: function() {
+				return true;
+			},
+			isEdge: function() {
+				return false;
+			},
+			isFirefox: function() {
+				return false;
+			},
+			isGecko: function() {
+				return true;
+			},
+			isIe: function() {
+				return false;
+			},
+			isIphone: function() {
+				return false;
+			},
+			isLinux: function() {
+				return false;
+			},
+			isMac: function() {
+				return false;
+			},
+			isMobile: function() {
+				return false;
+			},
+			isMozilla: function() {
+				return false;
+			},
+			isOpera: function() {
+				return false;
+			},
+			isRtf: function() {
+				return true;
+			},
+			isSafari: function() {
+				return true;
+			},
+			isSun: function() {
+				return false;
+			},
+			isWebKit: function() {
+				return true;
+			},
+			isWindows: function() {
+				return true;
+			}
+		};
+
+		Liferay.Data = Liferay.Data || {};
+
+		Liferay.Data.ICONS_INLINE_SVG = true;
+
+		Liferay.Data.NAV_SELECTOR = '#navigation';
+
+		Liferay.Data.NAV_SELECTOR_MOBILE = '#navigationCollapse';
+
+		Liferay.Data.isCustomizationView = function() {
+			return false;
+		};
+
+		Liferay.Data.notices = [
+			null
+
+			
+
+			
+		];
+
+		Liferay.PortletKeys = {
+			DOCUMENT_LIBRARY: 'com_liferay_document_library_web_portlet_DLPortlet',
+			DYNAMIC_DATA_MAPPING: 'com_liferay_dynamic_data_mapping_web_portlet_DDMPortlet',
+			ITEM_SELECTOR: 'com_liferay_item_selector_web_portlet_ItemSelectorPortlet'
+		};
+
+		Liferay.PropsValues = {
+			JAVASCRIPT_SINGLE_PAGE_APPLICATION_TIMEOUT: 0,
+			NTLM_AUTH_ENABLED: false,
+			UPLOAD_SERVLET_REQUEST_IMPL_MAX_SIZE: 1000000000
+		};
+
+		Liferay.ThemeDisplay = {
+
+			
+
+			
+				getLayoutId: function() {
+					return '6';
+				},
+
+				
+
+				getLayoutRelativeControlPanelURL: function() {
+					return '/medioambiente/portal/group/ventanadelvisitante/~/control_panel/manage';
+				},
+
+				getLayoutRelativeURL: function() {
+					return '/medioambiente/portal/web/ventanadelvisitante/buscador-de-espacios-naturales-y-equipamientos';
+				},
+				getLayoutURL: function() {
+					return 'https://servintegra.cma.junta-andalucia.es/medioambiente/portal/web/ventanadelvisitante/buscador-de-espacios-naturales-y-equipamientos';
+				},
+				getParentLayoutId: function() {
+					return '5';
+				},
+				isControlPanel: function() {
+					return false;
+				},
+				isPrivateLayout: function() {
+					return 'false';
+				},
+				isVirtualLayout: function() {
+					return false;
+				},
+			
+
+			getBCP47LanguageId: function() {
+				return 'es-ES';
+			},
+			getCanonicalURL: function() {
+
+				
+
+				return 'https\x3a\x2f\x2flrwebint\x2ecma\x2ejunta-andalucia\x2ees\x2fmedioambiente\x2fportal\x2fweb\x2fventanadelvisitante\x2fbuscador-de-espacios-naturales-y-equipamientos';
+			},
+			getCDNBaseURL: function() {
+				return 'https://servintegra.cma.junta-andalucia.es';
+			},
+			getCDNDynamicResourcesHost: function() {
+				return '';
+			},
+			getCDNHost: function() {
+				return '';
+			},
+			getCompanyGroupId: function() {
+				return '20151';
+			},
+			getCompanyId: function() {
+				return '20115';
+			},
+			getDefaultLanguageId: function() {
+				return 'es_ES';
+			},
+			getDoAsUserIdEncoded: function() {
+				return '';
+			},
+			getLanguageId: function() {
+				return 'es_ES';
+			},
+			getParentGroupId: function() {
+				return '255035';
+			},
+			getPathContext: function() {
+				return '/medioambiente/portal';
+			},
+			getPathImage: function() {
+				return '/medioambiente/portal/image';
+			},
+			getPathJavaScript: function() {
+				return '/medioambiente/portal/o/frontend-js-web';
+			},
+			getPathMain: function() {
+				return '/medioambiente/portal/c';
+			},
+			getPathThemeImages: function() {
+				return 'https://servintegra.cma.junta-andalucia.es/medioambiente/portal/o/ventana-theme/images';
+			},
+			getPathThemeRoot: function() {
+				return '/medioambiente/portal/o/ventana-theme';
+			},
+			getPlid: function() {
+				return '3719989';
+			},
+			getPortalURL: function() {
+				return 'https://servintegra.cma.junta-andalucia.es';
+			},
+			getScopeGroupId: function() {
+				return '255035';
+			},
+			getScopeGroupIdOrLiveGroupId: function() {
+				return '255035';
+			},
+			getSessionId: function() {
+				return '';
+			},
+			getSiteAdminURL: function() {
+				return 'https://servintegra.cma.junta-andalucia.es/medioambiente/portal/group/ventanadelvisitante/~/control_panel/manage?p_p_lifecycle=0&p_p_state=maximized&p_p_mode=view';
+			},
+			getSiteGroupId: function() {
+				return '255035';
+			},
+			getURLControlPanel: function() {
+				return '/medioambiente/portal/group/control_panel?refererPlid=3719989';
+			},
+			getURLHome: function() {
+				return 'https\x3a\x2f\x2fservintegra\x2ecma\x2ejunta-andalucia\x2ees\x2fmedioambiente\x2fportal\x2fhome';
+			},
+			getUserEmailAddress: function() {
+				return '';
+			},
+			getUserId: function() {
+				return '20119';
+			},
+			getUserName: function() {
+				return '';
+			},
+			isAddSessionIdToURL: function() {
+				return false;
+			},
+			isFreeformLayout: function() {
+				return false;
+			},
+			isImpersonated: function() {
+				return false;
+			},
+			isSignedIn: function() {
+				return false;
+			},
+			isStateExclusive: function() {
+				return false;
+			},
+			isStateMaximized: function() {
+				return false;
+			},
+			isStatePopUp: function() {
+				return false;
+			}
+		};
+
+		var themeDisplay = Liferay.ThemeDisplay;
+
+		Liferay.AUI = {
+
+			
+
+			getAvailableLangPath: function() {
+				return 'available_languages.jsp?browserId=other&themeId=temaventanadelvisitante_WAR_ventanatheme&colorSchemeId=01&minifierType=js&languageId=es_ES&b=7010&t=1636963245462';
+			},
+			getCombine: function() {
+				return true;
+			},
+			getComboPath: function() {
+				return '/medioambiente/portal/combo/?browserId=other&minifierType=&languageId=es_ES&b=7010&t=1631778538272&';
+			},
+			getDateFormat: function() {
+				return '%d/%m/%Y';
+			},
+			getEditorCKEditorPath: function() {
+				return '/medioambiente/portal/o/frontend-editor-ckeditor-web';
+			},
+			getFilter: function() {
+				var filter = 'raw';
+
+				
+					
+						filter = 'min';
+					
+					
+
+				return filter;
+			},
+			getFilterConfig: function() {
+				var instance = this;
+
+				var filterConfig = null;
+
+				if (!instance.getCombine()) {
+					filterConfig = {
+						replaceStr: '.js' + instance.getStaticResourceURLParams(),
+						searchExp: '\\.js$'
+					};
+				}
+
+				return filterConfig;
+			},
+			getJavaScriptRootPath: function() {
+				return '/medioambiente/portal/o/frontend-js-web';
+			},
+			getLangPath: function() {
+				return 'aui_lang.jsp?browserId=other&themeId=temaventanadelvisitante_WAR_ventanatheme&colorSchemeId=01&minifierType=js&languageId=es_ES&b=7010&t=1631778538272';
+			},
+			getPortletRootPath: function() {
+				return '/medioambiente/portal/html/portlet';
+			},
+			getStaticResourceURLParams: function() {
+				return '?browserId=other&minifierType=&languageId=es_ES&b=7010&t=1631778538272';
+			}
+		};
+
+		Liferay.authToken = 'O69deWu5';
+
+		
+
+		Liferay.currentURL = '\x2fmedioambiente\x2fportal\x2fweb\x2fventanadelvisitante\x2fbuscador-de-espacios-naturales-y-equipamientos\x3fcategoryVal\x3d';
+		Liferay.currentURLEncoded = '\x252Fmedioambiente\x252Fportal\x252Fweb\x252Fventanadelvisitante\x252Fbuscador-de-espacios-naturales-y-equipamientos\x253FcategoryVal\x253D';
+	// ]]>
+</script>
+
+
+
+	
+
+	<script src="/medioambiente/portal/o/js_loader_modules?t=1636968098712" type="text/javascript"></script>
+
+
+
+	
+		
+			
+				<script src="/medioambiente/portal/o/frontend-js-web/barebone.jsp?browserId=other&amp;themeId=temaventanadelvisitante_WAR_ventanatheme&amp;colorSchemeId=01&amp;minifierType=js&amp;minifierBundleId=javascript.barebone.files&amp;languageId=es_ES&amp;b=7010&amp;t=1631778538272" type="text/javascript"></script>
+			
+			
+	
+	
+
+
+
+	
+
+	<script data-senna-track="temporary" src="/medioambiente/portal/o/js_bundle_config?t=1636968099541" type="text/javascript"></script></head></html>

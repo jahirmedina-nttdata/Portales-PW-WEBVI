@@ -1,0 +1,6210 @@
+<html class="ltr yui3-js-enabled webkit js chrome chrome95 chrome95-0 win secure" dir="ltr" lang="es-ES"><div id="yui3-css-stamp" style="position: absolute !important; visibility: hidden !important" class=""></div><head>
+	
+    <title>Buscador de Espacios Naturales y Equipamientos - Ventana del Visitante </title>
+    
+	<meta content="initial-scale=1.0, width=device-width" name="viewport">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<meta content="text/html; charset=UTF-8" http-equiv="content-type">
+
+
+
+
+
+
+
+
+
+
+
+
+<link href="https://www.juntadeandalucia.es/medioambiente/portal/o/mentions-web/css/mentions.css?browserId=other&amp;themeId=temaventanadelvisitante_WAR_ventanatheme&amp;minifierType=css&amp;languageId=es_ES&amp;b=7010&amp;t=1636440669317" rel="stylesheet" type="text/css">
+<link href="https://www.juntadeandalucia.es/medioambiente/portal/o/dynamic-data-mapping-form-renderer/css/main.css?browserId=other&amp;themeId=temaventanadelvisitante_WAR_ventanatheme&amp;minifierType=css&amp;languageId=es_ES&amp;b=7010&amp;t=1636440669317" rel="stylesheet" type="text/css">
+
+
+<link href="https://www.juntadeandalucia.es/medioambiente/portal/o/ventana-theme/images/favicon.ico" rel="icon">
+
+
+
+
+
+	<link data-senna-track="temporary" href="https://www.juntadeandalucia.es/medioambiente/portal/web/ventanadelvisitante/buscador-de-espacios-naturales-y-equipamientos" rel="canonical">
+
+	
+
+			
+				<link data-senna-track="temporary" href="https://www.juntadeandalucia.es/medioambiente/portal/web/ventanadelvisitante/buscador-de-espacios-naturales-y-equipamientos" hreflang="x-default" rel="alternate">
+			
+
+			<link data-senna-track="temporary" href="https://www.juntadeandalucia.es/medioambiente/portal/web/ventanadelvisitante/buscador-de-espacios-naturales-y-equipamientos" hreflang="es-ES" rel="alternate">
+
+	
+
+			
+
+			<link data-senna-track="temporary" href="https://www.juntadeandalucia.es/medioambiente/portal/fr/web/ventanadelvisitante/buscador-de-espacios-naturales-y-equipamientos" hreflang="fr-FR" rel="alternate">
+
+	
+
+			
+
+			<link data-senna-track="temporary" href="https://www.juntadeandalucia.es/medioambiente/portal/en/web/ventanadelvisitante/buscador-de-espacios-naturales-y-equipamientos" hreflang="en-GB" rel="alternate">
+
+	
+
+			
+
+			<link data-senna-track="temporary" href="https://www.juntadeandalucia.es/medioambiente/portal/de/web/ventanadelvisitante/buscador-de-espacios-naturales-y-equipamientos" hreflang="de-DE" rel="alternate">
+
+	
+
+
+
+
+
+<link class="lfr-css-file" data-senna-track="temporary" href="https://www.juntadeandalucia.es/medioambiente/portal/o/ventana-theme/css/aui.css?browserId=other&amp;themeId=temaventanadelvisitante_WAR_ventanatheme&amp;minifierType=css&amp;languageId=es_ES&amp;b=7010&amp;t=1636440669317" id="liferayAUICSS" rel="stylesheet" type="text/css">
+
+
+
+<script charset="utf-8" id="yui_patched_v3_18_1_1_1636929879111_43" src="/medioambiente/portal/combo/?browserId=other&amp;minifierType=&amp;languageId=es_ES&amp;b=7010&amp;t=1636354381334&amp;/medioambiente/portal/o/frontend-js-web/aui/event-touch/event-touch-min.js&amp;/medioambiente/portal/o/frontend-js-web/aui/event-move/event-move-min.js" async=""></script><link charset="utf-8" rel="stylesheet" id="yui_patched_v3_18_1_1_1636929879111_46" href="/medioambiente/portal/combo/?browserId=other&amp;minifierType=&amp;languageId=es_ES&amp;b=7010&amp;t=1636354381334&amp;/medioambiente/portal/o/frontend-js-web/aui/widget-base/assets/skins/sam/widget-base.css&amp;/medioambiente/portal/o/frontend-js-web/aui/widget-stack/assets/skins/sam/widget-stack.css&amp;/medioambiente/portal/o/frontend-js-web/aui/aui-tooltip-base/assets/skins/sam/aui-tooltip-base.css&amp;/medioambiente/portal/o/frontend-js-web/aui/cssbutton/cssbutton-min.css&amp;/medioambiente/portal/o/frontend-js-web/aui/widget-modality/assets/skins/sam/widget-modality.css&amp;/medioambiente/portal/o/frontend-js-web/aui/aui-button-core/assets/skins/sam/aui-button-core.css&amp;/medioambiente/portal/o/frontend-js-web/aui/aui-modal/assets/skins/sam/aui-modal.css&amp;/medioambiente/portal/o/frontend-js-web/aui/resize-base/assets/skins/sam/resize-base.css&amp;/medioambiente/portal/o/frontend-js-web/aui/aui-alert/assets/skins/sam/aui-alert.css"><script charset="utf-8" id="yui_patched_v3_18_1_1_1636929879111_47" src="https://www.juntadeandalucia.es/medioambiente/portal/o/frontend-js-web/liferay/available_languages.jsp?browserId=other&amp;themeId=temaventanadelvisitante_WAR_ventanatheme&amp;colorSchemeId=01&amp;minifierType=js&amp;languageId=es_ES&amp;b=7010&amp;t=1636442789172" async=""></script><script charset="utf-8" id="yui_patched_v3_18_1_1_1636929879111_48" src="/medioambiente/portal/combo/?browserId=other&amp;minifierType=&amp;languageId=es_ES&amp;b=7010&amp;t=1636354381334&amp;/medioambiente/portal/o/frontend-js-web/aui/base-core/base-core-min.js&amp;/medioambiente/portal/o/frontend-js-web/aui/base-observable/base-observable-min.js&amp;/medioambiente/portal/o/frontend-js-web/aui/aui-widget-cssclass/aui-widget-cssclass-min.js&amp;/medioambiente/portal/o/frontend-js-web/aui/aui-widget-toggle/aui-widget-toggle-min.js&amp;/medioambiente/portal/o/frontend-js-web/aui/base-build/base-build-min.js&amp;/medioambiente/portal/o/frontend-js-web/aui/aui-aria/aui-aria-min.js&amp;/medioambiente/portal/o/frontend-js-web/aui/transition/transition-min.js&amp;/medioambiente/portal/o/frontend-js-web/aui/aui-widget-transition/aui-widget-transition-min.js&amp;/medioambiente/portal/o/frontend-js-web/aui/aui-widget-trigger/aui-widget-trigger-min.js&amp;/medioambiente/portal/o/frontend-js-web/aui/widget-position/widget-position-min.js&amp;/medioambiente/portal/o/frontend-js-web/aui/widget-position-align/widget-position-align-min.js" async=""></script><script charset="utf-8" id="yui_patched_v3_18_1_1_1636929879111_49" src="/medioambiente/portal/combo/?browserId=other&amp;minifierType=&amp;languageId=es_ES&amp;b=7010&amp;t=1636354381334&amp;/medioambiente/portal/o/frontend-js-web/aui/widget-stdmod/widget-stdmod-min.js&amp;/medioambiente/portal/o/frontend-js-web/aui/aui-widget-position-align-suggestion/aui-widget-position-align-suggestion-min.js&amp;/medioambiente/portal/o/frontend-js-web/aui/escape/escape-min.js&amp;/medioambiente/portal/o/frontend-js-web/aui/widget-autohide/widget-autohide-min.js&amp;/medioambiente/portal/o/frontend-js-web/aui/widget-position-constrain/widget-position-constrain-min.js&amp;/medioambiente/portal/o/frontend-js-web/aui/widget-stack/widget-stack-min.js&amp;/medioambiente/portal/o/frontend-js-web/aui/aui-tooltip-base/aui-tooltip-base-min.js&amp;/medioambiente/portal/o/frontend-js-web/aui/aui-tooltip-delegate/aui-tooltip-delegate-min.js&amp;/medioambiente/portal/o/frontend-js-web/liferay/language.js&amp;/medioambiente/portal/o/frontend-js-web/aui/button-core/button-core-min.js&amp;/medioambiente/portal/o/frontend-js-web/aui/button-plugin/button-plugin-min.js" async=""></script><script charset="utf-8" id="yui_patched_v3_18_1_1_1636929879111_50" src="/medioambiente/portal/combo/?browserId=other&amp;minifierType=&amp;languageId=es_ES&amp;b=7010&amp;t=1636354381334&amp;/medioambiente/portal/o/frontend-js-web/aui/widget-buttons/widget-buttons-min.js&amp;/medioambiente/portal/o/frontend-js-web/aui/widget-modality/widget-modality-min.js&amp;/medioambiente/portal/o/frontend-js-web/aui/dd-ddm-base/dd-ddm-base-min.js&amp;/medioambiente/portal/o/frontend-js-web/aui/dd-drag/dd-drag-min.js&amp;/medioambiente/portal/o/frontend-js-web/aui/dd-plugin/dd-plugin-min.js&amp;/medioambiente/portal/o/frontend-js-web/aui/dd-constrain/dd-constrain-min.js&amp;/medioambiente/portal/o/frontend-js-web/aui/timers/timers-min.js&amp;/medioambiente/portal/o/frontend-js-web/aui/button/button-min.js&amp;/medioambiente/portal/o/frontend-js-web/aui/button-group/button-group-min.js&amp;/medioambiente/portal/o/frontend-js-web/aui/aui-button-core/aui-button-core-min.js&amp;/medioambiente/portal/o/frontend-js-web/aui/aui-toolbar/aui-toolbar-min.js&amp;/medioambiente/portal/o/frontend-js-web/aui/aui-widget-toolbars/aui-widget-toolbars-min.js" async=""></script><script charset="utf-8" id="yui_patched_v3_18_1_1_1636929879111_51" src="/medioambiente/portal/combo/?browserId=other&amp;minifierType=&amp;languageId=es_ES&amp;b=7010&amp;t=1636354381334&amp;/medioambiente/portal/o/frontend-js-web/aui/event-flick/event-flick-min.js&amp;/medioambiente/portal/o/frontend-js-web/aui/event-valuechange/event-valuechange-min.js&amp;/medioambiente/portal/o/frontend-js-web/aui/event-tap/event-tap-min.js&amp;/medioambiente/portal/o/frontend-js-web/aui/dd-ddm/dd-ddm-min.js&amp;/medioambiente/portal/o/frontend-js-web/aui/dd-ddm-drop/dd-ddm-drop-min.js&amp;/medioambiente/portal/o/frontend-js-web/aui/dd-drop/dd-drop-min.js&amp;/medioambiente/portal/o/frontend-js-web/aui/dd-drop-plugin/dd-drop-plugin-min.js&amp;/medioambiente/portal/o/frontend-js-web/aui/dd-delegate/dd-delegate-min.js&amp;/medioambiente/portal/o/frontend-js-web/aui/resize-base/resize-base-min.js&amp;/medioambiente/portal/o/frontend-js-web/aui/resize-plugin/resize-plugin-min.js&amp;/medioambiente/portal/o/frontend-js-web/aui/aui-modal/aui-modal-min.js&amp;/medioambiente/portal/o/frontend-js-web/aui/querystring-stringify/querystring-stringify-min.js" async=""></script><script charset="utf-8" id="yui_patched_v3_18_1_1_1636929879111_52" src="/medioambiente/portal/combo/?browserId=other&amp;minifierType=&amp;languageId=es_ES&amp;b=7010&amp;t=1636354381334&amp;/medioambiente/portal/o/frontend-js-web/aui/aui-io-request/aui-io-request-min.js&amp;/medioambiente/portal/o/frontend-js-web/aui/cookie/cookie-min.js&amp;/medioambiente/portal/o/frontend-js-web/aui/aui-alert/aui-alert-min.js&amp;/medioambiente/portal/o/frontend-js-web/liferay/node.js&amp;/medioambiente/portal/o/frontend-js-web/liferay/portlet_base.js&amp;/medioambiente/portal/o/frontend-js-web/liferay/alert.js&amp;/medioambiente/portal/o/frontend-js-web/liferay/notification.js&amp;/medioambiente/portal/o/frontend-js-web/liferay/session.js&amp;/medioambiente/portal/o/frontend-js-web/aui/aui-modal-resize/aui-modal-resize-min.js" async=""></script><link data-senna-track="temporary" href="https://www.juntadeandalucia.es/medioambiente/portal/o/frontend-css-web/main.css?browserId=other&amp;themeId=temaventanadelvisitante_WAR_ventanatheme&amp;minifierType=css&amp;languageId=es_ES&amp;b=7010&amp;t=1636354381108" id="liferayPortalCSS" rel="stylesheet" type="text/css">
+
+
+
+
+
+
+
+
+
+	
+
+	
+
+
+
+
+
+	
+
+
+
+	
+
+		<link data-senna-track="temporary" href="https://www.juntadeandalucia.es/medioambiente/portal/combo?browserId=other&amp;minifierType=&amp;themeId=temaventanadelvisitante_WAR_ventanatheme&amp;languageId=es_ES&amp;b=7010&amp;AssetSearchPlugin_INSTANCE_rbJEpPKqmqSg:%2Fcss%2Fmain.css&amp;AssetSearchPlugin_INSTANCE_rbJEpPKqmqSg:%2Fcss%2F_daterangepicker.css&amp;com_liferay_product_navigation_product_menu_web_portlet_ProductMenuPortlet:%2Fcss%2Fmain.css&amp;t=1636354552000" id="706588d7" rel="stylesheet" type="text/css">
+
+	
+
+
+
+
+
+
+
+<script async="" src="//www.google-analytics.com/analytics.js"></script><script data-senna-track="temporary" type="text/javascript">
+	// <![CDATA[
+		var Liferay = Liferay || {};
+
+		Liferay.Browser = {
+			acceptsGzip: function() {
+				return true;
+			},
+
+			
+
+			getMajorVersion: function() {
+				return 95.0;
+			},
+
+			getRevision: function() {
+				return '537.36';
+			},
+			getVersion: function() {
+				return '95.0';
+			},
+
+			
+
+			isAir: function() {
+				return false;
+			},
+			isChrome: function() {
+				return true;
+			},
+			isEdge: function() {
+				return false;
+			},
+			isFirefox: function() {
+				return false;
+			},
+			isGecko: function() {
+				return true;
+			},
+			isIe: function() {
+				return false;
+			},
+			isIphone: function() {
+				return false;
+			},
+			isLinux: function() {
+				return false;
+			},
+			isMac: function() {
+				return false;
+			},
+			isMobile: function() {
+				return false;
+			},
+			isMozilla: function() {
+				return false;
+			},
+			isOpera: function() {
+				return false;
+			},
+			isRtf: function() {
+				return true;
+			},
+			isSafari: function() {
+				return true;
+			},
+			isSun: function() {
+				return false;
+			},
+			isWebKit: function() {
+				return true;
+			},
+			isWindows: function() {
+				return true;
+			}
+		};
+
+		Liferay.Data = Liferay.Data || {};
+
+		Liferay.Data.ICONS_INLINE_SVG = true;
+
+		Liferay.Data.NAV_SELECTOR = '#navigation';
+
+		Liferay.Data.NAV_SELECTOR_MOBILE = '#navigationCollapse';
+
+		Liferay.Data.isCustomizationView = function() {
+			return false;
+		};
+
+		Liferay.Data.notices = [
+			null
+
+			
+
+			
+		];
+
+		Liferay.PortletKeys = {
+			DOCUMENT_LIBRARY: 'com_liferay_document_library_web_portlet_DLPortlet',
+			DYNAMIC_DATA_MAPPING: 'com_liferay_dynamic_data_mapping_web_portlet_DDMPortlet',
+			ITEM_SELECTOR: 'com_liferay_item_selector_web_portlet_ItemSelectorPortlet'
+		};
+
+		Liferay.PropsValues = {
+			JAVASCRIPT_SINGLE_PAGE_APPLICATION_TIMEOUT: 0,
+			NTLM_AUTH_ENABLED: false,
+			UPLOAD_SERVLET_REQUEST_IMPL_MAX_SIZE: 1000000000
+		};
+
+		Liferay.ThemeDisplay = {
+
+			
+
+			
+				getLayoutId: function() {
+					return '60';
+				},
+
+				
+
+				getLayoutRelativeControlPanelURL: function() {
+					return '/medioambiente/portal/group/ventanadelvisitante/~/control_panel/manage';
+				},
+
+				getLayoutRelativeURL: function() {
+					return '/medioambiente/portal/web/ventanadelvisitante/buscador-de-espacios-naturales-y-equipamientos';
+				},
+				getLayoutURL: function() {
+					return 'https://www.juntadeandalucia.es/medioambiente/portal/web/ventanadelvisitante/buscador-de-espacios-naturales-y-equipamientos';
+				},
+				getParentLayoutId: function() {
+					return '56';
+				},
+				isControlPanel: function() {
+					return false;
+				},
+				isPrivateLayout: function() {
+					return 'false';
+				},
+				isVirtualLayout: function() {
+					return false;
+				},
+			
+
+			getBCP47LanguageId: function() {
+				return 'es-ES';
+			},
+			getCanonicalURL: function() {
+
+				
+
+				return 'https\x3a\x2f\x2fwww\x2ejuntadeandalucia\x2ees\x2fmedioambiente\x2fportal\x2fweb\x2fventanadelvisitante\x2fbuscador-de-espacios-naturales-y-equipamientos';
+			},
+			getCDNBaseURL: function() {
+				return 'https://www.juntadeandalucia.es';
+			},
+			getCDNDynamicResourcesHost: function() {
+				return '';
+			},
+			getCDNHost: function() {
+				return '';
+			},
+			getCompanyGroupId: function() {
+				return '20151';
+			},
+			getCompanyId: function() {
+				return '20115';
+			},
+			getDefaultLanguageId: function() {
+				return 'es_ES';
+			},
+			getDoAsUserIdEncoded: function() {
+				return '';
+			},
+			getLanguageId: function() {
+				return 'es_ES';
+			},
+			getParentGroupId: function() {
+				return '255035';
+			},
+			getPathContext: function() {
+				return '/medioambiente/portal';
+			},
+			getPathImage: function() {
+				return '/medioambiente/portal/image';
+			},
+			getPathJavaScript: function() {
+				return '/medioambiente/portal/o/frontend-js-web';
+			},
+			getPathMain: function() {
+				return '/medioambiente/portal/c';
+			},
+			getPathThemeImages: function() {
+				return 'https://www.juntadeandalucia.es/medioambiente/portal/o/ventana-theme/images';
+			},
+			getPathThemeRoot: function() {
+				return '/medioambiente/portal/o/ventana-theme';
+			},
+			getPlid: function() {
+				return '17901391';
+			},
+			getPortalURL: function() {
+				return 'https://www.juntadeandalucia.es';
+			},
+			getScopeGroupId: function() {
+				return '255035';
+			},
+			getScopeGroupIdOrLiveGroupId: function() {
+				return '255035';
+			},
+			getSessionId: function() {
+				return '';
+			},
+			getSiteAdminURL: function() {
+				return 'https://www.juntadeandalucia.es/medioambiente/portal/group/ventanadelvisitante/~/control_panel/manage?p_p_lifecycle=0&p_p_state=maximized&p_p_mode=view';
+			},
+			getSiteGroupId: function() {
+				return '255035';
+			},
+			getURLControlPanel: function() {
+				return '/medioambiente/portal/group/control_panel?refererPlid=17901391';
+			},
+			getURLHome: function() {
+				return 'https\x3a\x2f\x2fwww\x2ejuntadeandalucia\x2ees\x2fmedioambiente\x2fportal\x2fhome';
+			},
+			getUserEmailAddress: function() {
+				return '';
+			},
+			getUserId: function() {
+				return '20119';
+			},
+			getUserName: function() {
+				return '';
+			},
+			isAddSessionIdToURL: function() {
+				return false;
+			},
+			isFreeformLayout: function() {
+				return false;
+			},
+			isImpersonated: function() {
+				return false;
+			},
+			isSignedIn: function() {
+				return false;
+			},
+			isStateExclusive: function() {
+				return false;
+			},
+			isStateMaximized: function() {
+				return false;
+			},
+			isStatePopUp: function() {
+				return false;
+			}
+		};
+
+		var themeDisplay = Liferay.ThemeDisplay;
+
+		Liferay.AUI = {
+
+			
+
+			getAvailableLangPath: function() {
+				return 'available_languages.jsp?browserId=other&themeId=temaventanadelvisitante_WAR_ventanatheme&colorSchemeId=01&minifierType=js&languageId=es_ES&b=7010&t=1636442789172';
+			},
+			getCombine: function() {
+				return true;
+			},
+			getComboPath: function() {
+				return '/medioambiente/portal/combo/?browserId=other&minifierType=&languageId=es_ES&b=7010&t=1636354381334&';
+			},
+			getDateFormat: function() {
+				return '%d/%m/%Y';
+			},
+			getEditorCKEditorPath: function() {
+				return '/medioambiente/portal/o/frontend-editor-ckeditor-web';
+			},
+			getFilter: function() {
+				var filter = 'raw';
+
+				
+					
+						filter = 'min';
+					
+					
+
+				return filter;
+			},
+			getFilterConfig: function() {
+				var instance = this;
+
+				var filterConfig = null;
+
+				if (!instance.getCombine()) {
+					filterConfig = {
+						replaceStr: '.js' + instance.getStaticResourceURLParams(),
+						searchExp: '\\.js$'
+					};
+				}
+
+				return filterConfig;
+			},
+			getJavaScriptRootPath: function() {
+				return '/medioambiente/portal/o/frontend-js-web';
+			},
+			getLangPath: function() {
+				return 'aui_lang.jsp?browserId=other&themeId=temaventanadelvisitante_WAR_ventanatheme&colorSchemeId=01&minifierType=js&languageId=es_ES&b=7010&t=1636354381334';
+			},
+			getPortletRootPath: function() {
+				return '/medioambiente/portal/html/portlet';
+			},
+			getStaticResourceURLParams: function() {
+				return '?browserId=other&minifierType=&languageId=es_ES&b=7010&t=1636354381334';
+			}
+		};
+
+		Liferay.authToken = 'HqcAW8Qb';
+
+		
+
+		Liferay.currentURL = '\x2fmedioambiente\x2fportal\x2fweb\x2fventanadelvisitante\x2fbuscador-de-espacios-naturales-y-equipamientos\x3fcategoryVal\x3d';
+		Liferay.currentURLEncoded = '\x252Fmedioambiente\x252Fportal\x252Fweb\x252Fventanadelvisitante\x252Fbuscador-de-espacios-naturales-y-equipamientos\x253FcategoryVal\x253D';
+	// ]]>
+</script>
+
+
+
+	
+
+	<script src="https://www.juntadeandalucia.es/medioambiente/portal/o/js_loader_modules?t=1636440669317" type="text/javascript"></script>
+
+
+
+	
+		
+			
+				<script src="https://www.juntadeandalucia.es/medioambiente/portal/o/frontend-js-web/barebone.jsp?browserId=other&amp;themeId=temaventanadelvisitante_WAR_ventanatheme&amp;colorSchemeId=01&amp;minifierType=js&amp;minifierBundleId=javascript.barebone.files&amp;languageId=es_ES&amp;b=7010&amp;t=1636354381334" type="text/javascript"></script>
+			
+			
+	
+	
+
+
+
+	
+
+	<script data-senna-track="temporary" src="https://www.juntadeandalucia.es/medioambiente/portal/o/js_bundle_config?t=1636354664850" type="text/javascript"></script>
+
+
+<script data-senna-track="temporary" type="text/javascript">
+	// <![CDATA[
+		
+			
+				
+		
+
+		
+
+		
+	// ]]>
+</script>
+
+
+
+
+
+
+
+
+
+	
+		
+
+			
+
+			
+				<script data-senna-track="permanent" id="googleAnalyticsScript" type="text/javascript">
+					(function(i, s, o, g, r, a, m) {
+						i['GoogleAnalyticsObject'] = r;
+
+						i[r] = i[r] || function() {
+							var arrayValue = i[r].q || [];
+
+							i[r].q = arrayValue;
+
+							(i[r].q).push(arguments);
+						};
+
+						i[r].l = 1 * new Date();
+
+						a = s.createElement(o);
+						m = s.getElementsByTagName(o)[0];
+						a.async = 1;
+						a.src = g;
+						m.parentNode.insertBefore(a, m);
+					})(window, document, 'script', '//www.google-analytics.com/analytics.js', 'ga');
+
+					ga('create', 'UA-2347734-15', 'auto');
+					ga('send', 'pageview');
+
+					
+				</script>
+			
+		
+		
+
+
+
+	
+		
+
+			
+
+			
+		
+	
+
+
+
+
+
+
+
+
+
+
+
+
+	
+
+	
+
+
+
+
+
+	
+
+
+
+	
+
+		<script data-senna-track="temporary" src="https://www.juntadeandalucia.es/medioambiente/portal/combo?browserId=other&amp;minifierType=&amp;themeId=temaventanadelvisitante_WAR_ventanatheme&amp;languageId=es_ES&amp;b=7010&amp;AssetSearchPlugin_INSTANCE_rbJEpPKqmqSg:%2Fjs%2Fjquery.twbsPagination.min.js&amp;AssetSearchPlugin_INSTANCE_rbJEpPKqmqSg:%2Fjs%2Fmoment.min.js&amp;AssetSearchPlugin_INSTANCE_rbJEpPKqmqSg:%2Fjs%2Fdaterangepicker.js&amp;AssetSearchPlugin_INSTANCE_rbJEpPKqmqSg:%2Fjs%2Fmain.js&amp;t=1636354552000" type="text/javascript"></script>
+
+	
+
+
+
+
+
+
+
+
+
+
+
+<link class="lfr-css-file" data-senna-track="temporary" href="https://www.juntadeandalucia.es/medioambiente/portal/o/ventana-theme/css/main.css?browserId=other&amp;themeId=temaventanadelvisitante_WAR_ventanatheme&amp;minifierType=css&amp;languageId=es_ES&amp;b=7010&amp;t=1636440669317" id="liferayThemeCSS" rel="stylesheet" type="text/css">
+
+
+
+
+	<style data-senna-track="temporary" type="text/css">
+		.evr-header__container .evr-main-navigation .delete-tab{
+	display: none;
+}
+#portlet_ratingsmodule .portlet-title-text{
+	display: none;
+}
+.evr-header .evr-header__user .evr-search{
+	display: none;
+}
+	</style>
+
+
+
+
+
+	<style data-senna-track="temporary" type="text/css">
+
+		
+
+			
+
+		
+
+			
+
+		
+
+			
+
+		
+
+			
+
+		
+
+			
+
+		
+
+			
+
+		
+
+			
+
+		
+
+			
+
+		
+
+	</style>
+
+
+<link data-senna-track="permanent" href="https://www.juntadeandalucia.es/medioambiente/portal/combo?browserId=other&amp;minifierType=css&amp;languageId=es_ES&amp;b=7010&amp;t=1636354390051&amp;/medioambiente/portal/o/product-navigation-simulation-theme-contributor/css/simulation_panel.css&amp;/medioambiente/portal/o/product-navigation-product-menu-dxp-theme-contributor/product_navigation_product_menu.css&amp;/medioambiente/portal/o/product-navigation-control-menu-dxp-theme-contributor/product_navigation_control_menu.css" rel="stylesheet" type="text/css">
+<script data-senna-track="permanent" src="https://www.juntadeandalucia.es/medioambiente/portal/combo?browserId=other&amp;minifierType=js&amp;languageId=es_ES&amp;b=7010&amp;t=1636354390051&amp;/medioambiente/portal/o/product-navigation-control-menu-dxp-theme-contributor/product_navigation_control_menu.js" type="text/javascript"></script>
+<script type="text/javascript">
+// <![CDATA[
+Liferay.on(
+	'ddmFieldBlur', function(event) {
+		if (window.Analytics) {
+			Analytics.send(
+				'fieldBlurred',
+				'Form',
+				{
+					fieldName: event.fieldName,
+					focusDuration: event.focusDuration,
+					formId: event.formId,
+					page: event.page - 1
+				}
+			);
+		}
+	}
+);
+
+Liferay.on(
+	'ddmFieldFocus', function(event) {
+		if (window.Analytics) {
+			Analytics.send(
+				'fieldFocused',
+				'Form',
+				{
+					fieldName: event.fieldName,
+					formId: event.formId,
+					page: event.page - 1
+				}
+			);
+		}
+	}
+);
+
+Liferay.on(
+	'ddmFormPageShow', function(event) {
+		if (window.Analytics) {
+			Analytics.send(
+				'pageViewed',
+				'Form',
+				{
+					formId: event.formId,
+					page: event.page,
+					title: event.title
+				}
+			);
+		}
+	}
+);
+
+Liferay.on(
+	'ddmFormSubmit', function(event) {
+		if (window.Analytics) {
+			Analytics.send(
+				'formSubmitted',
+				'Form',
+				{
+					formId: event.formId
+				}
+			);
+		}
+	}
+);
+
+Liferay.on(
+	'ddmFormView', function(event) {
+		if (window.Analytics) {
+			Analytics.send(
+				'formViewed',
+				'Form',
+				{
+					formId: event.formId,
+					title: event.title
+				}
+			);
+		}
+	}
+);
+// ]]>
+</script>
+
+
+
+
+
+
+
+<script data-senna-track="temporary" type="text/javascript">
+	if (window.Analytics) {
+		window._com_liferay_document_library_analytics_isViewFileEntry = false;
+	}
+</script>
+
+
+
+		<script src="https://www.juntadeandalucia.es/medioambiente/portal/o/ventana-theme/js/libs/jquery.mCustomScrollbar.min.js" type="text/javascript"></script><script src="https://cdnjs.cloudflare.com/ajax/libs/jquery-mousewheel/3.1.13/jquery.mousewheel.min.js"></script>
+		<script src="https://www.juntadeandalucia.es/medioambiente/portal/o/ventana-theme/js/libs/slick-carousel/slick/slick.min.js" type="text/javascript"></script>
+		<script src="https://www.juntadeandalucia.es/medioambiente/portal/o/ventana-theme/js/libs/datepickk.js" type="text/javascript"></script>
+		<script src="https://www.juntadeandalucia.es/medioambiente/portal/o/ventana-theme/js/libs/multiselect.min.js" type="text/javascript"></script>
+		<script src="https://www.juntadeandalucia.es/medioambiente/portal/o/ventana-theme/js/libs/jquery-ui.min.js" type="text/javascript"></script>
+		<script src="https://www.juntadeandalucia.es/medioambiente/portal/o/ventana-theme/js/libs/jquery.scrolling-tabs.min.js" type="text/javascript"></script>
+		<script src="https://www.juntadeandalucia.es/medioambiente/portal/o/ventana-theme/js/libs/jspdf.min.js" type="text/javascript"></script>
+		<script src="https://www.juntadeandalucia.es/medioambiente/portal/o/ventana-theme/js/libs/html2canvas.min.js" type="text/javascript"></script>
+		<script src="https://www.juntadeandalucia.es/medioambiente/portal/o/ventana-theme/js/libs/jssocials.min.js" type="text/javascript"></script>
+		<script src="https://www.juntadeandalucia.es/medioambiente/portal/o/ventana-theme/js/config.js" type="text/javascript"></script>
+		<script src="https://www.juntadeandalucia.es/medioambiente/portal/o/ventana-theme/js/cmaot-liferay.js" type="text/javascript"></script>
+		<script src="https://www.juntadeandalucia.es/medioambiente/portal/o/ventana-theme/js/cookies.js" type="text/javascript"></script>
+		<script src="https://www.juntadeandalucia.es/medioambiente/portal/o/ventana-theme/js/libs/InstagramFeed.min.js" type="text/javascript"></script>
+
+
+	
+<script src="/medioambiente/portal/combo/?browserId=other&amp;minifierType=&amp;languageId=es_ES&amp;b=7010&amp;t=1636354381334&amp;/medioambiente/portal/o/frontend-js-metal-web/metal/src/coreNamed.js&amp;/medioambiente/portal/o/frontend-js-metal-web/metal/src/core.js&amp;/medioambiente/portal/o/frontend-js-metal-web/metal/src/array/array.js&amp;/medioambiente/portal/o/frontend-js-metal-web/metal/src/async/async.js&amp;/medioambiente/portal/o/frontend-js-metal-web/metal/src/disposable/Disposable.js&amp;/medioambiente/portal/o/frontend-js-metal-web/metal/src/object/object.js&amp;/medioambiente/portal/o/frontend-js-metal-web/metal/src/string/string.js&amp;/medioambiente/portal/o/frontend-js-metal-web/metal/src/metal.js&amp;/medioambiente/portal/o/frontend-js-metal-web/metal-dom/src/domData.js&amp;/medioambiente/portal/o/frontend-js-metal-web/metal-events/src/EventHandle.js&amp;/medioambiente/portal/o/frontend-js-metal-web/metal-events/src/EventEmitter.js&amp;/medioambiente/portal/o/frontend-js-metal-web/metal-events/src/EventEmitterProxy.js&amp;/medioambiente/portal/o/frontend-js-metal-web/metal-events/src/EventHandler.js&amp;/medioambiente/portal/o/frontend-js-metal-web/metal-events/src/events.js&amp;/medioambiente/portal/o/frontend-js-metal-web/metal-dom/src/DomDelegatedEventHandle.js&amp;/medioambiente/portal/o/frontend-js-metal-web/metal-dom/src/DomEventHandle.js&amp;/medioambiente/portal/o/frontend-js-metal-web/metal-dom/src/domNamed.js&amp;/medioambiente/portal/o/frontend-js-metal-web/metal-dom/src/dom.js&amp;/medioambiente/portal/o/frontend-js-metal-web/metal-dom/src/DomEventEmitterProxy.js&amp;/medioambiente/portal/o/frontend-js-metal-web/metal-dom/src/features.js&amp;/medioambiente/portal/o/frontend-js-metal-web/metal-dom/src/globalEval.js&amp;/medioambiente/portal/o/frontend-js-metal-web/metal-dom/src/globalEvalStyles.js&amp;/medioambiente/portal/o/frontend-js-metal-web/metal-dom/src/events.js&amp;/medioambiente/portal/o/frontend-js-metal-web/metal-dom/src/all/dom.js&amp;/medioambiente/portal/o/frontend-js-metal-web/metal-uri/src/parseFromAnchor.js"></script><script src="/medioambiente/portal/combo/?browserId=other&amp;minifierType=&amp;languageId=es_ES&amp;b=7010&amp;t=1636354381334&amp;/medioambiente/portal/o/frontend-js-metal-web/metal-uri/src/parse.js&amp;/medioambiente/portal/o/frontend-js-metal-web/metal-structs/src/MultiMap.js&amp;/medioambiente/portal/o/frontend-js-metal-web/metal-structs/src/TreeNode.js&amp;/medioambiente/portal/o/frontend-js-metal-web/metal-structs/src/all/structs.js&amp;/medioambiente/portal/o/frontend-js-metal-web/metal-uri/src/Uri.js"></script></head>
+
+<body class=" controls-visible  yui3-skin-sam signed-out public-page site" style="overflow: auto;">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	<nav class="quick-access-nav" id="oija_quickAccessNav">
+		<h1 class="hide-accessible">Navegación</h1>
+
+		<ul>
+			
+				<li><a href="#main-content">Saltar al contenido</a></li>
+			
+
+			
+
+		</ul>
+	</nav>
+
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div id="wrapper" class="container-fluid">
+
+<header id="banner" role="banner" class="evr-header">
+    <div id="heading" class="">
+        <div class="maxwidth maxwidth--inner">
+            <div class="evr-header__content-logo">
+                <div class="evr-header__block">
+                <h1 class="evr-header__logo evr-header__logo--no-text">
+                    <a href="https://www.juntadeandalucia.es/medioambiente/portal/home" target="_blank" class="logo default-logo">
+                            <img alt="Ventana del Visitante" class="hidden-xs hidden-sm hidden-md " src="https://www.juntadeandalucia.es/medioambiente/portal/o/ventana-theme/images/logo_consejeria.png">
+                            <img alt="Ventana del Visitante" class="visible-xs visible-sm visible-md " src="https://www.juntadeandalucia.es/medioambiente/portal/o/ventana-theme/images/logo_simple.png">
+                    </a>
+                </h1>
+                </div>
+                <div class="evr-header__block">
+                    <h1 class="evr-header__logo evr-header__logo--no-text">
+                        <a class="logo default-logo" href="https://www.juntadeandalucia.es/medioambiente/portal/web/ventanadelvisitante/" title="Ir a Ventana del Visitante" tabindex="0">
+                            <span class="sr-only">Ventana del Visitante</span>
+                            <img alt="" class="hidden-xs hidden-sm hidden-md " src="https://www.juntadeandalucia.es/medioambiente/portal/o/ventana-theme/images/logo_ventana.png">
+                            <img alt="" class="visible-xs visible-sm visible-md " src="https://www.juntadeandalucia.es/medioambiente/portal/o/ventana-theme/images/logo_espaciosNaturales_simple.png">
+                        </a>
+                    </h1>
+                </div>
+            </div>
+        </div>
+        <div class="evr-header__container">
+            <div class="maxwidth maxwidth--inner">
+
+<nav class="sort-pages modify-pages evr-main-navigation" data-menuresponsive="initial" id="navigation" role="navigation">
+	<h1 class="hide-accessible">Navegación</h1>
+	<ul class="evr-main-navigation__list" aria-label="Páginas del sitio web" role="menubar">
+
+				<li class="evr-main-navigation__item " id="layout_4" role="presentation" tabindex="0">
+					<a class="evr-main-navigation__link" aria-labelledby="layout_4" href="https://www.juntadeandalucia.es/medioambiente/portal/web/ventanadelvisitante/inicio" role="menuitem"><span><b> Inicio</b></span></a>
+				</li>
+
+				<li aria-selected="true" class="evr-main-navigation__item selected active hasChildren" id="layout_56" role="presentation" tabindex="0">
+					<span class="evr-main-navigation__link evr-main-navigation__link--dropdown" aria-labelledby="layout_56" role="menuitem"><img alt="page-icon" class="layout-logo-17901367" src="https://www.juntadeandalucia.es/medioambiente/portal/image/layout_icon?img_id=17996020&amp;t=1636442790625"> QUÉ PUEDES HACER</span>
+					<button type="button" class="hidden-xl hidden-lg evr-main-navigation__link-icon"></button>
+					<div class="wpr_child-menu">
+						<ul class="child-menu" role="menu">
+							<li class="hidden" id="layout_56" role="presentation">
+								<a aria-labelledby="layout_56" role="menuitem" href="https://www.juntadeandalucia.es/medioambiente/portal/c/portal/layout?p_l_id=17901391&amp;p_v_l_s_g_id=0">QUÉ PUEDES HACER</a>
+							</li>
+
+
+							<li aria-selected="true" class="evr-main-navigation__submenu-item selected" id="layout_60" role="presentation" tabindex="0">
+								<a aria-labelledby="layout_60" class="evr-main-navigation__submenu-link" href="https://www.juntadeandalucia.es/medioambiente/portal/web/ventanadelvisitante/buscador-de-espacios-naturales-y-equipamientos" role="menuitem">Buscador de Espacios Naturales y Equipamientos</a>
+							</li>
+
+
+							<li aria-selected="true" class="evr-main-navigation__submenu-item selected" id="layout_58" role="presentation" tabindex="0">
+								<a aria-labelledby="layout_58" class="evr-main-navigation__submenu-link" href="https://www.juntadeandalucia.es/medioambiente/portal/web/ventanadelvisitante/actividades" role="menuitem">Actividades</a>
+							</li>
+						</ul>
+					</div>
+					</li>
+
+				<li class="evr-main-navigation__item  hasChildren" id="layout_13" role="presentation" tabindex="0">
+					<span class="evr-main-navigation__link evr-main-navigation__link--dropdown" aria-labelledby="layout_13" role="menuitem"><img alt="page-icon" class="layout-logo-3720038" src="https://www.juntadeandalucia.es/medioambiente/portal/image/layout_icon?img_id=3959761&amp;t=1636442790627"> Multimedia</span>
+					<button type="button" class="hidden-xl hidden-lg evr-main-navigation__link-icon"></button>
+					<div class="wpr_child-menu">
+						<ul class="child-menu" role="menu">
+							<li class="hidden" id="layout_13" role="presentation">
+								<a aria-labelledby="layout_13" role="menuitem" href="https://www.juntadeandalucia.es/medioambiente/portal/c/portal/layout?p_l_id=3720041&amp;p_v_l_s_g_id=0">Multimedia</a>
+							</li>
+
+
+							<li class="evr-main-navigation__submenu-item " id="layout_14" role="presentation" tabindex="0">
+								<a aria-labelledby="layout_14" class="evr-main-navigation__submenu-link" href="https://www.juntadeandalucia.es/medioambiente/portal/web/ventanadelvisitante/galer%C3%ADa-multimedia" role="menuitem">Galería multimedia</a>
+							</li>
+
+
+							<li class="evr-main-navigation__submenu-item " id="layout_16" role="presentation" tabindex="0">
+								<a aria-labelledby="layout_16" class="evr-main-navigation__submenu-link" href="https://www.juntadeandalucia.es/medioambiente/portal/web/ventanadelvisitante/videos" role="menuitem">Videos</a>
+							</li>
+						</ul>
+					</div>
+					</li>
+
+				<li class="evr-main-navigation__item " id="layout_18" role="presentation" tabindex="0">
+					<a class="evr-main-navigation__link" aria-labelledby="layout_18" href="https://www.juntadeandalucia.es/medioambiente/portal/web/ventanadelvisitante/publicaciones" role="menuitem"><span><b><img alt="page-icon" class="layout-logo-3720069" src="https://www.juntadeandalucia.es/medioambiente/portal/image/layout_icon?img_id=3959772&amp;t=1636442790635"> Publicaciones</b></span></a>
+				</li>
+
+				<li class="evr-main-navigation__item  hasChildren" id="layout_19" role="presentation" tabindex="0">
+					<span class="evr-main-navigation__link evr-main-navigation__link--dropdown" aria-labelledby="layout_19" role="menuitem"><img alt="page-icon" class="layout-logo-3720079" src="https://www.juntadeandalucia.es/medioambiente/portal/image/layout_icon?img_id=3959781&amp;t=1636442790635"> Actualidad</span>
+					<button type="button" class="hidden-xl hidden-lg evr-main-navigation__link-icon"></button>
+					<div class="wpr_child-menu">
+						<ul class="child-menu" role="menu">
+							<li class="hidden" id="layout_19" role="presentation">
+								<a aria-labelledby="layout_19" role="menuitem" href="https://www.juntadeandalucia.es/medioambiente/portal/c/portal/layout?p_l_id=3720082&amp;p_v_l_s_g_id=0">Actualidad</a>
+							</li>
+
+
+							<li class="evr-main-navigation__submenu-item " id="layout_20" role="presentation" tabindex="0">
+								<a aria-labelledby="layout_20" class="evr-main-navigation__submenu-link" href="https://www.juntadeandalucia.es/medioambiente/portal/web/ventanadelvisitante/agenda" role="menuitem">Agenda</a>
+							</li>
+
+
+							<li class="evr-main-navigation__submenu-item " id="layout_22" role="presentation" tabindex="0">
+								<a aria-labelledby="layout_22" class="evr-main-navigation__submenu-link" href="https://www.juntadeandalucia.es/medioambiente/portal/web/ventanadelvisitante/noticias" role="menuitem">Noticias</a>
+							</li>
+
+
+							<li class="evr-main-navigation__submenu-item " id="layout_24" role="presentation" tabindex="0">
+								<a aria-labelledby="layout_24" class="evr-main-navigation__submenu-link" href="https://www.juntadeandalucia.es/medioambiente/portal/web/ventanadelvisitante/avisos" role="menuitem">Avisos</a>
+							</li>
+						</ul>
+					</div>
+					</li>
+	</ul>
+</nav>                <div class="evr-header__user">
+                    <button id="toggleMainMenu" type="button" class="evr-btn toggleMainMenu btn btn-icon sidenav-toggler visible-xs visible-sm visible-md" data-target="#mainMenuResponsive">
+                        <span class=""></span>
+                        <span class=""></span>
+                        <span class=""></span>
+                    </button>
+                    <div class="evr-search">
+                        <button class="evr-search__icon-search">
+                            <svg class="lexicon-icon lexicon-icon-search" focusable="false" role="img" viewBox="0 0 512 512"><title>search</title>
+                                <path class="lexicon-icon-outline" d="M503.254 467.861l-133.645-133.645c27.671-35.13 44.344-79.327 44.344-127.415 0-113.784-92.578-206.362-206.362-206.362s-206.362 92.578-206.362 206.362 92.578 206.362 206.362 206.362c47.268 0 90.735-16.146 125.572-42.969l133.851 133.851c5.002 5.002 11.554 7.488 18.106 7.488s13.104-2.486 18.106-7.488c10.004-10.003 10.004-26.209 0.029-36.183zM52.446 206.801c0-85.558 69.616-155.173 155.173-155.173s155.174 69.616 155.174 155.173-69.616 155.173-155.173 155.173-155.173-69.616-155.173-155.173z"></path>
+                            </svg>
+                        </button>
+                        <div class="t-hide evr-search__content">
+                            <button class="evr-search__icon-search-close"></button>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+
+	<div class="portlet-boundary portlet-boundary_AssetSearchPlugin_  portlet-static portlet-static-end portlet-decorate  " id="p_p_id_AssetSearchPlugin_INSTANCE_globalsearchvv_">
+		<span id="p_AssetSearchPlugin_INSTANCE_globalsearchvv"></span>
+
+
+
+	
+
+		
+
+			
+				
+					
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+
+		
+
+		
+<section class="portlet" id="portlet_AssetSearchPlugin_INSTANCE_globalsearchvv">
+
+
+	<div class="portlet-content">
+
+		<span class="portlet-title-text">Search Portlet</span>
+
+		
+			<div class=" portlet-content-container">
+				
+
+
+	<div class="portlet-body">
+
+
+
+	
+		
+			
+				
+					
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+
+				
+
+				
+					
+						
+
+
+	
+
+		
+
+
+
+
+
+
+
+
+
+
+
+<!-- CUSTOM IMPORTS -->
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+
+	<div class="evr-section">
+            
+
+
+
+<script type="text/javascript">
+// <![CDATA[
+
+
+    var namespace = '_AssetSearchPlugin_INSTANCE_globalsearchvv_';
+    var id = {};
+    id.searchButton = 'searchButton';
+    id.searchButtonMinimize = 'searchButtonMinimize';
+            id.searchTextInputMinimize = 'searchTextInputMinimize';
+            id.searchTextInput = 'searchTextInput';
+            id.resultsDiv = 'resultsDiv';
+            id.categoryDiv = 'categoriesDiv';
+            id.category = 'category';
+            id.searchDateInput = 'searchDateInput';
+            id.pagination = 'pagination';
+            id.errorDates = 'ErrorDates';
+            id.sponsoredAsset = 'sponsoredAssetDiv';
+            id.resetDateFilter = 'resetDateFilter';
+            id.resetTextFilter = 'resetTextFilter';
+            id.filterMyObjects = 'filterMyObjects';
+            id.formFilter = 'sc-formFilters';
+            id.newsFilters = 'sc-newsFilters';
+            id.updateAnnouncement = 'updateAnnouncement';
+            id.formUpdateAnnouncement = 'ModifyAnnouncementRequestForm';
+            id.dateFilterMessage = 'dateFilterMessage';
+            id.dailySummaryButton = 'dailySummaryButton';
+            id.datepicker = '[data-datepicker]';
+            id.accesible = 'Accesible';
+
+            pagination = {};
+            pagination.curPage=0;
+            pagination.delta=0;
+            initialSearch=false;
+
+            url = {};
+            url.searchUrl='https://www.juntadeandalucia.es/medioambiente/portal/web/ventanadelvisitante/buscador-de-espacios-naturales-y-equipamientos?p_p_id=AssetSearchPlugin_INSTANCE_globalsearchvv&p_p_lifecycle=2&p_p_state=normal&p_p_mode=view&p_p_resource_id=%2Fsearch&p_p_cacheability=cacheLevelPage&_AssetSearchPlugin_INSTANCE_globalsearchvv_categoryVal=';
+            url.backUrl='';
+            url.getDetailUrl='';
+            url.suggestionSearchURL='';
+            url.publishAnnouncement='';
+            url.retrieveInfoAnnouncement='';
+            url.dailySummaryDownloadLink='';
+            url.pageSearchLocation = '/medioambiente/portal/web/ventanadelvisitante/buscador';
+            url.exportURL = '';
+
+            categories = [];
+            categoriesValues = [];
+            catParam = [];
+            categoriesHierarchyEnabled = false;
+
+            showDateOnResult = false;
+            firstSearchFilteredByDate = false;
+            firstSearchFilteredByRangeDate = false;
+            firstSearchFilteredByFullMonthDate = false;
+            firstSearchRangeDate= 0;
+            dailySummaryDownloadLinkEnable = "";
+            dailySummaryDownloadLinkUrl = '#';
+            dates = '';
+            var queryString = window.location.search;
+            var urlParams = new URLSearchParams(queryString);
+            if(urlParams.get("searchDateVal") !== ""){
+                dates = String(urlParams.get("searchDateVal")).replace(",","-");
+                //console.log("[head] "+dates);
+            }
+
+            message = {};
+            message.prev = '<liferay-ui:message key="search-prepage"/>';
+            message.next = '<liferay-ui:message key="search-postpage"/>';
+            message.loading = '<liferay-ui:message key="search-loading"/>';
+            message.filterMyObjects = '<liferay-ui:message key=""/>';
+            message.filterMyObjectsTotal = '<liferay-ui:message key="-total"/>';
+
+            showYearsDateRange = ('false'=== 'true');
+            filterMinYear = parseInt('0');
+            
+            var datesRangeJSON = [];
+            if (datesRangeJSON.length>0) {
+            	eventsDatesRangeJSON = datesRangeJSON;
+            }
+
+            var filters_AssetSearchPlugin_INSTANCE_globalsearchvv_ = new Filter(namespace, id, pagination, url, categories, categoriesValues, catParam,
+            categoriesHierarchyEnabled, message, showDateOnResult , firstSearchFilteredByDate ,
+            firstSearchFilteredByRangeDate, firstSearchFilteredByFullMonthDate, firstSearchRangeDate , dailySummaryDownloadLinkEnable,
+            dailySummaryDownloadLinkUrl , showYearsDateRange, filterMinYear, dates,initialSearch);
+            // console.log("Portlet head => filters: ",filters_AssetSearchPlugin_INSTANCE_globalsearchvv_);
+
+// ]]>
+</script>
+
+            
+
+
+
+
+
+
+
+
+
+
+
+<!-- CUSTOM IMPORTS -->
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div id="filtersDiv" class="evr-filter">
+
+    <div class="clearfix evr-menu-modifier">
+    
+    	<div class="evr-filter__right">
+            <form action="#" method="post">
+                <div class="evr-filter__search__container" id="searchDiv">
+                    <div class="" id="cajaMulticategories">
+                        <div id="headerSearchField" class="evr-filter__search">
+                            <div class="input-group">
+                                 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	<div class="form-group input-text-wrapper">
+
+
+
+
+
+
+
+
+
+	
+
+		
+
+		
+			
+				<input class="field search-sugest-field form-control form-control" id="_AssetSearchPlugin_INSTANCE_globalsearchvv_searchTextInputMinimize" name="_AssetSearchPlugin_INSTANCE_globalsearchvv_searchTextInputMinimize" placeholder="Buscar" title="Buscar" type="text" value="">
+			
+		
+
+		
+	
+
+
+
+
+
+
+
+	</div>
+
+
+
+                            	 <span class="input-group-btn">
+                                    <button class="btn btn-search-filter" id="_AssetSearchPlugin_INSTANCE_globalsearchvv_searchButtonMinimize" type="button" label="">Buscar</button>
+                                </span>
+                            </div>                                        
+                        </div>                                   
+                    </div>                  
+                </div>                
+            </form>
+        </div>
+    </div>
+</div>
+
+<script type="text/javascript">
+// <![CDATA[
+
+    $(document).ready(function(){
+        filters_AssetSearchPlugin_INSTANCE_globalsearchvv_.getElement('searchButtonMinimize').click({
+                instance : filters_AssetSearchPlugin_INSTANCE_globalsearchvv_,
+                resetCur : true,
+                isBase : false,
+                //filterMyObjectsSelected : false
+            }, filters_AssetSearchPlugin_INSTANCE_globalsearchvv_.minimizeSearch);
+
+        filters_AssetSearchPlugin_INSTANCE_globalsearchvv_.getElement('searchTextInputMinimize').keypress(function(event) {
+            var key = event.which;
+
+            if (key == 13) { /* the tener key code */
+                filters_AssetSearchPlugin_INSTANCE_globalsearchvv_.minimizeSearch(null, {
+                instance : filters_AssetSearchPlugin_INSTANCE_globalsearchvv_,
+                resetCur : true,
+                isBase : false,
+                //filterMyObjectsSelected : false
+                });
+                return false;
+            }
+        });
+
+    });
+
+
+// ]]>
+</script>
+
+	</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+	
+					
+				
+			
+		
+	
+	
+
+
+	</div>
+
+			</div>
+		
+	</div>
+</section>
+
+		
+	
+
+				
+				
+
+		
+
+	
+
+
+
+
+
+
+
+	</div>
+
+
+
+
+                        </div>
+                    </div>
+                    <!-- Boton zona personal -->
+                    	<a href="https://www.juntadeandalucia.es/medioambiente/portal/web/ventanadelvisitante/espacio-personal" class="evr-btn user" title="Espacio Personal" style="text-decoration: none;">
+                        	<figure style="display: inline;">
+                        		<img alt="Espacio Personal" src="https://www.juntadeandalucia.es/medioambiente/portal/o/ventana-theme/images/icons/user.png" style="width: 25px;">
+                        	</figure>
+                        </a>
+                    <div class="evr-language">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+
+	<div class="portlet-boundary portlet-boundary_com_liferay_site_navigation_language_web_portlet_SiteNavigationLanguagePortlet_  portlet-static portlet-static-end portlet-decorate portlet-language " id="p_p_id_com_liferay_site_navigation_language_web_portlet_SiteNavigationLanguagePortlet_">
+		<span id="p_com_liferay_site_navigation_language_web_portlet_SiteNavigationLanguagePortlet"></span>
+
+
+
+	
+
+		
+
+			
+				
+					
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+
+		
+
+		
+<section class="portlet" id="portlet_com_liferay_site_navigation_language_web_portlet_SiteNavigationLanguagePortlet">
+
+
+	<div class="portlet-content">
+
+		<span class="portlet-title-text">Selector de idioma</span>
+
+		
+			<div class=" portlet-content-container">
+				
+
+
+	<div class="portlet-body">
+
+
+
+	
+		
+			
+				
+					
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+
+				
+
+				
+					
+						
+
+
+	
+
+		
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+
+	
+	<style>
+		.taglib-language-option {
+			background: none no-repeat 5px center;
+			padding-left: 25px;
+		}
+		
+		.evr-language__item .evr-language__btn {
+			padding: 0;
+		}
+		
+		.evr-language__item .evr-language__btn .language-entry-short-text{
+			display: block;
+			padding: 0.625rem 0.4375rem 0.5625rem;
+		}
+		
+			.taglib-language-option-es-ES {
+				background-image: url(https://www.juntadeandalucia.es/medioambiente/portal/o/ventana-theme/images/language/es_ES.png);
+			}
+			.taglib-language-option-en-GB {
+				background-image: url(https://www.juntadeandalucia.es/medioambiente/portal/o/ventana-theme/images/language/en_GB.png);
+			}
+			.taglib-language-option-fr-FR {
+				background-image: url(https://www.juntadeandalucia.es/medioambiente/portal/o/ventana-theme/images/language/fr_FR.png);
+			}
+			.taglib-language-option-de-DE {
+				background-image: url(https://www.juntadeandalucia.es/medioambiente/portal/o/ventana-theme/images/language/de_DE.png);
+			}
+	</style>
+	<div class="dropdown">
+    
+        <button class="btn btn-default dropdown-toggle" type="button" id="dropdownMenu1" data-toggle="dropdown" aria-haspopup="true" aria-expanded="true">
+<span class="language-entry-short-text" lang="es-ES">ES</span>                <span class="caret"></span>
+        </button>
+         <ul class="dropdown-menu evr-language__list-items" aria-labelledby="dropdownMenu1">
+                    <li class="evr-language__item">
+                        <button class="evr-language__btn">
+<span class="language-entry-short-text" lang="es-ES">ES</span>                        </button>
+                    </li>
+                    <li class="evr-language__item">
+                        <button class="evr-language__btn">
+<a href="https://www.juntadeandalucia.es/medioambiente/portal/c/portal/update_language?p_l_id=17901391&amp;redirect=%2Fmedioambiente%2Fportal%2Fweb%2Fventanadelvisitante%2Fbuscador-de-espacios-naturales-y-equipamientos%3FcategoryVal%3D&amp;languageId=en_GB" class="language-entry-short-text" lang="en-GB">EN</a>                        </button>
+                    </li>
+                    <li class="evr-language__item">
+                        <button class="evr-language__btn">
+<a href="https://www.juntadeandalucia.es/medioambiente/portal/c/portal/update_language?p_l_id=17901391&amp;redirect=%2Fmedioambiente%2Fportal%2Fweb%2Fventanadelvisitante%2Fbuscador-de-espacios-naturales-y-equipamientos%3FcategoryVal%3D&amp;languageId=fr_FR" class="language-entry-short-text" lang="fr-FR">FR</a>                        </button>
+                    </li>
+                    <li class="evr-language__item">
+                        <button class="evr-language__btn">
+<a href="https://www.juntadeandalucia.es/medioambiente/portal/c/portal/update_language?p_l_id=17901391&amp;redirect=%2Fmedioambiente%2Fportal%2Fweb%2Fventanadelvisitante%2Fbuscador-de-espacios-naturales-y-equipamientos%3FcategoryVal%3D&amp;languageId=de_DE" class="language-entry-short-text" lang="de-DE">DE</a>                        </button>
+                    </li>
+        </ul>
+    </div>
+	
+
+
+
+	
+	
+					
+				
+			
+		
+	
+	
+
+
+	</div>
+
+			</div>
+		
+	</div>
+</section>
+
+		
+	
+
+				
+				
+
+		
+
+	
+
+
+
+
+
+
+
+	</div>
+
+
+
+
+                    </div>
+                    <!-- Back url -->
+                    <div id="backButton" class="evr-language">
+                        <button onclick="goBack()"><i class="fa fa-2x fa-arrow-left fa-inverse" aria-hidden="true"></i></button>
+                    </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </header></div>
+
+<div id="mainMenuResponsive" class="evr-main-navigation--responsive sidenav-fixed sidenav-container visible-xs visible-sm visible-md closed">
+	<div class="sidenav-menu-slider">
+		<div class="sidebar sidebar-default sidenav-menu">
+
+			<div class="evr-flex__row-btw">
+				<div>
+					<h1 class="site-title clearfix">
+						<a class="logo default-logo" href="https://www.juntadeandalucia.es/medioambiente/portal/home" title="Ir a Ventana del Visitante">
+							<span class="sr-only">Ventana del Visitante</span>
+							<img alt="" src="https://www.juntadeandalucia.es/medioambiente/portal/image/company_logo?img_id=0&amp;t=1636442781739">
+						</a>
+					</h1>
+				</div>
+				<button id="toggleMainMenuClose" type="button" class="toggleMainMenu btn btn-icon sidenav-toggler" data-target="#mainMenuResponsive">
+					<span class=""></span>
+					<span class=""></span>
+					<span class=""></span>
+				</button>
+			</div>
+			<div>
+
+<nav class="sort-pages modify-pages evr-main-navigation" data-menuresponsive="initial" id="navigation" role="navigation">
+	<h1 class="hide-accessible">Navegación</h1>
+	<ul class="evr-main-navigation__list" aria-label="Páginas del sitio web" role="menubar">
+
+				<li class="evr-main-navigation__item " id="layout_4" role="presentation" tabindex="0">
+					<a class="evr-main-navigation__link" aria-labelledby="layout_4" href="https://www.juntadeandalucia.es/medioambiente/portal/web/ventanadelvisitante/inicio" role="menuitem"><span><b> Inicio</b></span></a>
+				</li>
+
+				<li aria-selected="true" class="evr-main-navigation__item selected active hasChildren" id="layout_56" role="presentation" tabindex="0">
+					<span class="evr-main-navigation__link evr-main-navigation__link--dropdown" aria-labelledby="layout_56" role="menuitem"><img alt="page-icon" class="layout-logo-17901367" src="https://www.juntadeandalucia.es/medioambiente/portal/image/layout_icon?img_id=17996020&amp;t=1636442790625"> QUÉ PUEDES HACER</span>
+					<button type="button" class="hidden-xl hidden-lg evr-main-navigation__link-icon"></button>
+					<div class="wpr_child-menu">
+						<ul class="child-menu" role="menu">
+							<li class="hidden" id="layout_56" role="presentation">
+								<a aria-labelledby="layout_56" role="menuitem" href="https://www.juntadeandalucia.es/medioambiente/portal/c/portal/layout?p_l_id=17901391&amp;p_v_l_s_g_id=0">QUÉ PUEDES HACER</a>
+							</li>
+
+
+							<li aria-selected="true" class="evr-main-navigation__submenu-item selected" id="layout_60" role="presentation" tabindex="0">
+								<a aria-labelledby="layout_60" class="evr-main-navigation__submenu-link" href="https://www.juntadeandalucia.es/medioambiente/portal/web/ventanadelvisitante/buscador-de-espacios-naturales-y-equipamientos" role="menuitem">Buscador de Espacios Naturales y Equipamientos</a>
+							</li>
+
+
+							<li aria-selected="true" class="evr-main-navigation__submenu-item selected" id="layout_58" role="presentation" tabindex="0">
+								<a aria-labelledby="layout_58" class="evr-main-navigation__submenu-link" href="https://www.juntadeandalucia.es/medioambiente/portal/web/ventanadelvisitante/actividades" role="menuitem">Actividades</a>
+							</li>
+						</ul>
+					</div>
+					</li>
+
+				<li class="evr-main-navigation__item  hasChildren" id="layout_13" role="presentation" tabindex="0">
+					<span class="evr-main-navigation__link evr-main-navigation__link--dropdown" aria-labelledby="layout_13" role="menuitem"><img alt="page-icon" class="layout-logo-3720038" src="https://www.juntadeandalucia.es/medioambiente/portal/image/layout_icon?img_id=3959761&amp;t=1636442790627"> Multimedia</span>
+					<button type="button" class="hidden-xl hidden-lg evr-main-navigation__link-icon"></button>
+					<div class="wpr_child-menu">
+						<ul class="child-menu" role="menu">
+							<li class="hidden" id="layout_13" role="presentation">
+								<a aria-labelledby="layout_13" role="menuitem" href="https://www.juntadeandalucia.es/medioambiente/portal/c/portal/layout?p_l_id=3720041&amp;p_v_l_s_g_id=0">Multimedia</a>
+							</li>
+
+
+							<li class="evr-main-navigation__submenu-item " id="layout_14" role="presentation" tabindex="0">
+								<a aria-labelledby="layout_14" class="evr-main-navigation__submenu-link" href="https://www.juntadeandalucia.es/medioambiente/portal/web/ventanadelvisitante/galer%C3%ADa-multimedia" role="menuitem">Galería multimedia</a>
+							</li>
+
+
+							<li class="evr-main-navigation__submenu-item " id="layout_16" role="presentation" tabindex="0">
+								<a aria-labelledby="layout_16" class="evr-main-navigation__submenu-link" href="https://www.juntadeandalucia.es/medioambiente/portal/web/ventanadelvisitante/videos" role="menuitem">Videos</a>
+							</li>
+						</ul>
+					</div>
+					</li>
+
+				<li class="evr-main-navigation__item " id="layout_18" role="presentation" tabindex="0">
+					<a class="evr-main-navigation__link" aria-labelledby="layout_18" href="https://www.juntadeandalucia.es/medioambiente/portal/web/ventanadelvisitante/publicaciones" role="menuitem"><span><b><img alt="page-icon" class="layout-logo-3720069" src="https://www.juntadeandalucia.es/medioambiente/portal/image/layout_icon?img_id=3959772&amp;t=1636442790635"> Publicaciones</b></span></a>
+				</li>
+
+				<li class="evr-main-navigation__item  hasChildren" id="layout_19" role="presentation" tabindex="0">
+					<span class="evr-main-navigation__link evr-main-navigation__link--dropdown" aria-labelledby="layout_19" role="menuitem"><img alt="page-icon" class="layout-logo-3720079" src="https://www.juntadeandalucia.es/medioambiente/portal/image/layout_icon?img_id=3959781&amp;t=1636442790635"> Actualidad</span>
+					<button type="button" class="hidden-xl hidden-lg evr-main-navigation__link-icon"></button>
+					<div class="wpr_child-menu">
+						<ul class="child-menu" role="menu">
+							<li class="hidden" id="layout_19" role="presentation">
+								<a aria-labelledby="layout_19" role="menuitem" href="https://www.juntadeandalucia.es/medioambiente/portal/c/portal/layout?p_l_id=3720082&amp;p_v_l_s_g_id=0">Actualidad</a>
+							</li>
+
+
+							<li class="evr-main-navigation__submenu-item " id="layout_20" role="presentation" tabindex="0">
+								<a aria-labelledby="layout_20" class="evr-main-navigation__submenu-link" href="https://www.juntadeandalucia.es/medioambiente/portal/web/ventanadelvisitante/agenda" role="menuitem">Agenda</a>
+							</li>
+
+
+							<li class="evr-main-navigation__submenu-item " id="layout_22" role="presentation" tabindex="0">
+								<a aria-labelledby="layout_22" class="evr-main-navigation__submenu-link" href="https://www.juntadeandalucia.es/medioambiente/portal/web/ventanadelvisitante/noticias" role="menuitem">Noticias</a>
+							</li>
+
+
+							<li class="evr-main-navigation__submenu-item " id="layout_24" role="presentation" tabindex="0">
+								<a aria-labelledby="layout_24" class="evr-main-navigation__submenu-link" href="https://www.juntadeandalucia.es/medioambiente/portal/web/ventanadelvisitante/avisos" role="menuitem">Avisos</a>
+							</li>
+						</ul>
+					</div>
+					</li>
+	</ul>
+</nav>			</div>
+		</div>
+	</div>
+</div>
+<div class="evr-overlay"></div>	<div id="evr-main-content" class="evr-main-content">
+<section id="content">
+    
+    <h1 class="hide-accessible">Buscador de Espacios Naturales y Equipamientos - Ventana del Visitante</h1>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+
+	<div class="portlet-boundary portlet-boundary_com_liferay_site_navigation_breadcrumb_web_portlet_SiteNavigationBreadcrumbPortlet_  portlet-static portlet-static-end portlet-decorate portlet-breadcrumb " id="p_p_id_com_liferay_site_navigation_breadcrumb_web_portlet_SiteNavigationBreadcrumbPortlet_">
+		<span id="p_com_liferay_site_navigation_breadcrumb_web_portlet_SiteNavigationBreadcrumbPortlet"></span>
+
+
+
+	
+
+		
+
+			
+				
+					
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+
+		
+
+		
+<section class="portlet" id="portlet_com_liferay_site_navigation_breadcrumb_web_portlet_SiteNavigationBreadcrumbPortlet">
+
+
+	<div class="portlet-content">
+
+		<span class="portlet-title-text">Ruta de navegación</span>
+
+		
+			<div class=" portlet-content-container">
+				
+
+
+	<div class="portlet-body">
+
+
+
+	
+		
+			
+				
+					
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+
+				
+
+				
+					
+						
+
+
+	
+
+		
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div id="_com_liferay_site_navigation_breadcrumb_web_portlet_SiteNavigationBreadcrumbPortlet_breadcrumbs-defaultScreen">
+	
+
+		
+
+		
+
+
+
+
+
+
+        <div class="reflex-grid">
+            <div class="reflex-col-xs-12">
+                <div class="evr-breadcrumbs">
+                    <ul class="evr-breadcrumbs__list">
+                            <li class="evr-breadcrumbs__item">
+                                <a href="https://www.juntadeandalucia.es/medioambiente/portal/web/ventanadelvisitante" class="evr-breadcrumbs__link" title="Ir a Ventana del Visitante">Ventana Del Visitante</a>
+                            </li>
+                            <li class="evr-breadcrumbs__item">
+                                <span class="evr-breadcrumbs__item">qué puedes hacer</span>
+                            </li>
+                            <li class="evr-breadcrumbs__item">
+                                <span class="evr-breadcrumbs__txt">Buscador de Espacios Naturales y Equipamientos</span>
+                            </li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+
+<script>
+$( document ).ready(function() {
+var noCapitalizeTile = $('.evr-breadcrumbs__txt')[0].innerText;
+
+var eliminateEnes =  noCapitalizeTile.replace(/ñ/g, "x");
+var eliminateAccents = eliminateEnes.replace("Á","AA").replace("á", "aa").replace("É","EE").replace("Í","II").replace("Ó", "OO").replace("Ú","UU").replace("é", "ee").replace("í","ii").replace("ó","oo").replace("ú", "uu").replace("à", "aaa").replace("À", "AAA").replace("è", "eee").replace("È", "EEE").replace("ì", "iii").replace("Ì", "III").replace("ò", "ooo").replace("Ò", "OOO").replace("ù", "uuu").replace("Ù", "UUU").replace("â", "aaaa").replace("Â", "AAAA").replace("ê", "eeee").replace("Ê", "EEEE").replace("î", "iiii").replace("Î", "IIII").replace("ô", "oooo").replace("Ô", "OOOO").replace("û", "uuuu").replace("Û", "UUUU");
+noCapitalizeTile = capitalizeFirstLetters(eliminateAccents);
+noCapitalizeTile = noCapitalizeTile.replace(/x/g, "ñ").replace("aaaa", "â").replace("AAAA", "Â").replace("eeee", "ê").replace("EEEE", "Ê").replace("iiii", "î").replace("IIII", "Î").replace("oooo", "ô").replace("OOOO", "Ô").replace("uuuu", "û").replace("UUUU", "Û").replace("aaa", "à").replace("AAA", "À").replace("eee", "è").replace("EEE", "È").replace("iii", "ì").replace("III", "Ì").replace("ooo", "ò").replace("OOO", "Ò").replace("uuu", "ù").replace("UUU", "Ù").replace("Aa","Á").replace("aa","á").replace("Ee","É").replace("Ii","Í").replace("Oo","Ó").replace("Uu","Ú").replace("ee","é").replace("ii","í").replace("oo","ó").replace("uu","ú");
+
+
+noCapitalizeTile.toLowerCase().replace("i", s => noCapitalizeTile[1].toUpperCase())
+noCapitalizeTile = noCapitalizeTile.replace("-l", "-L");
+// Procesamiento para número romano "II"
+if (noCapitalizeTile.charAt(noCapitalizeTile.length-1) == 'Í'){
+    noCapitalizeTile = noCapitalizeTile.substring(0, noCapitalizeTile.length - 1);
+    noCapitalizeTile = noCapitalizeTile + "II";
+}
+
+$('.evr-breadcrumbs__txt')[0].innerText = noCapitalizeTile;
+
+var noCapitalizeTitle2 = $('.evr-breadcrumbs__link');
+
+/*for(var i = 0; i < noCapitalizeTitle2.length ; i++){
+   noCapitalizeTitle2[i].text = capitalizeFirstLetters(noCapitalizeTitle2[i].text);
+}*/
+
+function capitalizeFirstLetters(str){
+    const regex = /(^|\b(?!(the|for|to|a|e|i|o|u|á|é|í|ó|ú|ante|con|contra|de|del|desde|en|y|las|la|lo|los|el|entre|hacia|hasta|para|según|sin|so|sobre|tras|por|')\b))\w+/g;
+    let transformed = str.toLowerCase().replace(regex, function(s){
+        return s[0].toUpperCase() + s.slice(1)
+    });
+    const regexZec = /[A-Za-z]{2}[0-9]{7}/;
+    transformed = transformed.replace(regexZec, function(s){
+        return s.toUpperCase();
+    });
+    return transformed;
+}
+});
+</script>
+	
+</div>
+
+	
+	
+					
+				
+			
+		
+	
+	
+
+
+	</div>
+
+			</div>
+		
+	</div>
+</section>
+
+		
+	
+
+				
+				
+
+		
+
+	
+
+
+
+
+
+
+
+	</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="columns-1" id="main-content" role="main">
+	<div class="portlet-layout row">
+		<div class="col-md-12 portlet-column portlet-column-only" id="column-1">
+			<div class="portlet-dropzone portlet-column-content portlet-column-content-only" id="layout-column_column-1">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+
+	<div class="portlet-boundary portlet-boundary_AssetSearchPlugin_  portlet-static portlet-static-end portlet-decorate  " id="p_p_id_AssetSearchPlugin_INSTANCE_rbJEpPKqmqSg_">
+		<span id="p_AssetSearchPlugin_INSTANCE_rbJEpPKqmqSg"></span>
+
+
+
+	
+
+		
+
+			
+				
+					
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+
+		
+
+		
+<section class="portlet" id="portlet_AssetSearchPlugin_INSTANCE_rbJEpPKqmqSg">
+
+
+	<div class="portlet-content">
+
+		<span class="portlet-title-text">Search Portlet</span>
+
+		
+			<div class=" portlet-content-container">
+				
+
+
+	<div class="portlet-body">
+
+
+
+	
+		
+			
+				
+					
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+
+				
+
+				
+					
+						
+
+
+	
+
+		
+
+
+
+
+
+
+
+
+
+
+
+<!-- CUSTOM IMPORTS -->
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+
+
+
+
+
+	<!-- <div id="evr-ventana-map" class="evr-section evr-ventana-map--bg"> -->
+	<div id="evr-ventana-map" class="evr-section">
+		<div class="maxwidth">
+			
+
+
+
+
+
+            
+
+
+
+<script src="https://www.juntadeandalucia.es/medioambiente/portal/o/asset-search-plugin/js/jquery.cookie.js"></script>
+
+<!-- COMPONENTE BUSCADOR DE MAPA -->
+<section class="evr-search-map evr-search-map--background">
+	<div class="">
+		<div class="collapse in evr-search-map__container" id="toggle-example">
+			<legend class="t-hideAccessible">
+				Buscador de mapa avanzado
+			</legend>
+
+			<div class="">
+				<form id="evr-formFilters" method="post" action="#">
+					<fieldset>
+						<legend class="evr-title-page__legend">Buscador de Espacios Naturales y Equipamientos</legend>
+						<div class="evr-search-map__flex">
+							<!-- busqueda -->
+							<div class="evr-search-map__flex-wrap">
+								<label class="evr-selectmenu__label evr-selectmenu__label--hide" for="_AssetSearchPlugin_INSTANCE_rbJEpPKqmqSg_searchTextInput">Buscar</label>
+								<div class="evr-input-ico evr-input-ico--button-search-right">
+									<i class="evr-input-ico__icon fa fa-search"></i> <label class="evr-input-ico__label hide-accessible" for="_AssetSearchPlugin_INSTANCE_rbJEpPKqmqSg_searchTextInput">Buscar por palabras</label>
+									
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	<div class="form-group input-text-wrapper">
+
+
+
+
+
+
+
+
+
+	
+
+		
+
+		
+			
+				<input class="field evr-input-ico__ipt form-control" id="_AssetSearchPlugin_INSTANCE_rbJEpPKqmqSg_searchTextInput" name="_AssetSearchPlugin_INSTANCE_rbJEpPKqmqSg_searchTextInput" placeholder="Buscar por palabras" title="Buscar por palabras" type="text" value="" autocomplete="off">
+			
+		
+
+		
+	
+
+
+
+
+
+
+
+	</div>
+
+
+
+								</div>
+							</div>
+							<!-- provincias + espacios naturales -->
+							
+								
+									
+										<div class="evr-search-map__flex-wrap evr-selectmenu">
+										    
+											<label class="evr-selectmenu__label" for="_AssetSearchPlugin_INSTANCE_rbJEpPKqmqSg_category0-button">
+												<!-- vv.search.map.jsp.tipos.de.espacios.naturales -->
+												TIPOS DE ESPACIOS NATURALES
+												</label>
+												
+											
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="form-group input-select-wrapper">
+	
+
+	
+
+	<select class="form-control selectpicker evr-custom-select evr-catselect" id="_AssetSearchPlugin_INSTANCE_rbJEpPKqmqSg_category0" name="_AssetSearchPlugin_INSTANCE_rbJEpPKqmqSg_categoryTipos de Espacios Naturales" onchange="updateSubCategory('Tipos de Espacios Naturales', 'category0')" title="Seleccione un tipo de espacio" data-selectmenu="Tipos de Espacios Naturales" style="display: none;">
+		
+
+		
+
+		<option class="evr-custom-select__link" value="0" data-order="-1">
+
+
+	Seleccione un tipo de espacio
+
+														</option>
+													
+	
+													
+												
+												
+													<!--  -->
+													
+	
+													
+												
+													<!--  -->
+													
+	
+													
+												
+													<!--  -->
+													
+	
+													
+												
+													<!--  -->
+													
+	
+													
+												
+													<!--  -->
+													
+	
+													
+												
+													<!--  -->
+													
+	
+													
+												
+													<!--  -->
+													
+	
+													
+												
+													<!--  -->
+													
+	
+													
+												
+													<!--  -->
+													
+	
+													
+												
+													<!--  -->
+													
+	
+													
+												
+													<!--  -->
+													
+	
+													
+												
+													<!--  -->
+													
+	
+													
+												
+													<!--  -->
+													
+	
+													
+												
+													<!--  -->
+													
+	
+													
+												
+													<!--  -->
+													
+	
+													
+												
+													<!--  -->
+													
+	
+													
+												
+													<!--  -->
+													
+	
+													
+	<option value="1727746" class="evr-custom-select__link">
+														    GEOPARQUE</option><option value="1727689" class="evr-custom-select__link">
+														    LUGAR DE IMPORTANCIA COMUNITARIA</option><option value="1727632" class="evr-custom-select__link">
+														    MONUMENTO NATURAL</option><option value="1727642" class="evr-custom-select__link">
+														    PAISAJE PROTEGIDO</option><option value="1727653" class="evr-custom-select__link">
+														    PARAJE NATURAL</option><option value="1727619" class="evr-custom-select__link">
+														    PARQUE NACIONAL</option><option value="1727592" class="evr-custom-select__link">
+														    PARQUE NATURAL</option><option value="1727665" class="evr-custom-select__link">
+														    PARQUE PERIURBANO</option><option value="1727740" class="evr-custom-select__link">
+														    PATRIMONIO DE  LA HUMANIDAD</option><option value="1727736" class="evr-custom-select__link">
+														    RESERVA DE LA BIOSFERA</option><option value="1727606" class="evr-custom-select__link">
+														    RESERVA NATURAL</option><option value="1727676" class="evr-custom-select__link">
+														    RESERVA NATURAL CONCERTADA</option><option value="7769689" class="evr-custom-select__link">
+														    SIN ESPACIO NATURAL ASOCIADO</option><option value="1727724" class="evr-custom-select__link">
+														    SITIO RAMSAR</option><option value="1727714" class="evr-custom-select__link">
+														    Z.E.C.</option><option value="1727700" class="evr-custom-select__link">
+														    Z.E.P.A.</option><option value="6605881" class="evr-custom-select__link">
+														    Z.E.P.I.M.</option></select><span tabindex="0" id="_AssetSearchPlugin_INSTANCE_rbJEpPKqmqSg_category0-button" role="combobox" aria-expanded="false" aria-autocomplete="list" aria-owns="_AssetSearchPlugin_INSTANCE_rbJEpPKqmqSg_category0-menu" aria-haspopup="true" title="Seleccione un tipo de espacio" class="ui-selectmenu-button ui-selectmenu-button-closed ui-corner-all ui-button ui-widget" aria-activedescendant="ui-id-58" aria-labelledby="ui-id-58" aria-disabled="false"><span class="ui-selectmenu-icon ui-icon ui-icon-triangle-1-s"></span><span class="ui-selectmenu-text">
+
+
+	Seleccione un tipo de espacio
+
+														</span></span>
+
+	
+
+	
+</div>
+
+
+										<div class="ui-selectmenu-menu ui-front"><ul aria-hidden="true" aria-labelledby="_AssetSearchPlugin_INSTANCE_rbJEpPKqmqSg_category0-button" id="_AssetSearchPlugin_INSTANCE_rbJEpPKqmqSg_category0-menu" role="listbox" tabindex="0" class="ui-menu ui-corner-bottom ui-widget ui-widget-content" aria-activedescendant="ui-id-58" aria-disabled="false"><li class="ui-menu-item"><div id="ui-id-58" tabindex="-1" role="option" class="ui-menu-item-wrapper ui-state-active">
+
+
+	Seleccione un tipo de espacio
+
+														</div></li><li class="ui-menu-item"><div id="ui-id-59" tabindex="-1" role="option" class="ui-menu-item-wrapper">
+														    GEOPARQUE</div></li><li class="ui-menu-item"><div id="ui-id-60" tabindex="-1" role="option" class="ui-menu-item-wrapper">
+														    LUGAR DE IMPORTANCIA COMUNITARIA</div></li><li class="ui-menu-item"><div id="ui-id-61" tabindex="-1" role="option" class="ui-menu-item-wrapper">
+														    MONUMENTO NATURAL</div></li><li class="ui-menu-item"><div id="ui-id-62" tabindex="-1" role="option" class="ui-menu-item-wrapper">
+														    PAISAJE PROTEGIDO</div></li><li class="ui-menu-item"><div id="ui-id-63" tabindex="-1" role="option" class="ui-menu-item-wrapper">
+														    PARAJE NATURAL</div></li><li class="ui-menu-item"><div id="ui-id-64" tabindex="-1" role="option" class="ui-menu-item-wrapper">
+														    PARQUE NACIONAL</div></li><li class="ui-menu-item"><div id="ui-id-65" tabindex="-1" role="option" class="ui-menu-item-wrapper">
+														    PARQUE NATURAL</div></li><li class="ui-menu-item"><div id="ui-id-66" tabindex="-1" role="option" class="ui-menu-item-wrapper">
+														    PARQUE PERIURBANO</div></li><li class="ui-menu-item"><div id="ui-id-67" tabindex="-1" role="option" class="ui-menu-item-wrapper">
+														    PATRIMONIO DE  LA HUMANIDAD</div></li><li class="ui-menu-item"><div id="ui-id-68" tabindex="-1" role="option" class="ui-menu-item-wrapper">
+														    RESERVA DE LA BIOSFERA</div></li><li class="ui-menu-item"><div id="ui-id-69" tabindex="-1" role="option" class="ui-menu-item-wrapper">
+														    RESERVA NATURAL</div></li><li class="ui-menu-item"><div id="ui-id-70" tabindex="-1" role="option" class="ui-menu-item-wrapper">
+														    RESERVA NATURAL CONCERTADA</div></li><li class="ui-menu-item"><div id="ui-id-71" tabindex="-1" role="option" class="ui-menu-item-wrapper">
+														    SIN ESPACIO NATURAL ASOCIADO</div></li><li class="ui-menu-item"><div id="ui-id-72" tabindex="-1" role="option" class="ui-menu-item-wrapper">
+														    SITIO RAMSAR</div></li><li class="ui-menu-item"><div id="ui-id-73" tabindex="-1" role="option" class="ui-menu-item-wrapper">
+														    Z.E.C.</div></li><li class="ui-menu-item"><div id="ui-id-74" tabindex="-1" role="option" class="ui-menu-item-wrapper">
+														    Z.E.P.A.</div></li><li class="ui-menu-item"><div id="ui-id-75" tabindex="-1" role="option" class="ui-menu-item-wrapper">
+														    Z.E.P.I.M.</div></li></ul></div></div>
+										
+	                                         <!-- parentCategory.parentAssetCategory.name == 'Provincias' || -->
+	                                            <script>
+	                                                $(
+	                                                        "[data-selectmenu='Tipos de Espacios Naturales']")
+	                                                        .selectmenu(
+	                                                                {
+	                                                                    change : function(
+	                                                                            event, ui) {
+	                                                                        updateSubCategory(
+	                                                                                'Tipos de Espacios Naturales',
+	                                                                                'category0')
+	                                                                    }
+	                                                                });
+	                                            </script>
+	                                        
+	                                    
+										<!-- Si tenemos la categoria Tipo de Espacio Natural, incluimos el seleccionable: Nombre de Espacio Natural -->
+										
+											<div class="evr-search-map__flex-wrap">
+												<div class="evr-selectmenu evr-selectmenu--disabled" id="select-dinamically">
+													<label class="evr-selectmenu__label" for="_AssetSearchPlugin_INSTANCE_rbJEpPKqmqSg_espaciosNaturales-button">Nombre de Espacio Natural</label>
+													
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="form-group input-select-wrapper">
+	
+
+	
+
+	<select class="form-control disabled selectpicker evr-custom-select evr-catselect" disabled="" id="_AssetSearchPlugin_INSTANCE_rbJEpPKqmqSg_espaciosNaturales" name="_AssetSearchPlugin_INSTANCE_rbJEpPKqmqSg_espaciosNaturales" title="Seleccione un nombre de espacio" data-selectmenu="" style="display: none;">
+		
+
+		
+
+		<option class="evr-custom-select__link" value="0" data-order="-1">
+
+
+	Seleccione un nombre de espacio
+</option>
+	</select><span tabindex="-1" id="_AssetSearchPlugin_INSTANCE_rbJEpPKqmqSg_espaciosNaturales-button" role="combobox" aria-expanded="false" aria-autocomplete="list" aria-owns="_AssetSearchPlugin_INSTANCE_rbJEpPKqmqSg_espaciosNaturales-menu" aria-haspopup="true" title="Seleccione un nombre de espacio" class="ui-selectmenu-button ui-selectmenu-button-closed ui-corner-all ui-button ui-widget ui-selectmenu-disabled ui-state-disabled" aria-disabled="true" aria-activedescendant="ui-id-85" aria-labelledby="ui-id-85"><span class="ui-selectmenu-icon ui-icon ui-icon-triangle-1-s"></span><span class="ui-selectmenu-text">
+
+
+	Seleccione un nombre de espacio
+</span></span>
+
+	
+
+	
+</div>
+
+
+												<div class="ui-selectmenu-menu ui-front"><ul aria-hidden="true" aria-labelledby="_AssetSearchPlugin_INSTANCE_rbJEpPKqmqSg_espaciosNaturales-button" id="_AssetSearchPlugin_INSTANCE_rbJEpPKqmqSg_espaciosNaturales-menu" role="listbox" tabindex="0" class="ui-menu ui-corner-bottom ui-widget ui-widget-content ui-menu-disabled ui-state-disabled" aria-disabled="true" aria-activedescendant="ui-id-85"><li class="ui-menu-item"><div id="ui-id-85" tabindex="-1" role="option" class="ui-menu-item-wrapper ui-state-active">
+
+
+	Seleccione un nombre de espacio
+</div></li></ul></div></div>
+											</div>
+										
+	
+									
+									
+	
+	
+								
+							
+								
+									
+										<div class="evr-search-map__flex-wrap evr-selectmenu">
+										    
+											<label class="evr-selectmenu__label" for="_AssetSearchPlugin_INSTANCE_rbJEpPKqmqSg_category1-button">
+												<!-- vv.search.map.jsp.provincias -->
+												Provincias
+												</label>
+												
+											
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="form-group input-select-wrapper">
+	
+
+	
+
+	<select class="form-control selectpicker evr-custom-select evr-catselect" id="_AssetSearchPlugin_INSTANCE_rbJEpPKqmqSg_category1" name="_AssetSearchPlugin_INSTANCE_rbJEpPKqmqSg_categoryProvincias" onchange="updateSubCategory('Provincias', 'category1')" title="Seleccionar Provincia" data-selectmenu="Provincias" style="display: none;">
+		
+
+		
+
+		<option class="evr-custom-select__link" value="0" data-order="-1">
+
+
+	Seleccione una provincia
+
+														</option>
+	
+														<script>
+															var idB = $("[data-selectmenu='Tipos de Espacios Naturales']").attr('id') + "-button";
+															$(
+																	"[data-selectmenu='Provincias']")
+																	.selectmenu(
+																			{
+																				change : function(
+																						event, ui) {
+																					var flag = document.getElementById(idB).children[1].textContent.trim();
+																					if (flag != null){
+																						if(flag != "Seleccione un tipo de espacio"){
+																							updateSubCategory(
+																									'Provincias',
+																									'category1')
+																						}
+																					}
+																				}
+																			});
+	
+														</script>
+	
+													
+												
+												
+												
+													<!--  -->
+													
+	
+													
+												
+													<!--  -->
+													
+	
+													
+												
+													<!--  -->
+													
+	
+													
+												
+													<!--  -->
+													
+	
+													
+												
+													<!--  -->
+													
+	
+													
+												
+													<!--  -->
+													
+	
+													
+												
+													<!--  -->
+													
+	
+													
+												
+													<!--  -->
+													
+	
+													
+	<option value="1727352" class="evr-custom-select__link">
+														    ALMERÍA</option><option value="1738261" class="evr-custom-select__link">
+														    CÁDIZ</option><option value="1738227" class="evr-custom-select__link">
+														    CÓRDOBA</option><option value="1738193" class="evr-custom-select__link">
+														    GRANADA</option><option value="1738237" class="evr-custom-select__link">
+														    HUELVA</option><option value="1738243" class="evr-custom-select__link">
+														    JAÉN</option><option value="1738253" class="evr-custom-select__link">
+														    MÁLAGA</option><option value="1738249" class="evr-custom-select__link">
+														    SEVILLA</option></select><span tabindex="0" id="_AssetSearchPlugin_INSTANCE_rbJEpPKqmqSg_category1-button" role="combobox" aria-expanded="false" aria-autocomplete="list" aria-owns="_AssetSearchPlugin_INSTANCE_rbJEpPKqmqSg_category1-menu" aria-haspopup="true" title="Seleccionar Provincia" class="ui-selectmenu-button ui-selectmenu-button-closed ui-corner-all ui-button ui-widget" aria-activedescendant="ui-id-76" aria-labelledby="ui-id-76" aria-disabled="false"><span class="ui-selectmenu-icon ui-icon ui-icon-triangle-1-s"></span><span class="ui-selectmenu-text">
+
+
+	Seleccione una provincia
+
+														</span></span>
+
+	
+
+	
+</div>
+
+
+										<div class="ui-selectmenu-menu ui-front"><ul aria-hidden="true" aria-labelledby="_AssetSearchPlugin_INSTANCE_rbJEpPKqmqSg_category1-button" id="_AssetSearchPlugin_INSTANCE_rbJEpPKqmqSg_category1-menu" role="listbox" tabindex="0" class="ui-menu ui-corner-bottom ui-widget ui-widget-content" aria-activedescendant="ui-id-76" aria-disabled="false"><li class="ui-menu-item"><div id="ui-id-76" tabindex="-1" role="option" class="ui-menu-item-wrapper ui-state-active">
+
+
+	Seleccione una provincia
+
+														</div></li><li class="ui-menu-item"><div id="ui-id-77" tabindex="-1" role="option" class="ui-menu-item-wrapper">
+														    ALMERÍA</div></li><li class="ui-menu-item"><div id="ui-id-78" tabindex="-1" role="option" class="ui-menu-item-wrapper">
+														    CÁDIZ</div></li><li class="ui-menu-item"><div id="ui-id-79" tabindex="-1" role="option" class="ui-menu-item-wrapper">
+														    CÓRDOBA</div></li><li class="ui-menu-item"><div id="ui-id-80" tabindex="-1" role="option" class="ui-menu-item-wrapper">
+														    GRANADA</div></li><li class="ui-menu-item"><div id="ui-id-81" tabindex="-1" role="option" class="ui-menu-item-wrapper">
+														    HUELVA</div></li><li class="ui-menu-item"><div id="ui-id-82" tabindex="-1" role="option" class="ui-menu-item-wrapper">
+														    JAÉN</div></li><li class="ui-menu-item"><div id="ui-id-83" tabindex="-1" role="option" class="ui-menu-item-wrapper">
+														    MÁLAGA</div></li><li class="ui-menu-item"><div id="ui-id-84" tabindex="-1" role="option" class="ui-menu-item-wrapper">
+														    SEVILLA</div></li></ul></div></div>
+										
+	                                        
+										<!-- Si tenemos la categoria Tipo de Espacio Natural, incluimos el seleccionable: Nombre de Espacio Natural -->
+										
+	
+									
+									
+	
+	
+								
+							
+								
+									
+										
+										
+										<div class="evr-search-map__flex-wrap evr-selectmenu evr-selectmenu--checkbox evr-selectmenu--multi-options" id="tipoDeEquipamiento">
+											<label class="evr-selectmenu__label" for="_AssetSearchPlugin_INSTANCE_rbJEpPKqmqSg_category2">
+												Selecciona un tipo de equipamiento
+											</label>
+											<select id="_AssetSearchPlugin_INSTANCE_rbJEpPKqmqSg_category2" name="_AssetSearchPlugin_INSTANCE_rbJEpPKqmqSg_categoryTipo de Equipamiento" multiple="multiple" data-multiselect="data-multiselect" class="form-control selectpicker evr-custom-select evr-catselect equipamiento-selectmenu-select" placeholder="Selecciona un tipo de equipamiento" title="vv.search.map.jsp.selecciona.un.tipo.de.equipamiento" style="display: none;">
+												
+													
+													
+												
+													
+													
+												
+													
+													
+												
+													
+													
+												
+													
+													
+												
+													
+													
+												
+													
+													
+												
+													
+													
+												
+													
+													
+												
+													
+													
+												
+													
+													
+												
+													
+													
+												
+													
+													
+												
+													
+													
+												
+													
+													
+												
+													
+													
+												
+													
+													
+												
+											<option class="evr-custom-select__link ui-menu-item-wrapper equipamiento-selectmenu-option" value="1731016">
+															ÁREA RECREATIVA
+													</option><option class="evr-custom-select__link ui-menu-item-wrapper equipamiento-selectmenu-option" value="1731089">
+															AULA DE LA NATURALEZA
+													</option><option class="evr-custom-select__link ui-menu-item-wrapper equipamiento-selectmenu-option" value="1732470">
+															CAMPING
+													</option><option class="evr-custom-select__link ui-menu-item-wrapper equipamiento-selectmenu-option" value="1731072">
+															CARRIL CICLOTURISTA
+													</option><option class="evr-custom-select__link ui-menu-item-wrapper equipamiento-selectmenu-option" value="1732964">
+															CASA RURAL
+													</option><option class="evr-custom-select__link ui-menu-item-wrapper equipamiento-selectmenu-option" value="1731122">
+															CENTRO DE VISITANTES
+													</option><option class="evr-custom-select__link ui-menu-item-wrapper equipamiento-selectmenu-option" value="1733035">
+															ECOMUSEO
+													</option><option class="evr-custom-select__link ui-menu-item-wrapper equipamiento-selectmenu-option" value="1731039">
+															HOTEL DE MONTAÑA
+													</option><option class="evr-custom-select__link ui-menu-item-wrapper equipamiento-selectmenu-option" value="1731343">
+															JARDÍN BOTÁNICO
+													</option><option class="evr-custom-select__link ui-menu-item-wrapper equipamiento-selectmenu-option" value="1731034">
+															MIRADOR
+													</option><option class="evr-custom-select__link ui-menu-item-wrapper equipamiento-selectmenu-option" value="1731140">
+															OBSERVATORIO
+													</option><option class="evr-custom-select__link ui-menu-item-wrapper equipamiento-selectmenu-option" value="1733510">
+															PARQUE DE FAUNA SILVESTRE
+													</option><option class="evr-custom-select__link ui-menu-item-wrapper equipamiento-selectmenu-option" value="1731033">
+															PUNTO DE INFORMACIÓN
+													</option><option class="evr-custom-select__link ui-menu-item-wrapper equipamiento-selectmenu-option" value="1731169">
+															REFUGIO
+													</option><option class="evr-custom-select__link ui-menu-item-wrapper equipamiento-selectmenu-option" value="1735758">
+															REFUGIO-VIVAC
+													</option><option class="evr-custom-select__link ui-menu-item-wrapper equipamiento-selectmenu-option" value="1731011">
+															SENDERO SEÑALIZADO
+													</option><option class="evr-custom-select__link ui-menu-item-wrapper equipamiento-selectmenu-option" value="6571092">
+															ZONA ACAMPADA CONTROLADA
+													</option></select>
+											<div class="multiselect-wrapper" id="_AssetSearchPlugin_INSTANCE_rbJEpPKqmqSg_category2_multiSelect"><div class="multiselect-input-div"><input id="_AssetSearchPlugin_INSTANCE_rbJEpPKqmqSg_category2_input" class="multiselect-input" autocomplete="off" type="text" placeholder="Selecciona un tipo de equipamiento" readonly="readonly" title="Selecciona un tipo de equipamiento"><label id="_AssetSearchPlugin_INSTANCE_rbJEpPKqmqSg_category2_" class="multiselect-count" for="_AssetSearchPlugin_INSTANCE_rbJEpPKqmqSg_category2_input" style="visibility: hidden;">0</label><label id="_AssetSearchPlugin_INSTANCE_rbJEpPKqmqSg_category2_inputArrow" class="multiselect-dropdown-arrow" for="_AssetSearchPlugin_INSTANCE_rbJEpPKqmqSg_category2_input"></label><span class="evr-custom-select__placeholder-sp t-hide"></span></div><div id="_AssetSearchPlugin_INSTANCE_rbJEpPKqmqSg_category2_itemList" class="multiselect-list"><span style="display: block;"><label><input class="multiselect-checkbox" type="checkbox" data-val="-1"><span class="multiselect-text">Todo</span></label></span><hr style="display: block;"><ul><li style="display: block;"><label><input class="multiselect-checkbox" type="checkbox" data-val="1731016" data-multiselect-element="{&quot;id&quot;:&quot;1731016&quot;,&quot;index&quot;:0,&quot;text&quot;:&quot;\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tÁREA RECREATIVA\n\t\t\t\t\t\t\t\t\t\t\t\t\t&quot;,&quot;selected&quot;:false,&quot;selectElement&quot;:{},&quot;multiselectElement&quot;:{}}"><span class="multiselect-text">
+															ÁREA RECREATIVA
+													</span></label></li><li style="display: block;"><label><input class="multiselect-checkbox" type="checkbox" data-val="1731089" data-multiselect-element="{&quot;id&quot;:&quot;1731089&quot;,&quot;index&quot;:1,&quot;text&quot;:&quot;\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tAULA DE LA NATURALEZA\n\t\t\t\t\t\t\t\t\t\t\t\t\t&quot;,&quot;selected&quot;:false,&quot;selectElement&quot;:{},&quot;multiselectElement&quot;:{}}"><span class="multiselect-text">
+															AULA DE LA NATURALEZA
+													</span></label></li><li style="display: block;"><label><input class="multiselect-checkbox" type="checkbox" data-val="1732470" data-multiselect-element="{&quot;id&quot;:&quot;1732470&quot;,&quot;index&quot;:2,&quot;text&quot;:&quot;\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tCAMPING\n\t\t\t\t\t\t\t\t\t\t\t\t\t&quot;,&quot;selected&quot;:false,&quot;selectElement&quot;:{},&quot;multiselectElement&quot;:{}}"><span class="multiselect-text">
+															CAMPING
+													</span></label></li><li style="display: block;"><label><input class="multiselect-checkbox" type="checkbox" data-val="1731072" data-multiselect-element="{&quot;id&quot;:&quot;1731072&quot;,&quot;index&quot;:3,&quot;text&quot;:&quot;\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tCARRIL CICLOTURISTA\n\t\t\t\t\t\t\t\t\t\t\t\t\t&quot;,&quot;selected&quot;:false,&quot;selectElement&quot;:{},&quot;multiselectElement&quot;:{}}"><span class="multiselect-text">
+															CARRIL CICLOTURISTA
+													</span></label></li><li style="display: block;"><label><input class="multiselect-checkbox" type="checkbox" data-val="1732964" data-multiselect-element="{&quot;id&quot;:&quot;1732964&quot;,&quot;index&quot;:4,&quot;text&quot;:&quot;\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tCASA RURAL\n\t\t\t\t\t\t\t\t\t\t\t\t\t&quot;,&quot;selected&quot;:false,&quot;selectElement&quot;:{},&quot;multiselectElement&quot;:{}}"><span class="multiselect-text">
+															CASA RURAL
+													</span></label></li><li style="display: block;"><label><input class="multiselect-checkbox" type="checkbox" data-val="1731122" data-multiselect-element="{&quot;id&quot;:&quot;1731122&quot;,&quot;index&quot;:5,&quot;text&quot;:&quot;\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tCENTRO DE VISITANTES\n\t\t\t\t\t\t\t\t\t\t\t\t\t&quot;,&quot;selected&quot;:false,&quot;selectElement&quot;:{},&quot;multiselectElement&quot;:{}}"><span class="multiselect-text">
+															CENTRO DE VISITANTES
+													</span></label></li><li style="display: block;"><label><input class="multiselect-checkbox" type="checkbox" data-val="1733035" data-multiselect-element="{&quot;id&quot;:&quot;1733035&quot;,&quot;index&quot;:6,&quot;text&quot;:&quot;\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tECOMUSEO\n\t\t\t\t\t\t\t\t\t\t\t\t\t&quot;,&quot;selected&quot;:false,&quot;selectElement&quot;:{},&quot;multiselectElement&quot;:{}}"><span class="multiselect-text">
+															ECOMUSEO
+													</span></label></li><li style="display: block;"><label><input class="multiselect-checkbox" type="checkbox" data-val="1731039" data-multiselect-element="{&quot;id&quot;:&quot;1731039&quot;,&quot;index&quot;:7,&quot;text&quot;:&quot;\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tHOTEL DE MONTAÑA\n\t\t\t\t\t\t\t\t\t\t\t\t\t&quot;,&quot;selected&quot;:false,&quot;selectElement&quot;:{},&quot;multiselectElement&quot;:{}}"><span class="multiselect-text">
+															HOTEL DE MONTAÑA
+													</span></label></li><li style="display: block;"><label><input class="multiselect-checkbox" type="checkbox" data-val="1731343" data-multiselect-element="{&quot;id&quot;:&quot;1731343&quot;,&quot;index&quot;:8,&quot;text&quot;:&quot;\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tJARDÍN BOTÁNICO\n\t\t\t\t\t\t\t\t\t\t\t\t\t&quot;,&quot;selected&quot;:false,&quot;selectElement&quot;:{},&quot;multiselectElement&quot;:{}}"><span class="multiselect-text">
+															JARDÍN BOTÁNICO
+													</span></label></li><li style="display: block;"><label><input class="multiselect-checkbox" type="checkbox" data-val="1731034" data-multiselect-element="{&quot;id&quot;:&quot;1731034&quot;,&quot;index&quot;:9,&quot;text&quot;:&quot;\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tMIRADOR\n\t\t\t\t\t\t\t\t\t\t\t\t\t&quot;,&quot;selected&quot;:false,&quot;selectElement&quot;:{},&quot;multiselectElement&quot;:{}}"><span class="multiselect-text">
+															MIRADOR
+													</span></label></li><li style="display: block;"><label><input class="multiselect-checkbox" type="checkbox" data-val="1731140" data-multiselect-element="{&quot;id&quot;:&quot;1731140&quot;,&quot;index&quot;:10,&quot;text&quot;:&quot;\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tOBSERVATORIO\n\t\t\t\t\t\t\t\t\t\t\t\t\t&quot;,&quot;selected&quot;:false,&quot;selectElement&quot;:{},&quot;multiselectElement&quot;:{}}"><span class="multiselect-text">
+															OBSERVATORIO
+													</span></label></li><li style="display: block;"><label><input class="multiselect-checkbox" type="checkbox" data-val="1733510" data-multiselect-element="{&quot;id&quot;:&quot;1733510&quot;,&quot;index&quot;:11,&quot;text&quot;:&quot;\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tPARQUE DE FAUNA SILVESTRE\n\t\t\t\t\t\t\t\t\t\t\t\t\t&quot;,&quot;selected&quot;:false,&quot;selectElement&quot;:{},&quot;multiselectElement&quot;:{}}"><span class="multiselect-text">
+															PARQUE DE FAUNA SILVESTRE
+													</span></label></li><li style="display: block;"><label><input class="multiselect-checkbox" type="checkbox" data-val="1731033" data-multiselect-element="{&quot;id&quot;:&quot;1731033&quot;,&quot;index&quot;:12,&quot;text&quot;:&quot;\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tPUNTO DE INFORMACIÓN\n\t\t\t\t\t\t\t\t\t\t\t\t\t&quot;,&quot;selected&quot;:false,&quot;selectElement&quot;:{},&quot;multiselectElement&quot;:{}}"><span class="multiselect-text">
+															PUNTO DE INFORMACIÓN
+													</span></label></li><li style="display: block;"><label><input class="multiselect-checkbox" type="checkbox" data-val="1731169" data-multiselect-element="{&quot;id&quot;:&quot;1731169&quot;,&quot;index&quot;:13,&quot;text&quot;:&quot;\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tREFUGIO\n\t\t\t\t\t\t\t\t\t\t\t\t\t&quot;,&quot;selected&quot;:false,&quot;selectElement&quot;:{},&quot;multiselectElement&quot;:{}}"><span class="multiselect-text">
+															REFUGIO
+													</span></label></li><li style="display: block;"><label><input class="multiselect-checkbox" type="checkbox" data-val="1735758" data-multiselect-element="{&quot;id&quot;:&quot;1735758&quot;,&quot;index&quot;:14,&quot;text&quot;:&quot;\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tREFUGIO-VIVAC\n\t\t\t\t\t\t\t\t\t\t\t\t\t&quot;,&quot;selected&quot;:false,&quot;selectElement&quot;:{},&quot;multiselectElement&quot;:{}}"><span class="multiselect-text">
+															REFUGIO-VIVAC
+													</span></label></li><li style="display: block;"><label><input class="multiselect-checkbox" type="checkbox" data-val="1731011" data-multiselect-element="{&quot;id&quot;:&quot;1731011&quot;,&quot;index&quot;:15,&quot;text&quot;:&quot;\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tSENDERO SEÑALIZADO\n\t\t\t\t\t\t\t\t\t\t\t\t\t&quot;,&quot;selected&quot;:false,&quot;selectElement&quot;:{},&quot;multiselectElement&quot;:{}}"><span class="multiselect-text">
+															SENDERO SEÑALIZADO
+													</span></label></li><li style="display: block;"><label><input class="multiselect-checkbox" type="checkbox" data-val="6571092" data-multiselect-element="{&quot;id&quot;:&quot;6571092&quot;,&quot;index&quot;:16,&quot;text&quot;:&quot;\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tZONA ACAMPADA CONTROLADA\n\t\t\t\t\t\t\t\t\t\t\t\t\t&quot;,&quot;selected&quot;:false,&quot;selectElement&quot;:{},&quot;multiselectElement&quot;:{}}"><span class="multiselect-text">
+															ZONA ACAMPADA CONTROLADA
+													</span></label></li></ul><div class="evr-selecmenu__container-btn" data-for="_AssetSearchPlugin_INSTANCE_rbJEpPKqmqSg_category2_itemList">
+												<button class="evr-selectmenu__btn" type="button" onclick="closeItemList()" data-clear="_AssetSearchPlugin_INSTANCE_rbJEpPKqmqSg_category2">
+													LIMPIAR
+												</button>
+												<button onclick="updateEquipamientosLabel();closeItemList()" class="evr-selectmenu__btn" type="button" data-closep="_AssetSearchPlugin_INSTANCE_rbJEpPKqmqSg_category2">
+													APLICAR
+												</button>
+											</div></div></div>
+											<div class="evr-selectmenu__container-hover" data-values=""></div>
+										</div>
+										<script>
+	                                          var equipamientoInputId = "_AssetSearchPlugin_INSTANCE_rbJEpPKqmqSg_category" + 2;
+	                                    </script>
+										
+										
+									
+								
+	
+	
+								
+							
+	
+							
+	
+							
+							<div class="evr-search-map__flex-wrap">
+								<input type="checkbox" id="check" name="_AssetSearchPlugin_INSTANCE_rbJEpPKqmqSg_Accesible" class="evr-search-map__checkbox"> <label for="check" tabindex="0">Accesible</label>
+							</div>
+							<div class="evr-search-map__flex-wrap-button">
+								<button class="evr-btn-default evr-btn-default--center evr-btn-default--block evr-btn-default--light evr-btn-default--light-no-focus t-margin-bottom-15 botonLimpiar" type="reset" onclick="resetForms(false); eventsSelect();">
+									<span class="evr-btn-default__txt">Limpiar</span>
+								</button>
+								<button id="_AssetSearchPlugin_INSTANCE_rbJEpPKqmqSg_searchButton" class="evr-btn-default evr-btn-default--center evr-btn-default--block evr-btn-default--primary botonBuscar" type="button" onclick="storeSearchCookies()">
+									<span class="evr-btn-default__txt">Buscar</span>
+								</button>
+							</div>
+						</div>
+					</fieldset>
+				</form>
+			</div>
+		</div>
+	</div>
+	<button type="button" class="evr-search-map__btn-hidden" id="toggle-btn" data-toggle="collapse" data-target="#toggle-example">
+		<span class="evr-search-map__btn-text">Ocultar</span>
+	</button>
+</section>
+
+<div id="popup" style="display: none;" class="evr-alert">
+	<div class="evr-alert__content content-popup">
+		<div class="close evr-alert__close"><a href="#" id="close"><img src="https://www.juntadeandalucia.es/medioambiente/portal/o/ventana-theme/images/componente_botones_carrusel/baseline-close-1@2x.png"></a></div>
+		<div class="evr-alert__txt-container">
+			<h2 class="evr-alert__title">Búsqueda Erronea</h2>
+			<p>Se debe seleccionar al menos un criterio de búsqueda</p>
+		</div>
+	</div>
+</div>
+<div class="popup-overlay evr-alert__overlay"></div>
+
+
+<style>
+/* LOAGINDG MAP VENTANA */
+#evr-ventana-map.evr-ventana-map--bg:before {
+content: "";
+    width: 100%;
+    height: 100vh;
+    background: rgba(0,0,0,0.4);
+    display: block;
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    z-index: 1;
+}
+#evr-ventana-map.evr-ventana-map--bg:after {
+    content: " ";
+    display: block;
+    width: 64px;
+    height: 64px;
+    margin: 8px;
+    border-radius: 50%;
+    border: 6px solid #094525;
+    border-color: #094525 transparent #094525 transparent;
+    animation: evr-dual-ring 1.2s linear infinite;
+    position: fixed;
+    top: 70%;
+    z-index: 1002;
+    left: 50%;
+}
+.evr-btn-default:disabled {
+	filter: opacity(0.5);
+	cursor: not-allowed;
+}
+.evr-btn-default:disabled:hover,
+.evr-btn-default:disabled:focus {
+	border-color: #087021;
+}
+.evr-btn-default--primary:disabled:hover,
+.evr-btn-default--primary:disabled:focus {
+	background-color: #087021;
+}
+.evr-btn-default--light:disabled:hover,
+.evr-btn-default--light:disabled:focus {
+	background-color: white;
+}
+.evr-btn-default--light:disabled:hover span.evr-btn-default__txt,
+.evr-btn-default--light:disabled:focus span.evr-btn-default__txt {
+	color: #087021 !important;
+}
+
+@keyframes evr-dual-ring {
+  0% {
+    transform: rotate(0deg);
+    -ms-transform: rotate(0deg);
+  }
+  100% {
+    transform: rotate(360deg);
+    -ms-transform: rotate(360deg);
+  }
+}
+
+/* Tipo de Equipamiento multiple selectmenu  */
+.equipamiento-selectmenu-div {
+	top: auto !important;
+	display: block;
+	border: 1px solid rgb(8, 112, 33);
+	background-color: white;
+	border-radius: 3px;
+	width: 100% !important;
+	padding-top: 0 !important;
+}
+select.equipamiento-selectmenu-select {
+	max-height: 15.625rem;
+	padding: 0;
+}
+.equipamiento-selectmenu-option {
+	min-height: 2.5rem;
+	font-size: 0.875rem;
+	cursor: pointer;
+	color: #555555;
+	white-space: nowrap;
+	overflow: hidden;
+	text-overflow: ellipsis;
+	padding: 0.5rem 2.5rem 0.5rem 0.75rem;
+	box-sizing: border-box;
+}
+.equipamiento-selectmenu-option:hover {
+	border: 1px solid #003eff;
+	background-color: #007fff;
+	background: #007fff;
+}
+option.equipamiento-selectmenu-option:checked {
+	border: 1px solid #003eff;
+	background-color: #007fff;
+	background-image: url("https://www.juntadeandalucia.es/medioambiente/portal/o/asset-search-plugin/images/equipamientoMultipleSelectColor.png");
+}
+
+</style>
+
+<style>
+.evr-article-collage-map__container {
+	position: relative;
+}
+.popupCompatibility{
+    z-index: 1000000000;
+}
+.row {
+    margin-left: 0;
+    margin-right: 0;
+}
+</style>
+
+<div id="my-content-div" class="hidden">
+	<div>
+		El mapa no es compatible con este navegador, puedes acceder sin problemas desde Chrome, Edge o Mozilla Firefox. Sentimos las molestias.
+	</div>
+	<div>
+	    Navegador utilizado: <i class="fa fa-internet-explorer"></i>
+	</div>
+	<div>
+	    Navegadores compatibles: <i class="fa fa-chrome"></i><a href="https://www.google.com/chrome/" target="_blank">(Google Chrome)</a>   <i class="fa fa-edge"></i><a href="https://www.microsoft.com/en-us/edge" target="_blank">(Microsoft Edge)</a>   <i class="fa fa-firefox"></i><a href="https://www.mozilla.org/es-ES/firefox/new/" target="_blank">(Mozilla Firefox)</a>
+	</div>
+</div>
+
+<!-- AUI Script For Modal Dialog POPUP -->
+
+
+            
+            
+                
+                    
+
+<!--  Incluimos el mapa grama -->
+<section class="evr-search-map__gramma-map">
+
+	<p>
+	<!--
+	    <iframe height="800px" id="ifr" src="https://servintegra.cma.junta-andalucia.es/medioambiente/gr-gibroker/saltoVisor/86d173f9-07c8-4af6-a7d4-43816d9c99e5?url_image=https%3A%2F%2Flrvisint.cma.junta-andalucia.es%2Fmedioambiente%2Fo%2Fventana-theme%2Fjs%2Flibs-gis%2Fvisor_gis%2Fimages%2Ficons%2F&amp;url_ver_ficha=https%3A%2F%2Flrvisint.cma.junta-andalucia.es%2Fmedioambiente%2Fc%2Fportal%2Fgrama-get-url%3F"></iframe>
+-->
+	    <iframe height="800px" id="ifr" loading="lazy" src="https://www.juntadeandalucia.es/medioambiente/gr-gibroker/saltoVisor/86d173f9-07c8-4af6-a7d4-43816d9c99e5?url_image=%2Fmedioambiente%2Fportal%2Fo%2Fventana-theme%2Fjs%2Flibs-gis%2Fvisor_gis%2Fimages%2Ficons%2F&amp;url_ver_ficha=%2Fmedioambiente%2Fportal%2Fc%2Fportal%2Fgrama-get-url%3F" title="MAPA"></iframe>
+	</p>
+
+</section>
+                
+            
+            
+	
+    <div id="_AssetSearchPlugin_INSTANCE_rbJEpPKqmqSg_resultsDiv">
+
+
+
+
+
+
+
+
+
+
+
+<!-- CUSTOM IMPORTS -->
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    <input type="hidden" id="curUserId" value="20119">
+    <section class="evr-map-result">
+        
+
+
+
+
+
+
+
+
+
+
+
+
+<!-- CUSTOM IMPORTS -->
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<input type="hidden" name="exportResults" class="exportResults" value="true">
+
+
+
+<div class="reflex-container-full" style="padding-left: 0px; padding-right: 0px;">
+	<div class="">
+		<div class="reflex-col-xs-12 reflex-col-sm-4 reflex-col-md-4 reflex-col-lg-4 results-summary" style="width: 49%;">
+			<span class="evr-map-result__txt">Resultados</span> <span class="evr-map-result__txt">(8)</span>
+		</div>
+		
+		
+			<div class="reflex-col-xs-12 reflex-col-sm-8 reflex-col-md-8 reflex-col-lg-6 results-summary">
+				<div class="evr-map-result__btn-container">
+				<a class="csvExport">
+						<button class="evr-btn-thumb evr-map-result__btn" type="button">
+							<figure class="evr-btn-thumb__icon">
+								<img src="https://www.juntadeandalucia.es/medioambiente/portal/o/ventana-theme/images/icons/csv.png" alt="Icono descarga CSV">
+							</figure>
+							<span class="evr-btn-thumb__txt">EXPORTAR RESULTADOS</span>
+						</button>
+					</a>  
+
+				</div>
+			</div>
+		
+		
+	</div>
+</div>
+
+<script type="text/javascript">
+// <![CDATA[
+
+$(".csvExport").click(function() {
+    filters_AssetSearchPlugin_INSTANCE_rbJEpPKqmqSg_.exportResults(null, { instance: filters_AssetSearchPlugin_INSTANCE_rbJEpPKqmqSg_, resetCur : true,	isBase : false, sortedBy : 'sortedByTitleAsc', filterMyObjectsSelected : false});
+});
+
+
+
+// ]]>
+</script>
+        <div class="">
+            <div class="">
+                <div class="evr-map-result__paragraph">
+                    
+                        
+                            
+                            
+                                
+                                
+                                
+                                    
+                                
+                                
+                                
+                                
+                                
+                                
+                                
+                                
+                                
+                                
+                                
+                                
+                                
+                                
+                                
+
+                                
+                                    
+                                        
+                                        
+                                            <div class="evr-map-result__box reflex-col-xs-12 reflex-col-sm-6 reflex-col-md-6 reflex-col-lg-3" id="_AssetSearchPlugin_INSTANCE_rbJEpPKqmqSg_asset0">
+                                                
+                                                <a href="#" id="_AssetSearchPlugin_INSTANCE_rbJEpPKqmqSg_follow_reading_asset0" onclick="filters_AssetSearchPlugin_INSTANCE_rbJEpPKqmqSg_.showDetail_vv('5759361','255035')">
+                                                    <span class="hidden articleId">5759361</span>
+                                                    <span class="hidden groupId">255035</span>
+                                                    
+                                                    
+                                                            <article class="evr-article-collage-map">
+                                                                <div class="evr-article-collage-map__container">
+                                                                    <div class="evr-article-collage-map__collection">
+                                                                        <!--  -->
+                                                                        <figure class="evr-article-collage-map__thumb">
+                                                                            <img src="https://www.juntadeandalucia.es/medioambiente/portal/documents/255035/5656446/63_PN_06.jpg/115fbf4e-cf2d-95ef-cb49-f28d0b35640f?t=1609235820322" alt="BAHIA DE CADIZ">
+                                                                        </figure>
+                                                                    </div>
+                                                                    <div class="evr-article-collage-map__body">
+                                                                        <span class="evr-article-collage-map__tag">ESPACIO NATURAL: LUGAR DE IMPORTANCIA COMUNITARIA (L.I.C.)</span>
+                                                                        <span class="evr-article-collage-map__title">BAHIA DE CADIZ</span>
+                                                                        <span class="evr-article-collage-map__time">CÁDIZ</span>
+                                                                        <div class="evr-article-collage-map__container-accesible">
+                                                                            
+                                                                            
+                                                                            
+                                                                        </div>
+                                                                    </div>
+                                                                </div>
+                                                            </article>
+                                                        </a>
+                                            </div>
+                                    
+                                    
+                            
+                                
+                                
+                                
+                                    
+                                
+                                
+                                
+                                
+                                
+                                
+                                
+                                
+                                
+                                
+                                
+                                
+                                
+                                
+                                
+
+                                
+                                    
+                                        
+                                        
+                                            <div class="evr-map-result__box reflex-col-xs-12 reflex-col-sm-6 reflex-col-md-6 reflex-col-lg-3" id="_AssetSearchPlugin_INSTANCE_rbJEpPKqmqSg_asset1">
+                                                
+                                                <a href="#" id="_AssetSearchPlugin_INSTANCE_rbJEpPKqmqSg_follow_reading_asset1" onclick="filters_AssetSearchPlugin_INSTANCE_rbJEpPKqmqSg_.showDetail_vv('5759345','255035')">
+                                                    <span class="hidden articleId">5759345</span>
+                                                    <span class="hidden groupId">255035</span>
+                                                    
+                                                    
+                                                            <article class="evr-article-collage-map">
+                                                                <div class="evr-article-collage-map__container">
+                                                                    <div class="evr-article-collage-map__collection">
+                                                                        <!--  -->
+                                                                        <figure class="evr-article-collage-map__thumb">
+                                                                            <img src="https://www.juntadeandalucia.es/medioambiente/portal/documents/255035/5726468/63_AC_01.jpg/8512dc8c-1a5f-cd74-5052-1a414256596f?t=1609236342059" alt="BAHIA DE CADIZ">
+                                                                        </figure>
+                                                                    </div>
+                                                                    <div class="evr-article-collage-map__body">
+                                                                        <span class="evr-article-collage-map__tag">ESPACIO NATURAL: PARQUE NATURAL</span>
+                                                                        <span class="evr-article-collage-map__title">BAHIA DE CADIZ</span>
+                                                                        <span class="evr-article-collage-map__time">CÁDIZ</span>
+                                                                        <div class="evr-article-collage-map__container-accesible">
+                                                                            
+                                                                            
+                                                                            
+                                                                        </div>
+                                                                    </div>
+                                                                </div>
+                                                            </article>
+                                                        </a>
+                                            </div>
+                                    
+                                    
+                            
+                                
+                                
+                                
+                                    
+                                
+                                
+                                
+                                
+                                
+                                
+                                
+                                
+                                
+                                
+                                
+                                
+                                
+                                
+                                
+
+                                
+                                    
+                                        
+                                        
+                                            <div class="evr-map-result__box reflex-col-xs-12 reflex-col-sm-6 reflex-col-md-6 reflex-col-lg-3" id="_AssetSearchPlugin_INSTANCE_rbJEpPKqmqSg_asset2">
+                                                
+                                                <a href="#" id="_AssetSearchPlugin_INSTANCE_rbJEpPKqmqSg_follow_reading_asset2" onclick="filters_AssetSearchPlugin_INSTANCE_rbJEpPKqmqSg_.showDetail_vv('5759353','255035')">
+                                                    <span class="hidden articleId">5759353</span>
+                                                    <span class="hidden groupId">255035</span>
+                                                    
+                                                    
+                                                            <article class="evr-article-collage-map">
+                                                                <div class="evr-article-collage-map__container">
+                                                                    <div class="evr-article-collage-map__collection">
+                                                                        <!--  -->
+                                                                        <figure class="evr-article-collage-map__thumb">
+                                                                            <img src="https://www.juntadeandalucia.es/medioambiente/portal/documents/255035/5540161/63_PN_23.jpg/e3c58953-c771-457b-8d61-44eca0c347d2?t=1609230783529" alt="BAHIA DE CADIZ">
+                                                                        </figure>
+                                                                    </div>
+                                                                    <div class="evr-article-collage-map__body">
+                                                                        <span class="evr-article-collage-map__tag">ESPACIO NATURAL: SITIO RAMSAR</span>
+                                                                        <span class="evr-article-collage-map__title">BAHIA DE CADIZ</span>
+                                                                        <span class="evr-article-collage-map__time">CÁDIZ</span>
+                                                                        <div class="evr-article-collage-map__container-accesible">
+                                                                            
+                                                                            
+                                                                            
+                                                                        </div>
+                                                                    </div>
+                                                                </div>
+                                                            </article>
+                                                        </a>
+                                            </div>
+                                    
+                                    
+                            
+                                
+                                
+                                
+                                    
+                                
+                                
+                                
+                                
+                                
+                                
+                                
+                                
+                                
+                                
+                                
+                                
+                                
+                                
+                                
+
+                                
+                                    
+                                        
+                                        
+                                            <div class="evr-map-result__box reflex-col-xs-12 reflex-col-sm-6 reflex-col-md-6 reflex-col-lg-3" id="_AssetSearchPlugin_INSTANCE_rbJEpPKqmqSg_asset3">
+                                                
+                                                <a href="#" id="_AssetSearchPlugin_INSTANCE_rbJEpPKqmqSg_follow_reading_asset3" onclick="filters_AssetSearchPlugin_INSTANCE_rbJEpPKqmqSg_.showDetail_vv('5759337','255035')">
+                                                    <span class="hidden articleId">5759337</span>
+                                                    <span class="hidden groupId">255035</span>
+                                                    
+                                                    
+                                                            <article class="evr-article-collage-map">
+                                                                <div class="evr-article-collage-map__container">
+                                                                    <div class="evr-article-collage-map__collection">
+                                                                        <!--  -->
+                                                                        <figure class="evr-article-collage-map__thumb">
+                                                                            <img src="https://www.juntadeandalucia.es/medioambiente/portal/documents/255035/5656446/63_PN_11.jpg/4a18f3d1-d6e9-6da2-09bd-4a54d4d72428?t=1609236209107" alt="BAHIA DE CADIZ">
+                                                                        </figure>
+                                                                    </div>
+                                                                    <div class="evr-article-collage-map__body">
+                                                                        <span class="evr-article-collage-map__tag">ESPACIO NATURAL: ZONA DE ESPECIAL PROTECCIÓN DE LAS AVES (Z.E.P.A.)</span>
+                                                                        <span class="evr-article-collage-map__title">BAHIA DE CADIZ</span>
+                                                                        <span class="evr-article-collage-map__time">CÁDIZ</span>
+                                                                        <div class="evr-article-collage-map__container-accesible">
+                                                                            
+                                                                            
+                                                                            
+                                                                        </div>
+                                                                    </div>
+                                                                </div>
+                                                            </article>
+                                                        </a>
+                                            </div>
+                                    
+                                    
+                            
+                                
+                                
+                                
+                                    
+                                
+                                
+                                
+                                
+                                
+                                
+                                
+                                
+                                
+                                
+                                
+                                
+                                
+                                
+                                
+
+                                
+                                    
+                                        
+                                        
+                                            <div class="evr-map-result__box reflex-col-xs-12 reflex-col-sm-6 reflex-col-md-6 reflex-col-lg-3" id="_AssetSearchPlugin_INSTANCE_rbJEpPKqmqSg_asset4">
+                                                
+                                                <a href="#" id="_AssetSearchPlugin_INSTANCE_rbJEpPKqmqSg_follow_reading_asset4" onclick="filters_AssetSearchPlugin_INSTANCE_rbJEpPKqmqSg_.showDetail_vv('5760241','255035')">
+                                                    <span class="hidden articleId">5760241</span>
+                                                    <span class="hidden groupId">255035</span>
+                                                    
+                                                    
+                                                            <article class="evr-article-collage-map">
+                                                                <div class="evr-article-collage-map__container">
+                                                                    <div class="evr-article-collage-map__collection">
+                                                                        <!--  -->
+                                                                        <figure class="evr-article-collage-map__thumb">
+                                                                            <img src="https://www.juntadeandalucia.es/medioambiente/portal/documents/255035/5656446/63_PN_35.jpg/5b264ef4-d1e2-df0d-9ff1-337cf9b71007?t=1609236145165" alt="ES0000140 BAHIA DE CADIZ">
+                                                                        </figure>
+                                                                    </div>
+                                                                    <div class="evr-article-collage-map__body">
+                                                                        <span class="evr-article-collage-map__tag">ESPACIO NATURAL: ZONA DE ESPECIAL CONSERVACIÓN (Z.E.C.)</span>
+                                                                        <span class="evr-article-collage-map__title">ES0000140 BAHIA DE CADIZ</span>
+                                                                        <span class="evr-article-collage-map__time">CÁDIZ</span>
+                                                                        <div class="evr-article-collage-map__container-accesible">
+                                                                            
+                                                                            
+                                                                            
+                                                                        </div>
+                                                                    </div>
+                                                                </div>
+                                                            </article>
+                                                        </a>
+                                            </div>
+                                    
+                                    
+                            
+                                
+                                
+                                
+                                    
+                                
+                                
+                                
+                                
+                                
+                                
+                                
+                                
+                                
+                                
+                                
+                                
+                                
+                                
+                                
+
+                                
+                                    
+                                        
+                                        
+                                            <div class="evr-map-result__box reflex-col-xs-12 reflex-col-sm-6 reflex-col-md-6 reflex-col-lg-3" id="_AssetSearchPlugin_INSTANCE_rbJEpPKqmqSg_asset5">
+                                                
+                                                <a href="#" id="_AssetSearchPlugin_INSTANCE_rbJEpPKqmqSg_follow_reading_asset5" onclick="filters_AssetSearchPlugin_INSTANCE_rbJEpPKqmqSg_.showDetail_vv('5759211','255035')">
+                                                    <span class="hidden articleId">5759211</span>
+                                                    <span class="hidden groupId">255035</span>
+                                                    
+                                                    
+                                                            <article class="evr-article-collage-map">
+                                                                <div class="evr-article-collage-map__container">
+                                                                    <div class="evr-article-collage-map__collection">
+                                                                        <!--  -->
+                                                                        <figure class="evr-article-collage-map__thumb">
+                                                                            <img src="https://www.juntadeandalucia.es/medioambiente/portal/documents/255035/6126751/FM_BAHIA_CADIZ_Sepia.JPG/d5bfc60b-7303-ae6d-3b7f-e2e578e284cd?t=1617013778982" alt="ES6120009 FONDOS MARINOS DE BAHIA DE CADIZ">
+                                                                        </figure>
+                                                                    </div>
+                                                                    <div class="evr-article-collage-map__body">
+                                                                        <span class="evr-article-collage-map__tag">ESPACIO NATURAL: ZONA DE ESPECIAL CONSERVACIÓN (Z.E.C.)</span>
+                                                                        <span class="evr-article-collage-map__title">ES6120009 FONDOS MARINOS DE BAHIA DE CADIZ</span>
+                                                                        <span class="evr-article-collage-map__time">CÁDIZ</span>
+                                                                        <div class="evr-article-collage-map__container-accesible">
+                                                                            
+                                                                            
+                                                                            
+                                                                        </div>
+                                                                    </div>
+                                                                </div>
+                                                            </article>
+                                                        </a>
+                                            </div>
+                                    
+                                    
+                            
+                                
+                                
+                                
+                                    
+                                
+                                
+                                
+                                
+                                
+                                
+                                
+                                
+                                
+                                
+                                
+                                
+                                
+                                
+                                
+
+                                
+                                    
+                                        
+                                        
+                                            <div class="evr-map-result__box reflex-col-xs-12 reflex-col-sm-6 reflex-col-md-6 reflex-col-lg-3" id="_AssetSearchPlugin_INSTANCE_rbJEpPKqmqSg_asset6">
+                                                
+                                                <a href="#" id="_AssetSearchPlugin_INSTANCE_rbJEpPKqmqSg_follow_reading_asset6" onclick="filters_AssetSearchPlugin_INSTANCE_rbJEpPKqmqSg_.showDetail_vv('5759953','255035')">
+                                                    <span class="hidden articleId">5759953</span>
+                                                    <span class="hidden groupId">255035</span>
+                                                    
+                                                    
+                                                            <article class="evr-article-collage-map">
+                                                                <div class="evr-article-collage-map__container">
+                                                                    <div class="evr-article-collage-map__collection">
+                                                                        <!--  -->
+                                                                        <figure class="evr-article-collage-map__thumb">
+                                                                            <img src="https://www.juntadeandalucia.es/medioambiente/portal/documents/255035/5627443/322_ZEC_01.jpg/841bf17d-002e-72bb-de91-ac1b22b5d40d?t=1609231519225" alt="FONDOS MARINOS DE BAHIA DE CADIZ">
+                                                                        </figure>
+                                                                    </div>
+                                                                    <div class="evr-article-collage-map__body">
+                                                                        <span class="evr-article-collage-map__tag">ESPACIO NATURAL: LUGAR DE IMPORTANCIA COMUNITARIA (L.I.C.)</span>
+                                                                        <span class="evr-article-collage-map__title">FONDOS MARINOS DE BAHIA DE CADIZ</span>
+                                                                        <span class="evr-article-collage-map__time">CÁDIZ</span>
+                                                                        <div class="evr-article-collage-map__container-accesible">
+                                                                            
+                                                                            
+                                                                            
+                                                                        </div>
+                                                                    </div>
+                                                                </div>
+                                                            </article>
+                                                        </a>
+                                            </div>
+                                    
+                                    
+                            
+                                
+                                
+                                
+                                    
+                                
+                                
+                                
+                                
+                                
+                                
+                                
+                                
+                                
+                                
+                                
+                                
+                                
+                                
+                                
+
+                                
+                                    
+                                        
+                                        
+                                            <div class="evr-map-result__box reflex-col-xs-12 reflex-col-sm-6 reflex-col-md-6 reflex-col-lg-3" id="_AssetSearchPlugin_INSTANCE_rbJEpPKqmqSg_asset7">
+                                                
+                                                <a href="#" id="_AssetSearchPlugin_INSTANCE_rbJEpPKqmqSg_follow_reading_asset7" onclick="filters_AssetSearchPlugin_INSTANCE_rbJEpPKqmqSg_.showDetail_vv('5186748','255035')">
+                                                    <span class="hidden articleId">5186748</span>
+                                                    <span class="hidden groupId">255035</span>
+                                                    
+                                                    
+                                                            <article class="evr-article-collage-map">
+                                                                <div class="evr-article-collage-map__container">
+                                                                    <div class="evr-article-collage-map__collection">
+                                                                        <!--  -->
+                                                                        <figure class="evr-article-collage-map__thumb">
+                                                                            <img src="https://www.juntadeandalucia.es/medioambiente/portal/documents/255035/5655330/923_CV_01.jpg/4d37a70b-1b2a-7d46-0d2a-37ef2cd24b49?t=1609236385856" alt="PARQUE NATURAL BAHÍA DE CÁDIZ">
+                                                                        </figure>
+                                                                    </div>
+                                                                    <div class="evr-article-collage-map__body">
+                                                                        <span class="evr-article-collage-map__tag">EQUIPAMIENTO: CENTRO DE VISITANTES</span>
+                                                                        <span class="evr-article-collage-map__title">PARQUE NATURAL BAHÍA DE CÁDIZ</span>
+                                                                        <span class="evr-article-collage-map__time">SAN FERNANDO (CÁDIZ)</span>
+                                                                        <div class="evr-article-collage-map__container-accesible">
+                                                                            
+                                                                            <button class="evr-article-collage-map__accesible-ico">
+                                                                                <i class="fa fa-wheelchair"></i> <span class="hide-accessible">Icono de accesibilidad física</span>
+                                                                            </button>
+                                                                            
+                                                                            
+                                                                            <button class="evr-article-collage-map__accesible-ico">
+                                                                                <i class="fa fa-low-vision"></i> <span class="hide-accessible">Icono de accesibilidad visual</span>
+                                                                            </button>
+                                                                            
+                                                                            
+                                                                            <button class="evr-article-collage-map__accesible-ico">
+                                                                                <i class="fa fa-assistive-listening-systems"></i>
+                                                                                <span class="hide-accessible">Icono de accesibilidad auditiva</span>
+                                                                            </button>
+                                                                            
+                                                                        </div>
+                                                                    </div>
+                                                                </div>
+                                                            </article>
+                                                        </a>
+                                            </div>
+                                    
+                                    
+                            
+                            <script type="text/javascript">
+// <![CDATA[
+
+                                filters_AssetSearchPlugin_INSTANCE_rbJEpPKqmqSg_.pagination.curPage = 0;
+                                filters_AssetSearchPlugin_INSTANCE_rbJEpPKqmqSg_.pagination.size = 8;
+                                
+                                    
+                                        $(document).ready(function() {
+                                            filters_AssetSearchPlugin_INSTANCE_rbJEpPKqmqSg_.hidePagination();
+                                            //Este li se coloca por temas de accesibilidad, favor no quitar
+                                            var li = document.createElement('li');
+                                            li.innerHTML = 'pagination';
+                                            li.style = 'display:none';
+                                            document.querySelector('.pagination').appendChild(li);
+                                        });
+                                    
+                                
+                            
+// ]]>
+</script>
+                        
+                        
+                </div>
+            </div>
+        </div>
+    </section>
+
+
+<script type="text/javascript">
+// <![CDATA[
+
+    Liferay.provide(window, 'savePasaporte', function(paramUserId, paramArticleId, notif) {
+        Liferay.Service(
+            '/foo.pasaporte/save-pasaporte', {
+                userId: paramUserId,
+                articleId: paramArticleId
+            },
+            function(obj) {
+                console.log("obj result: " + obj);
+                if (obj) {
+                    $(notif).find(".fa-bookmark").addClass("marked");
+                    $(notif).find(".fa-bookmark").removeClass("no-marked");
+                } else {
+                    console.log("ERROR AL GUARDAR PASAPORTE CON USERID[" + paramUserId + "], ARTICLEID[" + paramArticleId + "]");
+                }
+            }
+        );
+    });
+
+    Liferay.provide(window, 'deletePasaporte', function(paramUserId, paramArticleId, notif) {
+        Liferay.Service(
+            '/foo.pasaporte/delete-pasaporte', {
+                userId: paramUserId,
+                articleId: paramArticleId
+            },
+            function(obj) {
+                console.log("obj result: " + obj);
+                if (obj) {
+                    $(notif).find(".fa-bookmark").removeClass("marked");
+                    $(notif).find(".fa-bookmark").addClass("no-marked");
+                } else {
+                    console.log("ERROR AL ELIMINAR PASAPORTE CON USERID[" + paramUserId + "], ARTICLEID[" + paramArticleId + "]");
+                }
+            }
+        );
+    });
+
+    Liferay.provide(window, 'saveFavorito', function(paramUserId, paramArticleId, notif) {
+        Liferay.Service(
+            '/ventana.favorito/save-favorito', {
+                userId: paramUserId,
+                articleId: paramArticleId
+                },
+                function(obj) {
+                    console.log("obj result: " + obj);
+                    if (obj) {
+                        $(notif).find(".fa-star").addClass("marked");
+                        $(notif).find(".fa-star").removeClass("no-marked");
+                    } else {
+                        console.log("ERROR AL GUARDAR FAVORITO CON USERID[" + paramUserId + "], ARTICLEID[" + paramArticleId + "]");
+                }
+            }
+        );
+    });
+
+    Liferay.provide(window, 'deleteFavorito', function(paramUserId, paramArticleId, notif) {
+        Liferay.Service(
+            '/ventana.favorito/delete-favorito', {
+                userId: paramUserId,
+                articleId: paramArticleId
+                },
+                function(obj) {
+                    console.log("obj result: " + obj);
+                    if (obj) {
+                        $(notif).find(".fa-star").removeClass("marked");
+                        $(notif).find(".fa-star").addClass("no-marked");
+                    } else {
+                        console.log("ERROR AL ELIMINAR FAVORITO CON USERID[" + paramUserId + "], ARTICLEID[" + paramArticleId + "]");
+                }
+            }
+        );
+    });
+
+// ]]>
+</script>
+
+<script>
+    $(document).ready(function(){
+        $(".evr-btn-default--block").first().click(function(){
+            $(".evr-map-result__txt").each(function( index ) {
+                $(this).css("display","none");
+            });
+            $(".evr-map-result__btn-container").each(function( index ) {
+                $(this).css("display","none");
+            });
+            $(".evr-map-result__paragraph").each(function( index ) {
+                $(this).css("display","none");
+            });
+            $(".text-center").each(function( index ) {
+                $(this).css("display","none");
+            });
+        });
+    });
+    $('.fa-bookmark-link').click(function (event) {
+        var aux = $(this).attr('id');
+        var aux2 = aux.replace("pas_", "");
+        var articleId = aux2.split("#")[0];
+        var groupId = aux2.split("#")[1];
+        var userId = $("#curUserId").val();
+        if (!$(this).find(".fa-bookmark").hasClass("marked")) {
+            savePasaporte(userId, articleId, this);
+        } else {
+            deletePasaporte(userId, articleId, this);
+        }
+        if (event.stopPropagation) {// standard
+            event.stopPropagation();
+        } else {// IE6-8
+            event.cancelBubble = true;
+        }
+        return false;
+    });
+
+    $('.fa-star-link').click(function (event) {
+        var aux = $(this).attr('id');
+        var aux2 = aux.replace("fav_", "");
+        var articleId = aux2.split("#")[0];
+        var groupId = aux2.split("#")[1];
+        var userId = $("#curUserId").val();
+        if (!$(this).find(".fa-star").hasClass("marked")) {
+            saveFavorito(userId, articleId, this);
+        } else {
+            deleteFavorito(userId, articleId, this);
+        }
+        if (event.stopPropagation) {// standard
+            event.stopPropagation();
+        } else {// IE6-8
+            event.cancelBubble = true;
+        }
+        return false;
+    });
+
+    /*
+        var noCapitalizeTitle = $('.evr-article-collage-map__title');
+        var noCapitalizeCity = $('.evr-article-collage-map__time');
+
+        for(var i = 0; i < $('.evr-article-collage-map__title').length ; i++){
+            $('.evr-article-collage-map__title')[i].innerText = capitalizeFirstLetters(noCapitalizeTitle[i].innerText);
+        }
+
+        for(var i = 0; i < $('.evr-article-collage-map__time').length ; i++){
+            $('.evr-article-collage-map__time')[i].innerText = capitalizeFirstLetters(noCapitalizeCity[i].innerText);
+        }
+
+        function capitalizeFirstLetters(str){
+              return str.toLowerCase().replace(/^\w|\s\w/g, function (letter) {
+                  return letter.toUpperCase();
+              })
+            }
+      */
+    function filterGrama() {
+        setTimeout(function() {
+            var res = [];
+            var filtrar = true;
+            var search = [];
+            if (filtrar == true) {
+                var formattedResults = [{"redNaturaCodigo":["2025"],"tipo":"redNatura","codigos":[2025]},{"tipo":"espacioNatural","codigos":[63]},{"tipo":"ramsar","codigos":[511]},{"redNaturaCodigo":["ES0000140"],"tipo":"redNatura","codigos":[2213]},{"redNaturaCodigo":["ES0000140"],"tipo":"redNatura","codigos":[120]},{"redNaturaCodigo":["ES6120009"],"tipo":"redNatura","codigos":[322]},{"redNaturaCodigo":["2068"],"tipo":"redNatura","codigos":[2068]},{"tipo":"equipamiento","codigos":[923]}];
+
+                var iframe = document.getElementById("ifr");
+                if (formattedResults) {
+                    formattedResults.forEach((el) => {
+                        search = res.filter((x) => {
+                            return x.tipo == el.tipo
+                        });
+                        if (search.length == 0) {
+                            res.push({tipo: el.tipo, codigos: [], redNaturaCodigo: []})
+                        }
+                        search = res.filter((x) => {
+                            return x.tipo == el.tipo
+                        })[0];
+                        search.codigos.push(el.codigos);
+                        if (el.tipo == "redNatura") {
+                            search.redNaturaCodigo.push(el.redNaturaCodigo);
+                        }
+                    });
+                    var msg = {"operacion": "filter", "datos": res}
+                    //console.log(msg)
+                    if (iframe !== null) {
+                        iframe.contentWindow.postMessage(msg, '*');
+                    }
+
+                } else {
+                    //var msg = {"operacion": "clean"}
+                    //console.log(msg)
+                    if (iframe !== null) {
+                        iframe.contentWindow.postMessage(msg, '*');
+                    }
+                }
+            }
+        }, 1000);
+    }
+</script>
+<style>
+    .evr-article-collage-map__container {
+        position: relative;
+    }
+
+    .evr-article-collage-map__ico {
+        text-shadow: 3px 3px 0 #000,
+        -1px -1px 0 #000,
+        1px -1px 0 #000,
+        -1px 1px 0 #000,
+        1px 1px 0 #000;
+    }
+
+    .evr-article-collage-map__ico i.marked {
+        color: #094525;
+    }
+
+    .evr-article-collage-map__ico i.no-marked {
+        color: #ffffff;
+    }
+
+    .evr-article-collage-map .evr-article-collage-map__container-ico .evr-article-collage-map__ico {
+        cursor: pointer;
+    }
+</style>
+</div>
+	
+
+            <div class="text-center" style="display: block;">
+	<ul class="pagination" id="_AssetSearchPlugin_INSTANCE_rbJEpPKqmqSg_pagination"><li style="display: none;">pagination</li></ul>
+</div>
+		</div>
+	</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+	
+					
+				
+			
+		
+	
+	
+
+
+	</div>
+
+			</div>
+		
+	</div>
+</section>
+
+		
+	
+
+				
+				
+
+		
+
+	
+
+
+
+
+
+
+
+	</div>
+
+
+
+
+</div>
+		</div>
+	</div>
+</div>
+
+<div class="alert alert-info">Nodo: svpl-lrtom01:8080</div><form action="#" class="hide" id="hrefFm" method="post" name="hrefFm"><span></span><input hidden="" type="submit"></form>
+
+</section>
+	</div>
+<footer id="footer" class="clearfix" role="contentinfo">
+    
+
+    <div class="evr-footer">
+        <div class="evr-footer__content">
+            <div class="maxwidth maxwidth--inner">
+                <div class="evr-footer__block">
+	                    <figure class="evr-footer__logo">
+		                    <a href="https://www.juntadeandalucia.es/medioambiente/portal/web/ventanadelvisitante/">
+		                        <img alt="Logo Ventana del Visitante" src="https://www.juntadeandalucia.es/medioambiente/portal/o/ventana-theme/images/logo_ventana_footer_white.png">
+		                     </a>
+	                    </figure>
+                    <div class="evr-footer__social">
+	                        <figure class="evr-footer__social-icon">
+		                        <a href="https://www.twitter.com/ventanavand" target="_blank">
+		                            <img alt="Twitter" src="https://www.juntadeandalucia.es/medioambiente/portal/o/ventana-theme/images/icons/tw.png">
+		                         </a>
+	                        </figure>
+	                        <figure class="evr-footer__social-icon">
+		                        <a href="https://www.facebook.com/ventanadelvisitanteAND/" target="_blank">
+		                            <img alt="Facebook" src="https://www.juntadeandalucia.es/medioambiente/portal/o/ventana-theme/images/icons/fb.png">
+	                            </a>
+	                        </figure>
+	                        <figure class="evr-footer__social-icon">
+	                         <a href="https://www.instagram.com/ventanadelvisitante" target="_blank">
+	                            <img alt="Instagram" src="https://www.juntadeandalucia.es/medioambiente/portal/o/ventana-theme/images/icons/ig.png">
+	                         </a>
+	                        </figure>
+	                        <figure class="evr-footer__social-icon">
+	                        	<a href="https://www.pinterest.es/ventanavAND/" target="_blank">
+	                            	<img alt="Pinterest" src="https://www.juntadeandalucia.es/medioambiente/portal/o/ventana-theme/images/icons/pt.png">
+	                            </a>
+	                        </figure>
+                    </div>
+                </div>
+                <div class="evr-footer__block">
+	                    <figure class="evr-footer__logo">
+	                    	 <a href="https://ec.europa.eu/regional_policy/es/funding/erdf/" target="_blank">
+	                        <img alt="Logo Fondos Feader" src="https://www.juntadeandalucia.es/medioambiente/portal/o/ventana-theme/images/Logo_UE_FEDER_Horizontal.png">
+	                         </a>
+	                    </figure>
+	                    <figure class="evr-footer__logo">
+	                     <a href="https://www.juntadeandalucia.es/medioambiente/portal/home" target="_blank">
+	                        <img alt="Logo Ventana del Visitante" src="https://www.juntadeandalucia.es/medioambiente/portal/o/ventana-theme/images/Logo_CAGPDS_Horizontal_Negativo.png">
+	                     </a>
+	                    </figure>
+                </div>
+            </div>
+        </div>
+        <div class="maxwidth">
+            <div class="evr-footer__links">
+                        <p><a href="https://www.juntadeandalucia.es/medioambiente/portal/web/ventanadelvisitante/con%C3%B3cenos" target="">Conócenos</a></p>
+<!--<p><a href="/medioambiente/portal/web/ventanadelvisitante/contacto" target="">Contacto</a></p>-->
+
+<p><a href="https://www.juntadeandalucia.es/medioambiente/portal/web/ventanadelvisitante/enlaces-de-inter%C3%A9s" target="">Enlaces de interés</a></p>
+
+<p><a href="https://www.juntadeandalucia.es/medioambiente/portal/web/ventanadelvisitante/mapa-web" target="">Mapa web</a></p>
+
+<p><a href="https://www.juntadeandalucia.es/medioambiente/portal/web/ventanadelvisitante/manuales" target="">Manuales</a></p>
+
+<p><a href="https://www.juntadeandalucia.es/medioambiente/portal/web/ventanadelvisitante/accesibilidad" target="">Accesibilidad</a></p>
+
+<p><a href="https://www.juntadeandalucia.es/medioambiente/portal/web/ventanadelvisitante/condiciones-de-uso" target="">Condiciones de uso</a></p>
+
+<p>&nbsp;</p>
+
+<p>&nbsp;</p>
+            </div>
+        </div>
+    </div>
+</footer>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+
+	
+
+
+
+
+
+	
+
+
+
+	
+
+
+
+
+
+
+
+
+
+	
+
+	
+
+
+
+
+
+	
+
+
+
+	
+
+
+
+
+
+
+
+
+
+
+
+<script type="text/javascript">
+// <![CDATA[
+
+	
+		
+
+			
+
+			
+		
+	
+
+	Liferay.BrowserSelectors.run();
+
+// ]]>
+</script>
+
+
+
+
+
+
+
+
+
+
+
+
+
+<script type="text/javascript">
+	// <![CDATA[
+
+		
+
+		Liferay.currentURL = '\x2fmedioambiente\x2fportal\x2fweb\x2fventanadelvisitante\x2fbuscador-de-espacios-naturales-y-equipamientos\x3fcategoryVal\x3d';
+		Liferay.currentURLEncoded = '\x252Fmedioambiente\x252Fportal\x252Fweb\x252Fventanadelvisitante\x252Fbuscador-de-espacios-naturales-y-equipamientos\x253FcategoryVal\x253D';
+
+	// ]]>
+</script>
+
+
+
+	
+
+	
+
+	<script type="text/javascript">
+		// <![CDATA[
+			
+
+			
+		// ]]>
+	</script>
+
+
+
+
+
+
+
+
+
+
+
+
+	
+
+	
+
+		
+
+		
+	
+
+
+<script type="text/javascript">
+// <![CDATA[
+
+	if (Liferay.Data.ICONS_INLINE_SVG) {
+		svg4everybody(
+			{
+				attributeName: 'data-href',
+				polyfill: true
+			}
+		);
+	}
+
+	
+		Liferay.Portlet.register('com_liferay_site_navigation_breadcrumb_web_portlet_SiteNavigationBreadcrumbPortlet');
+	
+
+	Liferay.Portlet.onLoad(
+		{
+			canEditTitle: false,
+			columnPos: 0,
+			isStatic: 'end',
+			namespacedId: 'p_p_id_com_liferay_site_navigation_breadcrumb_web_portlet_SiteNavigationBreadcrumbPortlet_',
+			portletId: 'com_liferay_site_navigation_breadcrumb_web_portlet_SiteNavigationBreadcrumbPortlet',
+			refreshURL: '\x2fmedioambiente\x2fportal\x2fc\x2fportal\x2frender_portlet\x3fp_l_id\x3d17901391\x26p_p_id\x3dcom_liferay_site_navigation_breadcrumb_web_portlet_SiteNavigationBreadcrumbPortlet\x26p_p_lifecycle\x3d0\x26p_t_lifecycle\x3d0\x26p_p_state\x3dnormal\x26p_p_mode\x3dview\x26p_p_col_id\x3dnull\x26p_p_col_pos\x3dnull\x26p_p_col_count\x3dnull\x26p_p_static\x3d1\x26p_p_isolated\x3d1\x26currentURL\x3d\x252Fmedioambiente\x252Fportal\x252Fweb\x252Fventanadelvisitante\x252Fbuscador-de-espacios-naturales-y-equipamientos\x253FcategoryVal\x253D\x26settingsScope\x3dportletInstance',
+			refreshURLData: {"categoryVal":[""]}
+		}
+	);
+
+
+    var namespace = '_AssetSearchPlugin_INSTANCE_rbJEpPKqmqSg_';
+    var id = {};
+    id.searchButton = 'searchButton';
+    id.searchButtonMinimize = 'searchButtonMinimize';
+            id.searchTextInputMinimize = 'searchTextInputMinimize';
+            id.searchTextInput = 'searchTextInput';
+            id.resultsDiv = 'resultsDiv';
+            id.categoryDiv = 'categoriesDiv';
+            id.category = 'category';
+            id.searchDateInput = 'searchDateInput';
+            id.pagination = 'pagination';
+            id.errorDates = 'ErrorDates';
+            id.sponsoredAsset = 'sponsoredAssetDiv';
+            id.resetDateFilter = 'resetDateFilter';
+            id.resetTextFilter = 'resetTextFilter';
+            id.filterMyObjects = 'filterMyObjects';
+            id.formFilter = 'sc-formFilters';
+            id.newsFilters = 'sc-newsFilters';
+            id.updateAnnouncement = 'updateAnnouncement';
+            id.formUpdateAnnouncement = 'ModifyAnnouncementRequestForm';
+            id.dateFilterMessage = 'dateFilterMessage';
+            id.dailySummaryButton = 'dailySummaryButton';
+            id.datepicker = '[data-datepicker]';
+            id.accesible = 'Accesible';
+
+            pagination = {};
+            pagination.curPage=0;
+            pagination.delta=12;
+            initialSearch=false;
+
+            url = {};
+            url.searchUrl='https://www.juntadeandalucia.es/medioambiente/portal/web/ventanadelvisitante/buscador-de-espacios-naturales-y-equipamientos?p_p_id=AssetSearchPlugin_INSTANCE_rbJEpPKqmqSg&p_p_lifecycle=2&p_p_state=normal&p_p_mode=view&p_p_resource_id=%2Fsearch&p_p_cacheability=cacheLevelPage';
+            url.backUrl='https://www.juntadeandalucia.es/medioambiente/portal/web/ventanadelvisitante/buscador-de-espacios-naturales-y-equipamientos?p_p_id=AssetSearchPlugin_INSTANCE_rbJEpPKqmqSg&p_p_lifecycle=0&p_p_state=normal&p_p_mode=view';
+            url.getDetailUrl='https://www.juntadeandalucia.es/medioambiente/portal/web/ventanadelvisitante/buscador-de-espacios-naturales-y-equipamientos?p_p_id=AssetSearchPlugin_INSTANCE_rbJEpPKqmqSg&p_p_lifecycle=2&p_p_state=normal&p_p_mode=view&p_p_resource_id=%2Fgetdetailurl&p_p_cacheability=cacheLevelPage';
+            url.suggestionSearchURL='https://www.juntadeandalucia.es/medioambiente/portal/web/ventanadelvisitante/buscador-de-espacios-naturales-y-equipamientos?p_p_id=AssetSearchPlugin_INSTANCE_rbJEpPKqmqSg&p_p_lifecycle=2&p_p_state=normal&p_p_mode=view&p_p_resource_id=%2Fsuggestionsearch&p_p_cacheability=cacheLevelPage';
+            url.publishAnnouncement='';
+            url.retrieveInfoAnnouncement='';
+            url.dailySummaryDownloadLink='';
+            url.pageSearchLocation = '';
+            url.exportURL = 'https://www.juntadeandalucia.es/medioambiente/portal/web/ventanadelvisitante/buscador-de-espacios-naturales-y-equipamientos?p_p_id=AssetSearchPlugin_INSTANCE_rbJEpPKqmqSg&p_p_lifecycle=2&p_p_state=normal&p_p_mode=view&p_p_resource_id=%2Fexport-contents&p_p_cacheability=cacheLevelPage';
+
+            categories = [{"name":"Tipos de Espacios Naturales","id":"1727577","subcategories":[{"name":"PARQUE NATURAL","id":"1727592","properties":[{"values":["codigo"],"name":"PNAT"}]},{"name":"RESERVA NATURAL","id":"1727606","properties":[{"values":["codigo"],"name":"RN"}]},{"name":"PARQUE NACIONAL","id":"1727619","properties":[{"values":["codigo"],"name":"PNC"}]},{"name":"MONUMENTO NATURAL","id":"1727632","properties":[{"values":["codigo"],"name":"MN"}]},{"name":"PAISAJE PROTEGIDO","id":"1727642","properties":[{"values":["codigo"],"name":"PP"}]},{"name":"PARAJE NATURAL","id":"1727653","properties":[{"values":["codigo"],"name":"PRN"}]},{"name":"PARQUE PERIURBANO","id":"1727665","properties":[{"values":["codigo"],"name":"PPU"}]},{"name":"RESERVA NATURAL CONCERTADA","id":"1727676","properties":[{"values":["codigo"],"name":"RNC"}]},{"name":"LUGAR DE IMPORTANCIA COMUNITARIA","id":"1727689","properties":[{"values":["codigo"],"name":"LIC"}]},{"name":"Z.E.P.A.","id":"1727700","properties":[{"values":["codigo"],"name":"ZEPA"}]},{"name":"Z.E.C.","id":"1727714","properties":[{"values":["codigo"],"name":"ZEC"}]},{"name":"SITIO RAMSAR","id":"1727724","properties":[{"values":["codigo"],"name":"RAMSAR"}]},{"name":"RESERVA DE LA BIOSFERA","id":"1727736","properties":[{"values":["codigo"],"name":"RB"}]},{"name":"PATRIMONIO DE  LA HUMANIDAD","id":"1727740","properties":[{"values":["codigo"],"name":"PH"}]},{"name":"GEOPARQUE","id":"1727746","properties":[{"values":["codigo"],"name":"GEO"}]},{"name":"Z.E.P.I.M.","id":"6605881","properties":[]},{"name":"SIN ESPACIO NATURAL ASOCIADO","id":"7769689","properties":[]}]},{"name":"Provincias","id":"1727342","subcategories":[{"name":"ALMERÍA","id":"1727352","properties":[{"values":["INE"],"name":"04"}]},{"name":"GRANADA","id":"1738193","properties":[{"values":["INE"],"name":"18"}]},{"name":"CÓRDOBA","id":"1738227","properties":[]},{"name":"HUELVA","id":"1738237","properties":[]},{"name":"JAÉN","id":"1738243","properties":[]},{"name":"SEVILLA","id":"1738249","properties":[]},{"name":"MÁLAGA","id":"1738253","properties":[]},{"name":"CÁDIZ","id":"1738261","properties":[]}]},{"name":"Tipo de Equipamiento","id":"1731010","subcategories":[{"name":"SENDERO SEÑALIZADO","id":"1731011","properties":[]},{"name":"ÁREA RECREATIVA","id":"1731016","properties":[]},{"name":"PUNTO DE INFORMACIÓN","id":"1731033","properties":[]},{"name":"MIRADOR","id":"1731034","properties":[]},{"name":"HOTEL DE MONTAÑA","id":"1731039","properties":[]},{"name":"CARRIL CICLOTURISTA","id":"1731072","properties":[]},{"name":"AULA DE LA NATURALEZA","id":"1731089","properties":[]},{"name":"CENTRO DE VISITANTES","id":"1731122","properties":[]},{"name":"OBSERVATORIO","id":"1731140","properties":[]},{"name":"REFUGIO","id":"1731169","properties":[]},{"name":"JARDÍN BOTÁNICO","id":"1731343","properties":[]},{"name":"CAMPING","id":"1732470","properties":[]},{"name":"CASA RURAL","id":"1732964","properties":[]},{"name":"ECOMUSEO","id":"1733035","properties":[]},{"name":"PARQUE DE FAUNA SILVESTRE","id":"1733510","properties":[]},{"name":"REFUGIO-VIVAC","id":"1735758","properties":[]},{"name":"ZONA ACAMPADA CONTROLADA","id":"6571092","properties":[]}]}];
+            categoriesValues = [];
+            catParam = [];
+            categoriesHierarchyEnabled = false;
+
+            showDateOnResult = false;
+            firstSearchFilteredByDate = false;
+            firstSearchFilteredByRangeDate = false;
+            firstSearchFilteredByFullMonthDate = false;
+            firstSearchRangeDate= 0;
+            dailySummaryDownloadLinkEnable = "";
+            dailySummaryDownloadLinkUrl = '#';
+            dates = '';
+            var queryString = window.location.search;
+            var urlParams = new URLSearchParams(queryString);
+            if(urlParams.get("searchDateVal") !== ""){
+                dates = String(urlParams.get("searchDateVal")).replace(",","-");
+                //console.log("[head] "+dates);
+            }
+
+            message = {};
+            message.prev = '\u0041\u006e\u0074\u0065\u0072\u0069\u006f\u0072';
+            message.next = '\u0053\u0069\u0067\u0075\u0069\u0065\u006e\u0074\u0065';
+            message.loading = '\u0042\u0075\u0073\u0063\u0061\u006e\u0064\u006f\u002e\u002e\u002e';
+            message.filterMyObjects = '';
+            message.filterMyObjectsTotal = '\u002d\u0074\u006f\u0074\u0061\u006c';
+
+            showYearsDateRange = ('false'=== 'true');
+            filterMinYear = parseInt('0');
+            
+            var datesRangeJSON = [];
+            if (datesRangeJSON.length>0) {
+            	eventsDatesRangeJSON = datesRangeJSON;
+            }
+
+            var filters_AssetSearchPlugin_INSTANCE_rbJEpPKqmqSg_ = new Filter(namespace, id, pagination, url, categories, categoriesValues, catParam,
+            categoriesHierarchyEnabled, message, showDateOnResult , firstSearchFilteredByDate ,
+            firstSearchFilteredByRangeDate, firstSearchFilteredByFullMonthDate, firstSearchRangeDate , dailySummaryDownloadLinkEnable,
+            dailySummaryDownloadLinkUrl , showYearsDateRange, filterMinYear, dates,initialSearch);
+            // console.log("Portlet head => filters: ",filters_AssetSearchPlugin_INSTANCE_rbJEpPKqmqSg_);
+(function() {var $ = AUI.$;var _ = AUI._;
+	var select = $('#_AssetSearchPlugin_INSTANCE_rbJEpPKqmqSg_category0');
+
+	
+
+	
+})();(function() {var $ = AUI.$;var _ = AUI._;
+	var select = $('#_AssetSearchPlugin_INSTANCE_rbJEpPKqmqSg_espaciosNaturales');
+
+	
+
+	
+})();(function() {var $ = AUI.$;var _ = AUI._;
+	var select = $('#_AssetSearchPlugin_INSTANCE_rbJEpPKqmqSg_category1');
+
+	
+
+	
+})();
+	var accesible = document.querySelector("[for=check]");
+	accesible.addEventListener("keydown", function (e) {
+	    if (e.keyCode === 13) {  //checks whether the pressed key is "Enter"
+	        $('#check').click();
+	    }
+	});
+
+	exportNameGlobal = 'Ventana del Visitante - Resultados del buscador.csv';
+
+	$(document).ready(function() {
+       document.getElementById("ifr").setAttribute('title', '\u004d\u0041\u0050\u0041');
+
+	    let searchFromCookie = $.cookie('searchFromCookies');
+		initSelectMenu();
+		ordenateFields();
+		  //if($(".multiselect-input").length!=0){
+            //        console.log("pasopor aqui");
+              //      $(".multiselect-input").attr('title', '\u0053\u0065\u006c\u0065\u0063\u0063\u0069\u006f\u006e\u0061\u0020\u0075\u006e\u0020\u0074\u0069\u0070\u006f\u0020\u0064\u0065\u0020\u0065\u0071\u0075\u0069\u0070\u0061\u006d\u0069\u0065\u006e\u0074\u006f');
+                //}
+
+		if(typeof searchFromCookie !== 'undefined' && searchFromCookie != "false"){
+			//console.log("executeSearchFromCookies");
+			executeSearchFromCookies();
+		}else{
+			//console.log("resetForms");
+			resetForms(false);
+		}
+
+        setTimeout(function() {
+            if($(".multiselect-input").length!=0){
+                //console.log("pasopor aqui");
+                $(".multiselect-input").attr('title', '\u0053\u0065\u006c\u0065\u0063\u0063\u0069\u006f\u006e\u0061\u0020\u0075\u006e\u0020\u0074\u0069\u0070\u006f\u0020\u0064\u0065\u0020\u0065\u0071\u0075\u0069\u0070\u0061\u006d\u0069\u0065\u006e\u0074\u006f');
+            }
+        }, 5000);
+
+		//setTimeout(function() {
+		//	$("#evr-ventana-map").removeClass("evr-ventana-map--bg");
+		//}, 15000);
+	});
+
+// 	Start - Tipo de Equipamiento multiple
+	$(document).mouseup(function(e) {
+	    var containerTipoDeEquipamiento = $("#"+equipamientoInputId+"_multiSelect")[0];
+
+	    if (!containerTipoDeEquipamiento.contains(e.target)){
+	    	updateEquipamientosLabel();
+	    }
+	});
+
+	function closeItemList() {
+	    if ($('#'+equipamientoInputId+'_itemList').hasClass('active')) {
+    	    $('#'+equipamientoInputId+'_itemList').removeClass('active');
+    	}
+	}
+
+	function updateEquipamientosLabel(){
+		setTimeout(function() {
+			$("#"+equipamientoInputId+"_input")[0].value = "\u0053\u0065\u006c\u0065\u0063\u0063\u0069\u006f\u006e\u0061\u0020\u0075\u006e\u0020\u0074\u0069\u0070\u006f\u0020\u0064\u0065\u0020\u0065\u0071\u0075\u0069\u0070\u0061\u006d\u0069\u0065\u006e\u0074\u006f";
+		}, 2000);
+	};
+
+// 	End - Tipo de Equipamiento multiple checkbox
+
+	function updateSubCategory(categoryName, categoryId) {
+	    //Categoria de Tipos de espacio natural
+	    var categoryTipoEspacioNaturalSelected;
+	    var catTipoEspacioNaturalSelectedId = "0";
+	    var categoryProvinciaSelected;
+	    var catProvinciaSelectedId = "0";
+	    if(categoryName == "Tipos de Espacios Naturales"){
+            categoryTipoEspacioNaturalSelected = document.getElementById('_AssetSearchPlugin_INSTANCE_rbJEpPKqmqSg_'+ categoryId);
+            if(categoryTipoEspacioNaturalSelected.selectedIndex >= 0){
+            	catTipoEspacioNaturalSelectedId = categoryTipoEspacioNaturalSelected.options[categoryTipoEspacioNaturalSelected.selectedIndex].value;
+            }
+
+            categoryProvinciaSelected = document.getElementById('_AssetSearchPlugin_INSTANCE_rbJEpPKqmqSg_category1');
+            if(categoryProvinciaSelected.selectedIndex >= 0){
+            	catProvinciaSelectedId = categoryProvinciaSelected.options[categoryProvinciaSelected.selectedIndex].value;
+            }
+		} else if (categoryName == "Provincias"){
+            //Categoria de Provincias
+            categoryProvinciaSelected = document.getElementById('_AssetSearchPlugin_INSTANCE_rbJEpPKqmqSg_'+ categoryId);
+            if(categoryProvinciaSelected.selectedIndex >= 0){
+            	catProvinciaSelectedId = categoryProvinciaSelected.options[categoryProvinciaSelected.selectedIndex].value;
+            }
+
+            categoryTipoEspacioNaturalSelected = document.getElementById('_AssetSearchPlugin_INSTANCE_rbJEpPKqmqSg_category0');
+            if(categoryTipoEspacioNaturalSelected.selectedIndex >= 0){
+            	catTipoEspacioNaturalSelectedId = categoryTipoEspacioNaturalSelected.options[categoryTipoEspacioNaturalSelected.selectedIndex].value;
+            }
+         }
+		AUI().use('aui-io-request',	function(A) {
+			A.io.request('https://www.juntadeandalucia.es/medioambiente/portal/web/ventanadelvisitante/buscador-de-espacios-naturales-y-equipamientos?p_p_id=AssetSearchPlugin_INSTANCE_rbJEpPKqmqSg&p_p_lifecycle=2&p_p_state=normal&p_p_mode=view&p_p_resource_id=%2Fsubcategories-ajax&p_p_cacheability=cacheLevelPage',
+											{
+												method : 'post',
+												dataType : 'json',
+												data : {
+													_AssetSearchPlugin_INSTANCE_rbJEpPKqmqSg_categoryTipoEspacioNaturalSelected : "Tipos de Espacios Naturales",
+													_AssetSearchPlugin_INSTANCE_rbJEpPKqmqSg_catTipoEspacioNaturalSelectedId : catTipoEspacioNaturalSelectedId,
+													_AssetSearchPlugin_INSTANCE_rbJEpPKqmqSg_categoryProvinciaSelected : "Provincias",
+                                                    _AssetSearchPlugin_INSTANCE_rbJEpPKqmqSg_catProvinciaSelectedId : catProvinciaSelectedId
+												},
+												on : {
+													success : function() {
+														var datos = this.get('responseData');
+														espaciosNaturales = datos;
+														options = '<option value="0" selected="selected">\u0053\u0065\u006c\u0065\u0063\u0063\u0069\u006f\u006e\u0065\u0020\u0075\u006e\u0020\u006e\u006f\u006d\u0062\u0072\u0065\u0020\u0064\u0065\u0020\u0065\u0073\u0070\u0061\u0063\u0069\u006f</option>';
+														if(espaciosNaturales != null && espaciosNaturales){
+															for (i = 0; i < espaciosNaturales.length; i++) {
+																options += '<option value="' + espaciosNaturales[i].subcategoryId + '">'
+																		+ espaciosNaturales[i].subcategoryTitle
+																		+ '</option>';
+															}
+														}
+														A.one('#_AssetSearchPlugin_INSTANCE_rbJEpPKqmqSg_espaciosNaturales').setHTML(options);
+														$('#_AssetSearchPlugin_INSTANCE_rbJEpPKqmqSg_espaciosNaturales').prop('disabled', false);
+														document.getElementById("_AssetSearchPlugin_INSTANCE_rbJEpPKqmqSg_espaciosNaturales").classList.remove('disabled');
+														$('#select-dinamically').removeClass('evr-selectmenu--disabled');
+														ordenateFields();
+														$("#_AssetSearchPlugin_INSTANCE_rbJEpPKqmqSg_espaciosNaturales").selectmenu("refresh");
+													}
+												}
+											});
+
+						});
+	}
+
+	function resetForms(search) {
+	    bloquearBotones();
+		$('form').each(function() {
+			this.reset();
+		});
+
+		$('#_AssetSearchPlugin_INSTANCE_rbJEpPKqmqSg_espaciosNaturales').prop('disabled', true);
+
+		if (document.getElementById("_AssetSearchPlugin_INSTANCE_rbJEpPKqmqSg_espaciosNaturales") !== null) {
+		    document.getElementById("_AssetSearchPlugin_INSTANCE_rbJEpPKqmqSg_espaciosNaturales").classList.add('disabled');
+		}
+
+		$('#select-dinamically').addClass('evr-selectmenu--disabled');
+		$('#_AssetSearchPlugin_INSTANCE_rbJEpPKqmqSg_espaciosNaturales').children('option:not(:first)').remove();
+		var msg = {"operacion": "clean"}
+	    if (document.getElementById("ifr") !== null) {
+	        document.getElementById("ifr").contentWindow.postMessage(msg, '*');
+	    }
+		//Clear Equipamiento multiselect
+		$("[data-clear]")[0].click();
+		if(document.getElementById('_AssetSearchPlugin_INSTANCE_rbJEpPKqmqSg_category2').selectedIndex >= 0){
+            $("#_AssetSearchPlugin_INSTANCE_rbJEpPKqmqSg_category2 > option").each(function() {
+                 this.removeAttribute("selected");
+            });
+        }
+		resetFormsCookies();
+		if(typeof search !== 'undefined' && search){
+			$('#_AssetSearchPlugin_INSTANCE_rbJEpPKqmqSg_searchButton')[0].click();
+		}
+		desbloquearBotones();
+	}
+
+	function initSelectMenu() {
+		var $allSelectmenu = $('[data-selectmenu]');
+		if ($allSelectmenu.length > 0) {
+			$allSelectmenu.each(function() {
+				var $this = $(this), $parent = $this
+						.parents('.evr-selectmenu__ipt').length > 0 ? $this
+						.parents('.evr-selectmenu__ipt') : $this
+						.parents('.evr-selectmenu');
+				$this.selectmenu({
+					appendTo : $parent
+				});
+			})
+		}
+	}
+
+	function ordenateFields(){
+        var sortSelectOptions = function(select, order){
+            if(order === 'asc'){
+                if($(select).attr("name").indexOf("Tipo de Equipamiento") > -1){
+                    var elements = $(select).children('option').get();
+                }
+                else{
+                    var elements = $(select).children('option').not(':first').get();
+                }
+                elements.sort(function(elm1, elm2){
+                    return $(elm1).text().trim().localeCompare($(elm2).text().trim());
+                });
+
+                $(select).append(elements);
+            }else if(order === 'desc'){
+                if($(select).attr("name").indexOf("Tipo de Equipamiento") > -1){
+                    var elements = $(select).children('option').get();
+                }
+                else{
+                    var elements = $(select).children('option').not(':first').get();
+                }
+
+                elements.sort(function(elm1, elm2){
+                    return $(elm2).text().trim().localeCompare($(elm1).text().trim());
+                });
+
+                $(select).append(elements);
+            }
+        };
+
+		$('select').each(function() {
+				var select = $(this);
+		        sortSelectOptions(select, 'asc');
+		});
+	}
+
+	function storeSearchCookies(){
+	    bloquearBotonesBL();
+        //console.log("STOP FLAG!! "+ stopFlag);
+	    if (stopFlag){
+	    	window.stop();
+		}
+        $(".text-center").each(function( index ) {
+            $(this).css("display","block");
+        });
+		setTimeout(function() {
+		    //console.log("******************************************** 1");
+            //PROVINCIA
+            $.cookie('cookieSearchCategory1', document.getElementById('_AssetSearchPlugin_INSTANCE_rbJEpPKqmqSg_category1').value, { path: '/' });
+            //TIPO ESPACIO NATURAL
+            $.cookie('cookieSearchCategory0', document.getElementById('_AssetSearchPlugin_INSTANCE_rbJEpPKqmqSg_category0').value, { path: '/' });
+            //NOMBRE ESPACIO NATURAL y TEXT
+            $.cookie('cookieSearchCategoryEspaciosNaturales', document.getElementById('_AssetSearchPlugin_INSTANCE_rbJEpPKqmqSg_espaciosNaturales').value, { path: '/' });
+            $.cookie('cookieSearchCategoryEspaciosNaturalesNombre', document.getElementById('_AssetSearchPlugin_INSTANCE_rbJEpPKqmqSg_espaciosNaturales-button').getElementsByClassName('ui-selectmenu-text')[0].textContent, { path: '/' });
+            //TEXTO
+            $.cookie('cookieSearchCategorySearchTextInput', document.getElementById('_AssetSearchPlugin_INSTANCE_rbJEpPKqmqSg_searchTextInput').value, { path: '/' });
+            //CHECK
+            $.cookie('cookieSearchCategoryCheck', document.getElementById('check').checked, { path: '/' });
+			$.cookie('searchFromCookies',true,{path:'/'});
+            //console.log("******************************************** 2");
+            //EQUIPAMIENTOS MULTIPLE
+            var equipamientosArray= $('#_AssetSearchPlugin_INSTANCE_rbJEpPKqmqSg_category2').val();
+            var equipamientosString = "";
+            if (equipamientosArray != null){
+				for (i = 0; i < equipamientosArray.length; i++) {
+				equipamientosString += equipamientosArray[i]+"_";
+				}
+				desbloquearBotones();
+                desbloquearBotonesBL();
+			}
+            $.cookie('cookieSearchCategoryEquipamientos', equipamientosString, { path: '/' });
+            //console.log("******************************************** 3");
+            desbloquearBotones();
+            desbloquearBotonesBL();
+        }, 2000);
+        //console.log("******************************************** 4");
+	}
+
+	function executeSearchFromCookies(){
+	    bloquearBotonesBL();
+	    bloquearBotones();
+	    let doSearch = false;
+	    //PROVINCIA
+        if(typeof $.cookie('cookieSearchCategory1') !== 'undefined' && $.cookie('cookieSearchCategory1') !== "0") {
+            document.getElementById('_AssetSearchPlugin_INSTANCE_rbJEpPKqmqSg_category1').value = $.cookie('cookieSearchCategory1');
+            if(document.getElementById('_AssetSearchPlugin_INSTANCE_rbJEpPKqmqSg_category1').selectedIndex >= 0){
+                document.getElementById('_AssetSearchPlugin_INSTANCE_rbJEpPKqmqSg_category1-button').getElementsByClassName('ui-selectmenu-text')[0].textContent = document.getElementById('_AssetSearchPlugin_INSTANCE_rbJEpPKqmqSg_category1').options[document.getElementById('_AssetSearchPlugin_INSTANCE_rbJEpPKqmqSg_category1').selectedIndex].text;
+            }
+            doSearch = true;
+	    }
+
+	    //TIPO ESPACIO NATURAL
+        if(typeof $.cookie('cookieSearchCategory0') !== 'undefined' && $.cookie('cookieSearchCategory0') !== "0"){
+            document.getElementById('_AssetSearchPlugin_INSTANCE_rbJEpPKqmqSg_category0').value = $.cookie('cookieSearchCategory0');
+            if(document.getElementById('_AssetSearchPlugin_INSTANCE_rbJEpPKqmqSg_category0').selectedIndex >= 0){
+                document.getElementById('_AssetSearchPlugin_INSTANCE_rbJEpPKqmqSg_category0-button').getElementsByClassName('ui-selectmenu-text')[0].textContent = document.getElementById('_AssetSearchPlugin_INSTANCE_rbJEpPKqmqSg_category0').options[document.getElementById('_AssetSearchPlugin_INSTANCE_rbJEpPKqmqSg_category0').selectedIndex].text;
+            }
+            updateSubCategory('Tipos de Espacios Naturales', 'category0');
+            doSearch = true;
+        }
+
+
+	    //TEXTO
+        if(typeof $.cookie('cookieSearchCategorySearchTextInput') !== 'undefined' && $.cookie('cookieSearchCategorySearchTextInput') !== ""){
+            desbloquearBotones();
+            desbloquearBotonesBL();
+	        document.getElementById('_AssetSearchPlugin_INSTANCE_rbJEpPKqmqSg_searchTextInput').value =$.cookie('cookieSearchCategorySearchTextInput');
+	        doSearch = true;
+        }
+
+	    //CHECK
+	    if (($.cookie('cookieSearchCategoryCheck') == "true" || $.cookie('cookieSearchCategoryCheck') == "false") && ""+document.getElementById('check').checked != $.cookie('cookieSearchCategoryCheck')){
+	        document.getElementById('check').click();
+	        doSearch = true;
+	    }
+	    //EQUIPAMIENTOS
+        if(typeof $.cookie('cookieSearchCategoryEquipamientos') !== 'undefined' && $.cookie('cookieSearchCategoryEquipamientos') !== ""){
+            var equipamientosCookieValues = $.cookie('cookieSearchCategoryEquipamientos');
+            if(equipamientosCookieValues != "" && equipamientosCookieValues != null && equipamientosCookieValues.length > 0){
+                equipamientosCookieValues = equipamientosCookieValues.substring(0, equipamientosCookieValues.length-1);
+                $('#_AssetSearchPlugin_INSTANCE_rbJEpPKqmqSg_category2').val(equipamientosCookieValues.split("_"));
+            }
+	    	doSearch = true;
+	    }
+
+	    setTimeout(function(doSearch) {
+	    	//NOMBRE ESPACIO NATURAL y NOMBRE del campo
+	        if($("#_AssetSearchPlugin_INSTANCE_rbJEpPKqmqSg_espaciosNaturales option[value='"+$.cookie('cookieSearchCategoryEspaciosNaturales')+"']").length !== 0
+	                && $.cookie('cookieSearchCategoryEspaciosNaturales') !== "0"){
+	            doSearch = true;
+	            document.getElementById('_AssetSearchPlugin_INSTANCE_rbJEpPKqmqSg_espaciosNaturales').value = $.cookie('cookieSearchCategoryEspaciosNaturales');
+	            document.getElementById('_AssetSearchPlugin_INSTANCE_rbJEpPKqmqSg_espaciosNaturales-button').getElementsByClassName('ui-selectmenu-text')[0].textContent = $.cookie('cookieSearchCategoryEspaciosNaturalesNombre');
+	        }
+	        if(doSearch){
+	            desbloquearBotones();
+                desbloquearBotonesBL();
+	        	setTimeout(function() {
+	        	    desbloquearBotones();
+                    desbloquearBotonesBL();
+                    document.getElementById('_AssetSearchPlugin_INSTANCE_rbJEpPKqmqSg_espaciosNaturales').value=$.cookie('cookieSearchCategoryEspaciosNaturales');
+                    document.getElementById('_AssetSearchPlugin_INSTANCE_rbJEpPKqmqSg_espaciosNaturales-button').getElementsByClassName('ui-selectmenu-text')[0].textContent =$.cookie('cookieSearchCategoryEspaciosNaturalesNombre');
+	            	$('#_AssetSearchPlugin_INSTANCE_rbJEpPKqmqSg_searchButton')[0].click();
+	    		}, 2000);
+            }
+
+	    }(doSearch), 1500);
+
+
+
+	}
+
+	function resetFormsCookies(){
+
+		$.cookie('searchFromCookies',false,{path:'/'});
+        //PROVINCIA, TIPO EN, NOMBRE EN, TEXTO, CHECK, EQUIPAMIENTOS
+        $.cookie('cookieSearchCategory1', "", {path: "/"});
+        $.cookie('cookieSearchCategory0', "", {path: "/"});
+        $.cookie('cookieSearchCategoryEspaciosNaturales', "", {path: "/"});
+        $.cookie('cookieSearchCategoryEspaciosNaturalesNombre', "", {path: "/"});
+        $.cookie('cookieSearchCategorySearchTextInput', "", {path: "/"});
+        $.cookie('cookieSearchCategoryCheck', "", {path: "/"});
+        $.cookie('cookieSearchCategoryEquipamientos', "", {path: "/"});
+
+        filters_AssetSearchPlugin_INSTANCE_rbJEpPKqmqSg_.commitStateCategoryToUrl("");
+	}
+
+	
+		Liferay.Portlet.register('AssetSearchPlugin_INSTANCE_rbJEpPKqmqSg');
+	
+
+	Liferay.Portlet.onLoad(
+		{
+			canEditTitle: false,
+			columnPos: 0,
+			isStatic: 'end',
+			namespacedId: 'p_p_id_AssetSearchPlugin_INSTANCE_rbJEpPKqmqSg_',
+			portletId: 'AssetSearchPlugin_INSTANCE_rbJEpPKqmqSg',
+			refreshURL: '\x2fmedioambiente\x2fportal\x2fc\x2fportal\x2frender_portlet\x3fp_l_id\x3d17901391\x26p_p_id\x3dAssetSearchPlugin_INSTANCE_rbJEpPKqmqSg\x26p_p_lifecycle\x3d0\x26p_t_lifecycle\x3d0\x26p_p_state\x3dnormal\x26p_p_mode\x3dview\x26p_p_col_id\x3dcolumn-1\x26p_p_col_pos\x3d0\x26p_p_col_count\x3d1\x26p_p_isolated\x3d1\x26currentURL\x3d\x252Fmedioambiente\x252Fportal\x252Fweb\x252Fventanadelvisitante\x252Fbuscador-de-espacios-naturales-y-equipamientos\x253FcategoryVal\x253D',
+			refreshURLData: {}
+		}
+	);
+
+	
+		Liferay.Portlet.register('com_liferay_site_navigation_language_web_portlet_SiteNavigationLanguagePortlet');
+	
+
+	Liferay.Portlet.onLoad(
+		{
+			canEditTitle: false,
+			columnPos: 0,
+			isStatic: 'end',
+			namespacedId: 'p_p_id_com_liferay_site_navigation_language_web_portlet_SiteNavigationLanguagePortlet_',
+			portletId: 'com_liferay_site_navigation_language_web_portlet_SiteNavigationLanguagePortlet',
+			refreshURL: '\x2fmedioambiente\x2fportal\x2fc\x2fportal\x2frender_portlet\x3fp_l_id\x3d17901391\x26p_p_id\x3dcom_liferay_site_navigation_language_web_portlet_SiteNavigationLanguagePortlet\x26p_p_lifecycle\x3d0\x26p_t_lifecycle\x3d0\x26p_p_state\x3dnormal\x26p_p_mode\x3dview\x26p_p_col_id\x3dnull\x26p_p_col_pos\x3dnull\x26p_p_col_count\x3dnull\x26p_p_static\x3d1\x26p_p_isolated\x3d1\x26currentURL\x3d\x252Fmedioambiente\x252Fportal\x252Fweb\x252Fventanadelvisitante\x252Fbuscador-de-espacios-naturales-y-equipamientos\x253FcategoryVal\x253D\x26settingsScope\x3dportletInstance',
+			refreshURLData: {"categoryVal":[""]}
+		}
+	);
+
+	
+		Liferay.Portlet.register('AssetSearchPlugin_INSTANCE_globalsearchvv');
+	
+
+	Liferay.Portlet.onLoad(
+		{
+			canEditTitle: false,
+			columnPos: 0,
+			isStatic: 'end',
+			namespacedId: 'p_p_id_AssetSearchPlugin_INSTANCE_globalsearchvv_',
+			portletId: 'AssetSearchPlugin_INSTANCE_globalsearchvv',
+			refreshURL: '\x2fmedioambiente\x2fportal\x2fc\x2fportal\x2frender_portlet\x3fp_l_id\x3d17901391\x26p_p_id\x3dAssetSearchPlugin_INSTANCE_globalsearchvv\x26p_p_lifecycle\x3d0\x26p_t_lifecycle\x3d0\x26p_p_state\x3dnormal\x26p_p_mode\x3dview\x26p_p_col_id\x3dnull\x26p_p_col_pos\x3dnull\x26p_p_col_count\x3dnull\x26p_p_static\x3d1\x26p_p_isolated\x3d1\x26currentURL\x3d\x252Fmedioambiente\x252Fportal\x252Fweb\x252Fventanadelvisitante\x252Fbuscador-de-espacios-naturales-y-equipamientos\x253FcategoryVal\x253D\x26settingsScope\x3dportletInstance',
+			refreshURLData: {"categoryVal":[""]}
+		}
+	);
+Liferay.Loader.require('metal-dom/src/all/dom', 'metal-uri/src/Uri', function(metalDomSrcAllDom, metalUriSrcUri) {
+(function(){
+var dom = metalDomSrcAllDom;
+var metalUriSrcUri1 = metalUriSrcUri;
+(function() {var $ = AUI.$;var _ = AUI._;
+	var Uri = metalUriSrcUri.default;
+	var pathnameRegexp = /\/documents\/(\d+)\/(\d+)\/(.+)\/(.+)/;
+
+	var downloadClickHandler = dom.delegate(
+		document.body,
+		'click',
+		'a',
+		function(event) {
+			if (window.Analytics) {
+				var anchor = event.delegateTarget;
+				var uri = new Uri(anchor.href);
+
+				var match = pathnameRegexp.exec(uri.getPathname());
+
+				if (match) {
+					Analytics.send(
+						'documentDownloaded',
+						'Document',
+						{
+							groupId: match[1],
+							fileEntryUUID: match[4],
+							preview: !!window._com_liferay_document_library_analytics_isViewFileEntry,
+							title: decodeURIComponent(match[3].replace(/\+/ig, ' ')),
+							version: uri.getParameterValue('version')
+						}
+					);
+				}
+			}
+		}
+	);
+
+	var onDestroyPortlet = function() {
+		downloadClickHandler.removeListener()
+		Liferay.detach('destroyPortlet', onDestroyPortlet);
+	}
+
+	Liferay.on('destroyPortlet', onDestroyPortlet);
+})();})();
+},
+function(error) {
+console.error(error);
+});AUI().use('aui-tooltip', 'aui-overlay-manager', 'liferay-menu', 'liferay-notice', 'aui-modal', 'aui-base', 'liferay-session', 'liferay-poller', function(A) {(function() {var $ = AUI.$;var _ = AUI._;
+	if (A.UA.mobile) {
+		Liferay.Util.addInputCancel();
+	}
+})();(function() {var $ = AUI.$;var _ = AUI._;
+	if (!Liferay.Data.LFR_PORTAL_TOOLTIP) {
+		var triggerShowEvent = ['mouseenter', 'MSPointerDown', 'touchstart'];
+
+		if (A.UA.ios) {
+			triggerShowEvent = ['touchstart'];
+		}
+
+		Liferay.Data.LFR_PORTAL_TOOLTIP = new A.TooltipDelegate(
+			{
+				constrain: true,
+				opacity: 1,
+				trigger: '.lfr-portal-tooltip',
+				triggerHideEvent: ['click', 'mouseleave', 'MSPointerUp', 'touchend'],
+				triggerShowEvent: triggerShowEvent,
+				visible: false,
+				zIndex: Liferay.zIndex.TOOLTIP
+			}
+		);
+	}
+})();(function() {var $ = AUI.$;var _ = AUI._;
+	new Liferay.Menu();
+
+	var liferayNotices = Liferay.Data.notices;
+
+	for (var i = 1; i < liferayNotices.length; i++) {
+		new Liferay.Notice(liferayNotices[i]);
+	}
+
+	
+})();(function() {var $ = AUI.$;var _ = AUI._;
+			Liferay.Session = new Liferay.SessionBase(
+				{
+					autoExtend: true,
+					redirectOnExpire: false,
+					redirectUrl: 'https\x3a\x2f\x2fwww\x2ejuntadeandalucia\x2ees\x2fmedioambiente\x2fportal\x2fhome',
+					sessionLength: 600,
+					warningLength: 0
+				}
+			);
+
+			
+		})();(function() {var $ = AUI.$;var _ = AUI._;
+
+var navigatorCompatibility = Liferay.Browser.isIe();
+
+if(navigatorCompatibility){
+    $('#my-content-div').removeClass("hidden");
+	var dialog = new A.Modal({
+		title: "Navegador incompatible",
+		bodyContent: A.one("#my-content-div").html(),
+		headerContent: 'Navegador incompatible',
+		centered: true,
+		modal: true,
+		height: 300,
+		width: 500,
+		cssClass: 'popupCompatibility',
+		render: '#my-content-div',
+		close: true
+	});
+	dialog.render();
+}
+Liferay.on('allPortletsReady', function(){
+
+    $("#_AssetSearchPlugin_INSTANCE_rbJEpPKqmqSg_searchTextInput").keyup(function(event){
+        var codigo = event.which || event.keyCode;
+        //console.log("codigo----> "+ codigo);
+        if(codigo === 13){
+            console.log("CUMPLO CON LA CONDICION");
+            $("#_AssetSearchPlugin_INSTANCE_rbJEpPKqmqSg_searchButton").click();
+
+           // console.log("hace click en buscar");
+        }
+    })
+});
+
+})();});
+// ]]>
+</script>
+
+
+
+
+
+
+
+
+
+<script src="https://www.juntadeandalucia.es/medioambiente/portal/o/ventana-theme/js/main.js?browserId=other&amp;minifierType=js&amp;languageId=es_ES&amp;b=7010&amp;t=1636440669317" type="text/javascript"></script>
+
+
+
+
+<script type="text/javascript">
+	// <![CDATA[
+		AUI().use(
+			'aui-base',
+			function(A) {
+				var frameElement = window.frameElement;
+
+				if (frameElement && frameElement.getAttribute('id') === 'simulationDeviceIframe') {
+					A.getBody().addClass('lfr-has-simulation-panel');
+				}
+			}
+		);
+	// ]]>
+</script><script>
+	var PATH_PORTLET_CONFIGURATION_CSS_WEB = '/medioambiente/portal/o/portlet-configuration-css-web';
+
+	AUI().applyConfig(
+		{
+			groups: {
+				portlet_css: {
+					base: PATH_PORTLET_CONFIGURATION_CSS_WEB + '/js/',
+					modules: {
+						'liferay-look-and-feel': {
+							path: 'look_and_feel.js',
+							requires: [
+								'aui-color-picker-popover',
+								'aui-io-plugin-deprecated',
+								'aui-io-request',
+								'aui-tabview',
+								'liferay-portlet-url',
+								'liferay-util-window',
+								'liferay-widget-zindex'
+							]
+						}
+					},
+					root: PATH_PORTLET_CONFIGURATION_CSS_WEB + '/js/'
+				}
+			}
+		}
+	);
+
+	Liferay.provide(
+		Liferay.Portlet,
+		'loadCSSEditor',
+		function(portletId, baseActionURL, baseRenderURL, baseResourceURL) {
+			Liferay.PortletCSS.init(portletId, baseActionURL, baseRenderURL, baseResourceURL);
+		},
+		['liferay-look-and-feel']
+	);
+</script>
+<!-- Modal aviso de cookies -->
+
+
+
+
+<div tabindex="-1" role="dialog" class="ui-dialog ui-corner-all ui-widget ui-widget-content ui-front evr-cookies ui-draggable ui-resizable" aria-describedby="modal-cookies" aria-labelledby="ui-id-1" style="position: fixed; height: auto; width: 300px; top: 0px; left: 0px; z-index: 101; display: none;"><div class="ui-dialog-titlebar ui-corner-all ui-widget-header ui-helper-clearfix ui-draggable-handle"><span id="ui-id-1" class="ui-dialog-title">&nbsp;</span><button type="button" class="ui-button ui-corner-all ui-widget ui-button-icon-only ui-dialog-titlebar-close" title="Close"><span class="ui-button-icon ui-icon ui-icon-closethick"></span><span class="ui-button-icon-space"> </span>Close</button></div><div id="modal-cookies" class="evr-cookies__modal maxwidth ui-dialog-content ui-widget-content" style="width: auto; min-height: 0px; max-height: none; height: auto;">
+
+	<div class="">
+		
+		<!--  JUNTA logo -->
+		<div class="evr-cookies__header">
+			<a class="evr-cookies__log" href="https://www.juntadeandalucia.es/medioambiente/portal/web/ventanadelvisitante/" title="Ir a  Ventana del Visitante">
+				<figure class="evr-cookies__fig">
+					<img class="evr-cookies__img" alt="Ventana del Visitante" src="https://www.juntadeandalucia.es/medioambiente/portal/o/ventana-theme/images/logo_espaciosNaturales_simple.png">
+				</figure>
+			</a>
+		</div>
+	
+
+		<!--  Info Cookies -->
+		<div class="evr-cookies__body">
+			<p class="evr-cookies__description">
+Utilizamos cookies propias y de terceros y tecnologías similares para almacenar y administrar las preferencias del Usuario, enviar publicidad adaptada al Usuario, habilitar contenido y recolectar datos analíticos y de uso, así como para garantizar el correcto funcionamiento de esta web. Si continua navegando por esta web, estará aceptando su instalación en los términos indicados en nuestra 				<a class="evr-cookies__link" href="https://www.juntadeandalucia.es/medioambiente/portal/web/guest/politica-cokies" target="_blank">Política de Cookies.</a>
+			</p><p>
+
+			</p><h1 class="evr-cookies__subtitle">Opciones</h1>
+
+			<div class="evr-cookies__item">
+				<input id="cookies-general" type="checkbox" class="evr-cookies__check" checked="" disabled="">
+				<label for="cookies-general" class="evr-cookies__label">
+General					<span class="evr-cookies__checked">activado</span>
+				</label>
+				<p class="evr-cookies__info">Estas cookies son necesarias para la navegación a través de nuestra web y la utilización de las diferentes opciones o servicios que existen en ella.</p><p>
+			</p></div>
+
+			<div class="evr-cookies__item">
+				<input id="cookies-statistics" type="checkbox" class="evr-cookies__check">
+				<label for="cookies-statistics" class="evr-cookies__label">
+Estadisticas					<span class="evr-cookies__checked">activado</span>
+				</label>
+				<p class="evr-cookies__info">Este tipo de cookies nos facilitan información estadística sobre el uso que los usuarios realizan del portal, como por ejemplo, qué páginas han visitado, búsquedas, velocidad del sitio. Son utilizadas para mejorar los servicios que ofrecemos a través del portal web y medir la actividad que genera el mismo.</p><p>
+			</p></div>
+
+			<div class="evr-cookies__item">
+				<input id="cookies-customization" type="checkbox" class="evr-cookies__check">
+				<label for="cookies-customization" class="evr-cookies__label">
+Personalización					<span class="evr-cookies__checked">activado</span>
+				</label>
+				<p class="evr-cookies__info">Estas cookies permiten almacenar información sobre la dirección IP del usuario, facilitando datos sobre su geolocalización con el fin de poder ofrecer contenidos específicos de especial interés  (eventos, noticias…).</p><p>
+			</p></div>
+		</div>
+
+		<div class="evr-cookies__button-group">
+			<button id="accept-cookies" type="button" class="evr-cookies__button">Aceptar</button>
+        </div>
+	</div>
+</div><div class="ui-resizable-handle ui-resizable-n" style="z-index: 90;"></div><div class="ui-resizable-handle ui-resizable-e" style="z-index: 90;"></div><div class="ui-resizable-handle ui-resizable-s" style="z-index: 90;"></div><div class="ui-resizable-handle ui-resizable-w" style="z-index: 90;"></div><div class="ui-resizable-handle ui-resizable-se ui-icon ui-icon-gripsmall-diagonal-se" style="z-index: 90;"></div><div class="ui-resizable-handle ui-resizable-sw" style="z-index: 90;"></div><div class="ui-resizable-handle ui-resizable-ne" style="z-index: 90;"></div><div class="ui-resizable-handle ui-resizable-nw" style="z-index: 90;"></div></div></body></html>

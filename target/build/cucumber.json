@@ -1,0 +1,140 @@
+[
+  {
+    "line": 1,
+    "elements": [
+      {
+        "line": 6,
+        "name": "",
+        "description": "",
+        "type": "background",
+        "keyword": "Background",
+        "steps": [
+          {
+            "result": {
+              "duration": 331736400,
+              "status": "passed"
+            },
+            "line": 7,
+            "name": "CAPF005 - Cargando el Navegador",
+            "match": {
+              "location": "org.medioAmbiente.CAP_F_005.stepdefinition.CAP_F_005StepDefinition.Cargando_El_Post()"
+            },
+            "keyword": "Given "
+          }
+        ]
+      },
+      {
+        "start_timestamp": "2021-12-08T08:00:45.471Z",
+        "line": 19,
+        "name": "Acceso a la ficha de un Espacio Natural",
+        "description": "",
+        "id": "cap-f-005---acceso-a-la-ficha-de-un-espacio-natural;acceso-a-la-ficha-de-un-espacio-natural;;2",
+        "type": "scenario",
+        "keyword": "Scenario Outline",
+        "steps": [
+          {
+            "result": {
+              "duration": 11530883300,
+              "status": "passed"
+            },
+            "line": 11,
+            "name": "CAPF005 - Se haya cargado la pagina",
+            "match": {
+              "location": "org.medioAmbiente.CAP_F_005.stepdefinition.CAP_F_005StepDefinition.Se_Haya_Cargado_El_Blog()"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 510160500,
+              "status": "passed"
+            },
+            "line": 12,
+            "name": "CAPF005 - Aceptar las cookies",
+            "match": {
+              "location": "org.medioAmbiente.CAP_F_005.stepdefinition.CAP_F_005StepDefinition.Aceptar_Cookies()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 458777700,
+              "status": "passed"
+            },
+            "line": 13,
+            "name": "CAPF005 - Ingresar el Nombre de Usuario \"cmaot_testing\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "cmaot_testing",
+                  "offset": 41
+                }
+              ],
+              "location": "org.medioAmbiente.CAP_F_005.stepdefinition.CAP_F_005StepDefinition.Ingresar_Usuario_en_Login(java.lang.String)"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 438887700,
+              "status": "passed"
+            },
+            "line": 14,
+            "name": "CAPF005 - Ingresar la Clave de Usuario \"Liferay*21\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "Liferay*21",
+                  "offset": 40
+                }
+              ],
+              "location": "org.medioAmbiente.CAP_F_005.stepdefinition.CAP_F_005StepDefinition.Ingresar_Clave_en_Login(java.lang.String)"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 608157200,
+              "status": "passed"
+            },
+            "line": 15,
+            "name": "CAPF005 - Acceder",
+            "match": {
+              "location": "org.medioAmbiente.CAP_F_005.stepdefinition.CAP_F_005StepDefinition.Acceder_en_Login()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 24002843200,
+              "status": "passed"
+            },
+            "line": 16,
+            "name": "CAPF005 - Cambiar a \"https://www.juntadeandalucia.es/medioambiente/portal/web/ventanadelvisitante/detalle-buscador-mapa/-/asset_publisher/Jlbxh2qB3NwR/content/do-c3-b1ana-18/255035\" Especifica",
+            "match": {
+              "arguments": [
+                {
+                  "val": "https://www.juntadeandalucia.es/medioambiente/portal/web/ventanadelvisitante/detalle-buscador-mapa/-/asset_publisher/Jlbxh2qB3NwR/content/do-c3-b1ana-18/255035",
+                  "offset": 21
+                }
+              ],
+              "location": "org.medioAmbiente.CAP_F_005.stepdefinition.CAP_F_005StepDefinition.Redireccionar_a_pagina(java.lang.String)"
+            },
+            "keyword": "And "
+          }
+        ],
+        "tags": [
+          {
+            "name": "@CAP_F_005"
+          }
+        ]
+      }
+    ],
+    "name": "CAP_F_005 - Acceso a la ficha de un Espacio Natural",
+    "description": "  As un usuario registrado\n  I quiero acceder a una ficha\n  So seleccionar la ficha",
+    "id": "cap-f-005---acceso-a-la-ficha-de-un-espacio-natural",
+    "keyword": "Feature",
+    "uri": "file:src/test/resources/CAP_F_005.feature",
+    "tags": []
+  }
+]

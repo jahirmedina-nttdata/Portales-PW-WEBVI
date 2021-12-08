@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><testsuite errors="2" failures="0" name="CAP_F_015 - Buscar Contenido en la Web de Portales" skipped="0" tests="2" time="90.21" timestamp="2021-11-18 04:00:17"><testcase name="Cargando la pagina en donde se buscara"><error message="Timed out after 15 seconds. Element not found&#10;For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html&#10;Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'&#10;System info: host: 'TRJ-8YJ4473', ip: '192.168.0.12', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_301'&#10;Driver info: driver.version: unknown&#10;For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html&#10;Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'&#10;System info: host: 'TRJ-8YJ4473', ip: '192.168.0.12', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_301'&#10;Driver info: driver.version: unknown" type="org.openqa.selenium.NoSuchElementException">Timed out after 15 seconds. Element not found
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'TRJ-8YJ4473', ip: '192.168.0.12', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_301'
+Driver info: driver.version: unknown
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'TRJ-8YJ4473', ip: '192.168.0.12', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_301'
+Driver info: driver.version: unknown</error><system-err>Timed out after 15 seconds. Element not found
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'TRJ-8YJ4473', ip: '192.168.0.12', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_301'
+Driver info: driver.version: unknown
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'TRJ-8YJ4473', ip: '192.168.0.12', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_301'
+Driver info: driver.version: unknown&#13;
+org.medioAmbiente.CAP_F_015.page.CAP_F_015Page.buscarTerminoEnPortales(CAP_F_015Page.java:49)&#13;
+org.medioAmbiente.CAP_F_015.step.CAP_F_015Step.buscarTerminoEnPortales(CAP_F_015Step.java:28)&#13;
+org.medioAmbiente.CAP_F_015.stepdefinition.CAP_F_015StepDefinition.Escribir_Y_Buscar(CAP_F_015StepDefinition.java:32)&#13;
+✽.CAPF015 - Escribir "Bio" y Buscar(file:///C:/JenkinsWorkspace/workspace/Portales-PW-LFDXP/src/test/resources/CAP_F_015.feature:13)&#13;
+</system-err></testcase></testsuite>
