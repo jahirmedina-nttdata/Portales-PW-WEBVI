@@ -10,8 +10,8 @@ import org.junit.runner.RunWith;
         stepNotifications=true,
         features="src/test/resources/",
         glue="org.medioAmbiente"
-//        , tags = "(@CAP_F_056 or @CAP_F_057)"
-        , tags = "@CAP_F_005"
+//        , tags = "(@CAP_F_003 or @CAP_F_005)"
+        , tags = "@CAP_F_013"
         )
 
 public class AcceptanceTestSuite {}

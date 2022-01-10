@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Compartir la ficha de un Espacio Natural" tests="14" skipped="0" failures="0" errors="0" timestamp="2022-01-09T18:38:57" hostname="GLaDOS-VegaR5" time="46.742">
+  <properties/>
+  <testcase name="CAPF013 - Cargando el Navegador" classname="Compartir la ficha de un Espacio Natural" time="0.338"/>
+  <testcase name="CAPF013 - Se haya cargado la pagina" classname="Compartir la ficha de un Espacio Natural" time="10.769"/>
+  <testcase name="CAPF013 - Aceptar las cookies" classname="Compartir la ficha de un Espacio Natural" time="0.393"/>
+  <testcase name="CAPF013 - Ingresar el Nombre de Usuario &quot;cmaot_testing&quot;" classname="Compartir la ficha de un Espacio Natural" time="0.535"/>
+  <testcase name="CAPF013 - Ingresar la Clave de Usuario &quot;Liferay*21&quot;" classname="Compartir la ficha de un Espacio Natural" time="0.478"/>
+  <testcase name="CAPF013 - Acceder" classname="Compartir la ficha de un Espacio Natural" time="0.625"/>
+  <testcase name="CAPF013 - Cambiar a &quot;https://www.juntadeandalucia.es/medioambiente/portal/web/ventanadelvisitante/detalle-buscador-mapa/-/asset_publisher/Jlbxh2qB3NwR/content/do-c3-b1ana-18/255035&quot; Especifica" classname="Compartir la ficha de un Espacio Natural" time="20.534"/>
+  <testcase name="CAPF013 - Clickar en pestaña &quot;DATOS DE INTERÉS&quot;" classname="Compartir la ficha de un Espacio Natural" time="0.818"/>
+  <testcase name="CAPF013 - Desplazarse a &quot;OTRAS FIGURAS DE PROTECCIÓN&quot;" classname="Compartir la ficha de un Espacio Natural" time="0.759"/>
+  <testcase name="CAPF013 - Click en Figuras de Proteccion : &quot;Zona de Especial Conservación (Z.E.C.)&quot;" classname="Compartir la ficha de un Espacio Natural" time="5.075"/>
+  <testcase name="CAPF013 - Clickar en pestaña &quot;FICHA TÉCNICA&quot;" classname="Compartir la ficha de un Espacio Natural" time="1.3"/>
+  <testcase name="CAPF013 - Desplazarse a &quot;DATOS DE INTERÉS&quot;" classname="Compartir la ficha de un Espacio Natural" time="0.987"/>
+  <testcase name="CAPF013 - Click en Ficha Tecnica : &quot;Instrumentos de planificación&quot;" classname="Compartir la ficha de un Espacio Natural" time="3.781"/>
+  <testcase name="classMethod" classname="Compartir la ficha de un Espacio Natural" time="47.299"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[Starting ChromeDriver 96.0.4664.45 (76e4c1bb2ab4671b8beba3444e61c0f17584b2fc-refs/branch-heads/4664@{#947}) on port 30046
+Only local connections are allowed.
+Please see https://chromedriver.chromium.org/security-considerations for suggestions on keeping ChromeDriver safe.
+ChromeDriver was started successfully.
+Jan 09, 2022 1:38:59 PM org.openqa.selenium.remote.ProtocolHandshake createSession
+INFO: Detected dialect: W3C
+]]></system-err>
+</testsuite>

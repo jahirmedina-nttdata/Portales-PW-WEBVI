@@ -4,69 +4,97 @@ package org.medioAmbiente.CAP_F_013.page;
 import net.serenitybdd.core.pages.WebElementFacade;
 import net.thucydides.core.annotations.DefaultUrl;
 import net.thucydides.core.pages.PageObject;
-import org.openqa.selenium.Keys;
+import org.openqa.selenium.interactions.Actions;
+import org.openqa.selenium.support.FindAll;
 import org.openqa.selenium.support.FindBy;
 
+import java.util.List;
 
-@DefaultUrl("https://servintegra.cma.junta-andalucia.es/medioambiente/portal/tramites")
+
+@DefaultUrl("https://www.juntadeandalucia.es/medioambiente/portal/c/portal/login")
 
 
 public class CAP_F_013Page extends PageObject {
 
-    @FindBy(xpath = "//*[@id='mCSB_1_dragger_vertical']")
-    private WebElementFacade scrollAceptarCookies;
+    @FindBy(xpath = "//input[@id=\"_com_liferay_login_web_portlet_LoginPortlet_login\"]")
+    private WebElementFacade txtFieldNombre;
 
-    @FindBy(xpath = "//*[@id='accept-cookies']")
-    private WebElementFacade btnAceptarCookies;
+    @FindBy(xpath = "//input[@id=\"_com_liferay_login_web_portlet_LoginPortlet_password\"]")
+    private WebElementFacade txtFieldPassword;
 
-    @FindBy(xpath = "//*[@id=\"_AssetSearchPlugin_INSTANCE_UrW3Fsd7dldJ_searchTextInputMinimize\"]")
-    private WebElementFacade txtFieldBuscador;
+    @FindBy(xpath = "/html/body/div[1]/div[1]/section/div[1]/div/div/div/section/div/div/div/div/form/fieldset/div[2]/button")
+    private WebElementFacade btnAcceder;
 
-    @FindBy(xpath = "//*[@id=\"_AssetSearchPlugin_INSTANCE_k4AFpXuQNU0N_startDate\"]")
-    private WebElementFacade txtDesdeFecha;
+    @FindAll(@FindBy(xpath = "//div[@class=\"scrtabs-tabs-fixed-container\"]//div[@class=\"scrtabs-tabs-movable-container\"]//ul[@class=\"lfr-nav nav nav-tabs \"]//li"))
+    private List<WebElementFacade> btnsPestanas;
 
-    @FindBy(xpath = "//*[@id=\"_AssetSearchPlugin_INSTANCE_k4AFpXuQNU0N_endDate\"]")
-    private WebElementFacade txtHastaFecha;
+    @FindAll(@FindBy(xpath = "//span[@class=\"evr-panel-content__title\"]"))
+    private List<WebElementFacade> titlesElements;
 
-    @FindBy(xpath = "/html/body/div[1]/div[1]/section/div/div[1]/div/div/div/section/div/div/div/div/div/section/div/form/div[2]/div[2]/label")
-    private WebElementFacade btnDesplegarBusquedaAvanzada;
+    @FindAll(@FindBy(xpath = "//div[@class=\"evr-panel-protection evr-panel-content__container reflex-container-full tab-pane\"]//ul[@class=\"evr-panel-protection__container-btn\"]//li[@class=\"evr-panel-protection__btn\"]"))
+    private List<WebElementFacade> cardsFigurasDeProteccion;
 
-    @FindBy(xpath = "/html/body/div[1]/div[1]/section/div/div[1]/div/div/div/section/div/div/div/div/div/section/div/form/div[2]/button[1]")
-    private WebElementFacade btnBuscar;
+    @FindAll(@FindBy(xpath = "//div[@class=\"evr-panel-data-sheet evr-panel-content__container reflex-container-full tab-pane\"]//ul[@class=\"evr-panel-data-sheet__list\"]//li[@class=\"evr-panel-data-sheet__list-item\"]"))
+    private List<WebElementFacade> cardsFichaTecnica;
 
-    @FindBy(xpath = "/html/body/div[1]/div[1]/section/div/div[1]/div/div/div/section/div/div/div/div/div/section/div/form/div[2]/div[2]/div/div[2]/div/div[1]/span")
-    private WebElementFacade dropDownTemaAmbiental;
-
-    public void interacturaScrollAceptarCookies() throws InterruptedException {
-        scrollAceptarCookies.click();
+    public void escribirNombreDeUsuario(String xTexto) throws InterruptedException {
+        txtFieldNombre.sendKeys(xTexto);
     }
 
-    public void aceptarCookies() throws InterruptedException {
-        btnAceptarCookies.click();
+    public void escribirClaveDeUsuario(String xTexto) throws InterruptedException {
+        txtFieldPassword.sendKeys(xTexto);
     }
 
-    public void buscarTerminoEnPortales(String txtBusqueda) throws InterruptedException {
-        txtFieldBuscador.sendKeys(txtBusqueda + Keys.ENTER);
+    public void accederLogin() throws InterruptedException {
+        btnAcceder.click();
     }
 
-    public void clickarDesplegarBusquedaAvanzada() throws InterruptedException {
-        Thread.sleep(1000);
-        btnDesplegarBusquedaAvanzada.click();
+    public void clickPestanas(String entradaTexto) throws InterruptedException {
+        for(int ii = 0; ii < btnsPestanas.size(); ii ++){
+            WebElementFacade currentElement = btnsPestanas.get(ii);
+            if(entradaTexto.equals(currentElement.getAttribute("innerText"))){
+                currentElement.click();
+                break;
+            }
+        }
     }
 
-    public void escribirDesdeFecha(String txtDesde) throws InterruptedException {
-        txtDesdeFecha.sendKeys(txtDesde + Keys.ENTER);
+    public void desplazarATitulo(String entradaTexto) throws InterruptedException {
+        Actions actions = new Actions(getDriver());
+
+        for(int ii = 0; ii < titlesElements.size(); ii ++){
+            WebElementFacade currentElement = titlesElements.get(ii);
+            if(entradaTexto.equals(currentElement.getAttribute("innerText"))){
+
+                actions.moveToElement(currentElement);
+                actions.perform();
+
+                break;
+            }
+        }
     }
 
-    public void clickarBotonBuscar() throws InterruptedException {
-        btnBuscar.click();
+    public void clickCardFigurasDeProteccion(String entradaTexto) throws InterruptedException {
+        for(int ii = 0; ii < cardsFigurasDeProteccion.size(); ii ++){
+            WebElementFacade currentElement = cardsFigurasDeProteccion.get(ii);
+            String currentInnerText = currentElement.getAttribute("innerText");
+            if(currentInnerText.contains(entradaTexto)){
+                currentElement.click();
+                break;
+            }
+        }
     }
 
-    public void escribirHastaFecha(String txtHasta) throws InterruptedException {
-        txtHastaFecha.sendKeys(txtHasta + Keys.ENTER);
+    public void clickCardsFichaTecnica(String entradaTexto) throws InterruptedException {
+        for(int ii = 0; ii < cardsFichaTecnica.size(); ii ++){
+            WebElementFacade currentElement = cardsFichaTecnica.get(ii);
+            String currentInnerText = currentElement.getAttribute("innerText");
+            if(currentInnerText.contains(entradaTexto)){
+                currentElement.click();
+                break;
+            }
+        }
     }
 
-    public void clickDropDownTemaAmbiental() throws InterruptedException {
-        dropDownTemaAmbiental.click();
-    }
+
 }
